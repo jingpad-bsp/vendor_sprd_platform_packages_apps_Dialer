@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="low_battery_warning_title">"Advertencia de Batería Baja"</string>
+<string name="low_battery_warning_message">"El nivel de su batería está por debajo del 15%. ¿Desea continuar con la videollamada o convertirla en llamada de voz?"</string>
+<string name="low_battery_continue_video_call">"Sí"</string>
+<string name="low_battery_convert_to_voice_call">"Convertir"</string>
+<string name="call_cannot_be_sent">"No se puede enviar la llamada"</string>
+<string name="activity_not_security">"No tiene derechos de acceso para esta aplicación."</string>
+</resources>

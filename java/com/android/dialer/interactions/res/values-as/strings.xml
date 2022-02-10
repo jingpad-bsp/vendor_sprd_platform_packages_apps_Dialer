@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="sms_disambig_title">"নম্বৰ নিৰ্বাচন কৰক।"</string>
+<string name="call_disambig_title">"নম্বৰ নিৰ্বাচন কৰক।"</string>
+<string name="make_primary">"এই নিৰ্বাচন টো মনত ৰাখিব।"</string>
+</resources>

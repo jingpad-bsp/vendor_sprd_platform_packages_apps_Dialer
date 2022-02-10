@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="voice_call">"ধ্বনি কল"</string>
+<string name="video_call">"ভিডিঅ’ কল"</string>
+<string name="add_to_contacts">"কণ্টেক্ট যোগ কৰক"</string>
+<string name="send_a_message">"বাৰ্তা"</string>
+<string name="not_spam">"স্পাম নোহোৱা"</string>
+<string name="block_number">"প্ৰতিবন্ধক"</string>
+<string name="unblock_number">"অনৱৰোধ"</string>
+<string name="block_and_optionally_report_spam">"ব্ল’ক/স্পাম ৰিপৰ্ট"</string>
+<string name="copy_number">"নম্বৰ কপি কৰক"</string>
+</resources>

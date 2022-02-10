@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="network_name_wifi">"Wifi"</string>
+<string name="network_name_mobile">"ମୋବାଇଲ"</string>
+<string name="content_description_overflow">"ଅଧିକ ବିକଳ୍ପ"</string>
+<string name="snackbar_undo">"ଫୂର୍ବବତ"</string>
+<string name="ok_got_it">"ଓକେ, ପାଇଲି"</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="low_battery_warning_title">"Lage Batterij Waarschuwing"</string>
+<string name="low_battery_warning_message">"Je batterijvermogen is lager dan 15% .Wil je doorgaan met de video-oproep of overschakelen naar spraakoproep?"</string>
+<string name="low_battery_continue_video_call">"Ja"</string>
+<string name="low_battery_convert_to_voice_call">"Converteer"</string>
+<string name="call_cannot_be_sent">"Oproep kan niet worden verzonden"</string>
+<string name="activity_not_security">"Geen toegangsrechten voor deze app."</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="unknown">"ଅଜଣା"</string>
+<string name="unknown_counter">" <xliff:g id="unknown">%1$s</xliff:g> <xliff:g id="id">%2$d</xliff:g> "</string>
+<string name="payphone">"ପେଫୋନ"</string>
+<string name="emergency_number">"ଜରୁରୀ ନମ୍ବର"</string>
+<string name="launcherActivityLabel">"ଫୋନ"</string>
+<string name="call">"କଲ୍‍"</string>
+<string name="video_call_lte_to_wifi_handover_toast">"Wi-Fi ବ୍ୟବହାର କରି କଲ୍‍ ଜାରି ରହିଛି..."</string>
+<string name="rtt_call_not_available_toast">"ଏହି କଲ୍‍ ପାଇଁ RTT ଉପଲବ୍ଧ ନାହିଁ"</string>
+<string name="call_subject_type_and_number">" <xliff:g example="Mobile" id="type">%1$s</xliff:g> <xliff:g example="(650) 555-1212" id="number">%2$s</xliff:g> "</string>
+</resources>

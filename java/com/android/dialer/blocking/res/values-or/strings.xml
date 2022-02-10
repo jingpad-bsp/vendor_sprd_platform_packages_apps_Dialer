@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="migrate_blocked_numbers_dialog_title">"ନୂତନ ସରଳିକରଣ ଅବରୋଧ"</string>
+<string name="migrate_blocked_numbers_dialog_message">"ଆପଣଙ୍କୁ ଭଲ ସୁରକ୍ଷା ପାଇଁ, ଅବରୋଧ କିପରି କା କରୁଛି ଜାଣିବା ପାଇଁ ଫୋନ୍କୁ ବଦଳିବା ଜରୁରୀ|ଆପଣଙ୍କ ଅବରୁଧ ନମ୍ବର ଏବେ କଲ ଏବଂ ଟେକ୍ସ୍ଟ ଉଭୟଙ୍କୁ ବନ୍ଦ କରିଦେବେ ଏବଂ ଅନ୍ୟ ଏପ ସହିତ ସେୟାର କରି ପାରିବେ|"</string>
+<string name="migrate_blocked_numbers_dialog_allow_button">"ଅନୁମତି ଦିଅନ୍ତୁ"</string>
+<string name="old_block_number_confirmation_title">"<xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> ବ୍ଲକ କରିବେ କି? "</string>
+<string name="block_number_confirmation_message_vvm">"ଏହି ନମ୍ବର ରୁ ଆସୁଥିବା କଲ୍‍  ଅବରୋଧ ହୋଇଯିବ ଏବଂ ଭଏସ ମେଲ ଆପେ ହଟିଯିବ|"</string>
+<string name="block_number_confirmation_message_no_vvm">"ଏହି ନମ୍ବର ରୁ ଆସୁଥିବା କଲ୍‍  ଅବରୋଧ ହୋଇଯିବ କିନ୍ତୁ କଲର ଭଏସ ମେଲ ପଠେଇବାକୁ ସକ୍ଷମ ହେବେ"</string>
+<string name="block_number_confirmation_message_new_filtering">"ଆଉ ଆପଣ ଏହି ନମ୍ବରରୁ କଲ କିମ୍ବା ଟେକ୍ସ୍ଟ ପାଇବେ ନାହିଁ"</string>
+<string name="block_number_ok">"ବ୍ଲକ୍‌"</string>
+<string name="unblock_number_confirmation_title">" <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> ଅନ୍‍ବ୍ଲକ କରିବେ କି? "</string>
+<string name="unblock_number_ok">"ଅନବ୍ଲକ୍"</string>
+<string name="invalidNumber">" <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> ବୈଧ ନୁହେ. "</string>
+<string name="snackbar_number_blocked">" <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> ବ୍ଲକ୍‍ ହୋ‍ଇଛି "</string>
+<string name="snackbar_number_unblocked">" <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g>ଅନ୍‍ବ୍ଲକ ହୋ‍ଇଛି "</string>
+<string name="send_to_voicemail_import_failed">"ଆଦାନ ଫେଲ ହୋଇଗଲା"</string>
+<string name="call_blocking_disabled_notification_title">"କଲ ଅବରୋଧ 48 ଘଣ୍ଟା ପାଇଁ ଅକ୍ଷମ"</string>
+<string name="call_blocking_disabled_notification_text">"ଏକ ଜରୁରି କଲ କରିଥିବାରୁ ଅକ୍ଷମ"</string>
+</resources>

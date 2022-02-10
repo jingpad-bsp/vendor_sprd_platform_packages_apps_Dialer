@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="low_battery_warning_title">"ဘက်ထရီနည်းနေကြောင်း သတိပေးချက်"</string>
+<string name="low_battery_warning_message">"သင့်ဘက်ထရီပမာဏသည် 15% အောက် ရောက်နေသည်။ ဗီဒီယိုဖုန်းခေါ်ဆိုမှုကို သင် ဆက်လုပ်လိုပါသလား သို့မဟုတ် အသံပေးပို့ ခေါ်ဆိုခြင်းသို့ ပြောင်းလိုပါသလား။"</string>
+<string name="low_battery_continue_video_call">"မှန်သည်"</string>
+<string name="low_battery_convert_to_voice_call">"ပြောင်းပါ"</string>
+<string name="call_cannot_be_sent">"ခေါ်ဆိုမှုကို ပို့၍ မရပါ"</string>
+<string name="activity_not_security">"ဤအပလီကေးရှင်းအတွက် ဝင်သုံးခွင့်များ မရှိပါ။"</string>
+</resources>

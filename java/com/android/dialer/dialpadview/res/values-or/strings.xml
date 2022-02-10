@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="description_dialpad_back">"ପଛ"</string>
+<string name="description_dialpad_overflow">"ଅଧିକ ବିକଳ୍ପ"</string>
+<string name="description_delete_button">"ବ୍ୟାକସ୍ପେସ୍"</string>
+<string name="description_image_button_plus">"ଡାୟାଲ ପ୍ଲସ୍‍"</string>
+<string name="description_voicemail_button">"ଭଏସ୍‌‌ମେଲ୍‌ କଲ୍‍ କରନ୍ତୁ"</string>
+<string name="description_dial_button">"ଡ଼ାଏଲ୍‌"</string>
+<string name="dialog_voicemail_airplane_mode_message">"ଭଏସ୍‌ମେଲ କଲ୍‌ କରିବାକୁ, ପ୍ରଥମେ ଏଆରପ୍ଲେନ ମୋଡ଼କୁ ବନ୍ଦ କରନ୍ତୁ |"</string>
+<string name="dialog_voicemail_not_ready_message">"ଭଏସ୍‍ ମେଲ୍‍ ସେଟ୍‍ଅପ୍‍ କରିବା ପାଇଁ, ମେନ୍ୟୁ&gt;ସେଟିଂସ୍‍ କୁ ଯାଆନ୍ତୁ."</string>
+<string name="add_2sec_pause">"2-ସେକେଣ୍ଡ ପଜ୍‌‍ ଯୋଗକରନ୍ତୁ"</string>
+<string name="add_wait">"ୱେଟ୍‌ ଯୋଗକରନ୍ତୁ"</string>
+<string name="dialer_useDtmfDialpad">"ଟାଚ୍‍-ଟୋନ୍‍ କିପ୍ୟାଡ ବ୍ୟବହାର କରନ୍ତୁ"</string>
+<string name="dialer_returnToInCallScreen">"ପ୍ରୋଗ୍ରେସ୍‌ରେ ଥିବା କଲ୍‌କୁ ପେରନ୍ତୁ"</string>
+<string name="dialer_addAnotherCall">"କଲ୍‌ ଯୋଗକରନ୍ତୁ"</string>
+<string name="simContacts_emptyLoading">"SIM କାର୍ଡ଼ରୁ ଲୋଡ଼କରୁଛି..."</string>
+<string name="simContacts_title">"SIM କାର୍ଡ଼ ଯୋଗାଯୋଗ ଗୁଡ଼ିକ"</string>
+<string name="menu_callNumber">"<xliff:g id="number">%s</xliff:g> କଲ୍‌କରନ୍ତୁ"</string>
+<string name="dialpad_hint_emergency_calling_not_available">"WiFi ରେ ଜରୁରୀ କଲ୍‍ଗୁଡ଼ିକ କରିପାରିବ ନାହିଁ"</string>
+<string name="dialog_phone_call_prohibited_message">"ଏହି ନମ୍ବରକୁ କଲ୍‌ କରିପାରିବେ ନାହିଁ"</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="low_battery_warning_title">"Akun vähäinen taso hälytys"</string>
+<string name="low_battery_warning_message">"Akun taso on alle 15%. Haluatko jatkaa videopuhelua tai vaihtaa tavalliseen puheluun?"</string>
+<string name="low_battery_continue_video_call">"Kyllä"</string>
+<string name="low_battery_convert_to_voice_call">"Vaihda"</string>
+<string name="call_cannot_be_sent">"Puhelua ei voi lähettää"</string>
+<string name="activity_not_security">"Ei käyttöoikeuksia tälle sovellukselle."</string>
+</resources>

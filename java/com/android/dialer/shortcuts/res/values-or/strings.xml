@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="dialer_shortcut_disabled_message">"ସର୍ଟ କଟ କାମ କରୁ ନାହିଁ| ହଟେଇବାକୁ ତଳକୁ ଟାଣ"</string>
+<string name="dialer_shortcut_contact_not_found_or_has_no_number">"ସଂପର୍କ ଆଉ ଉପଲବ୍ଧ ନାହିଁ"</string>
+<string name="dialer_shortcut_no_permissions">"ଅନୁମତି ବିନା କଲ୍‍ କରିହେବ ନାହିଁ|"</string>
+</resources>

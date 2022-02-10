@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="pre_call_select_phone_account_hint_intra_carrier">"ସମାନ କ୍ୟାରିୟର ବ୍ୟବହାର କରେ"</string>
+<string name="pre_call_select_phone_account_hint_frequent">"ତାଜା ବ୍ୟବହୃତ"</string>
+</resources>

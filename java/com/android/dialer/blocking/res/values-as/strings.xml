@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="migrate_blocked_numbers_dialog_title">"নতুন, সৰলীকৃত অৱৰোধ"</string>
+<string name="migrate_blocked_numbers_dialog_message">"আপোনাক ভালদৰে সুৰক্ষিত কৰিবলৈ,কেনেকৈ অৱৰোধে কাম কৰে সেইটো ফোনটোৱে সলনি কৰাটো প্ৰয়োজন। আপুনি অৱৰোধ কৰা নম্বৰসমূহৰ পৰা কল আৰু টেক্সট দুয়োটাই বন্ধ হ\'ব আৰু আন এপ্পৰ সৈতে ভাগ-বতৰা কৰিব পাৰে।"</string>
+<string name="migrate_blocked_numbers_dialog_allow_button">"অনুমতি দিয়া হওঁক"</string>
+<string name="old_block_number_confirmation_title">"<xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g>-ক অৱৰোধ কৰিব? "</string>
+<string name="block_number_confirmation_message_vvm">"এই নম্বৰৰ পৰা অহা কল অৱৰোধ কৰা হ\'ব আৰু ভইচমেইলবোৰ স্বয়ংক্ৰিয়ভাবে বিলোপ কৰা হ\'ব। "</string>
+<string name="block_number_confirmation_message_no_vvm">"এই নম্বৰৰ পৰা অহা কল অৱৰোধ কৰা হ\'ব কিন্তু কল কৰোতাই তথাপিও আপোনাৰ বাবে ভইচমেইল ৰাখিব পাৰিব। "</string>
+<string name="block_number_confirmation_message_new_filtering">"এই নম্বৰৰ পৰা আপুনি আৰু কল বা টেক্সট প্ৰাপ্ত নকৰে।"</string>
+<string name="block_number_ok">"প্ৰতিবন্ধক"</string>
+<string name="unblock_number_confirmation_title">"<xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g>-ক অনৱৰোধ কৰিব? "</string>
+<string name="unblock_number_ok">"অনৱৰোধ"</string>
+<string name="invalidNumber">" <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> অবৈধ। "</string>
+<string name="snackbar_number_blocked">" <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> অৱৰোধ কৰা হ’ল "</string>
+<string name="snackbar_number_unblocked">" <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g>অনৱৰোধ কৰা হ’ল "</string>
+<string name="send_to_voicemail_import_failed">"আমদানি ব্যৰ্থ হ\'ল"</string>
+<string name="call_blocking_disabled_notification_title">"কল অৱৰোধ 48 ঘণ্টাৰ বাবে অক্ষম কৰা হৈছে"</string>
+<string name="call_blocking_disabled_notification_text">"অক্ষম কৰা হৈছে কাৰণ জৰুৰী কল কৰা হৈছিল। "</string>
+</resources>

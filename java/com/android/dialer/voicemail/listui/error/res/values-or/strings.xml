@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="voicemail_error_activating_title">"ଭିଜୁଆଲ ଭଏସ ମେଲ ସକ୍ରିୟ କରନ୍ତୁ"</string>
+<string name="voicemail_error_activating_message">"ଆପଣଙ୍କୁ ଭଏସ ମେଲ ଅଧିସୂଚନା ପ୍ରାପ୍ତ ନହେଇପାରେ, ଯେବେ ପର୍ଯ୍ୟନ୍ତ ଭିଜୁଆଲ ଭଏସ ମେଲ ପୂର୍ଣ୍ଣ ଭାବରେ ସକ୍ରିୟ ହୋଇନଯାଏ|ଭଏସ ମେଲ ପୂର୍ଣ୍ଣ ଭାବରେ ସକ୍ରିୟ ହେବା ପର୍ଯ୍ୟନ୍ତ ନୂତନ ମେସେଜ କୁ ପୁଣି ଥରେ ପାଇବା ପାଇଁ ଭଏସ ମେଲ କଲ କରନ୍ତୁ|"</string>
+<string name="voicemail_error_not_activate_no_signal_title">"ଭିଜୁଆଲ ଭଏସ ମେଲ ସକ୍ରିୟ ହୋଇପାରିବ ନାହିଁ"</string>
+<string name="voicemail_error_not_activate_no_signal_message">"ଆପଣଙ୍କ ମୋବାଇଲ ନେଟୱର୍କ ସଂଯୋଗ ସୁନିଶ୍ଚିତ କରନ୍ତୁ ଏବଂ ଆଉଥରେ ଚେଷ୍ଟା କରନ୍ତୁ|"</string>
+<string name="voicemail_error_not_activate_no_signal_airplane_mode_message">"ଏୟାର ପ୍ଲେନ ମୋଡ ବନ୍ଦ କରନ୍ତୁ ଏବଂ ଆଉଥରେ ଚେଷ୍ଟା କରନ୍ତୁ"</string>
+<string name="voicemail_error_no_signal_title">"କନେକସନ ନାହିଁ"</string>
+<string name="voicemail_error_no_signal_message">"ଆପଣଙ୍କୁ ଭଏସ ମେଲ ଅଧିସୂଚନା ପ୍ରାପ୍ତ ନହେଇପାରେ,ଯଦି ଆପଣ wi-fire ଅଛନ୍ତି ତେବେ ବର୍ତ୍ତମାନ ସିଂକ କରି ଭଏସମେଲ ର ଜାଂଚ କରି ପାରିବେ|"</string>
+<string name="voicemail_error_no_signal_airplane_mode_message">"ଆପଣଙ୍କୁ ଭଏସ ମେଲ ଅଧିସୂଚନା ପ୍ରାପ୍ତ ନହେଇପାରେ|ସିଂକ କରିବା ପାଇଁ ଏୟାରପ୍ଲେନ ମୋଡ ବନ୍ଦ କର"</string>
+<string name="voicemail_error_no_signal_cellular_required_message">"ଭଏସ ମେଲ ଜାଂଚ କରିବାକୁ ଆପଣଙ୍କୁ ଫୋନ ରେ ମୋବାଇଲ ଡାଟା ଯୋଗାଯୋଗ ଆବଶ୍ୟକ |"</string>
+<string name="voicemail_error_activation_failed_title">"ଭିଜୁଆଲ ଭଏସ ମେଲ ସକ୍ରିୟ ହୋଇପାରିବ ନାହିଁ"</string>
+<string name="voicemail_error_activation_failed_message">"ଆପଣ ଏବେବି ଭଏସ ମେଲ ଜାଂଚ କରିବା ପାଇଁ କଲ କରି ପାରିବେ"</string>
+<string name="voicemail_error_no_data_title">"ଭିଜୁଆଲ ଭଏସ ମେଲ ଅପଡେଟ ହୋଇପାରିବ ନାହିଁ|"</string>
+<string name="voicemail_error_no_data_message">"ଯେତେବେଳେ ଆପଣଙ୍କ Wi-Fi କିମ୍ବା ମୋବାଇଲ ଡାଟା ଭଲ ହେବ, ସେତେବେଳେ ଆଉଥରେ ଚେଷ୍ଟା କରନ୍ତୁ| ଆପଣ ଏବେବି ଭଏସ ମେଲ ଜାଂଚ କରିବା ପାଇଁ କଲ କରି ପାରିବେ?"</string>
+<string name="voicemail_error_no_data_cellular_required_message">"ଯେତେବେଳେ ଆପଣଙ୍କ ମୋବାଇଲ ଡାଟା ଭଲ ହେବ, ସେତେବେଳେ ଆଉଥରେ ଚେଷ୍ଟା କରନ୍ତୁ| ଆପଣ ଏବେବି ଭଏସ ମେଲ ଜାଂଚ କରିବା ପାଇଁ କଲ କରି ପାରିବେ"</string>
+<string name="voicemail_error_bad_config_title">"ଭିଜୁଆଲ ଭଏସ ମେଲ ଅପଡେଟ ହୋଇପାରିବ ନାହିଁ|"</string>
+<string name="voicemail_error_bad_config_message">"ଆପଣ ଏବେବି ଭଏସ ମେଲ ଜାଂଚ କରିବା ପାଇଁ କଲ କରି ପାରିବେ"</string>
+<string name="voicemail_error_communication_title">"ଭିଜୁଆଲ ଭଏସ ମେଲ ଅପଡେଟ ହୋଇପାରିବ ନାହିଁ|"</string>
+<string name="voicemail_error_communication_message">"ଆପଣ ଏବେବି ଭଏସ ମେଲ ଜାଂଚ କରିବା ପାଇଁ କଲ କରି ପାରିବେ"</string>
+<string name="voicemail_error_server_connection_title">"ଭିଜୁଆଲ ଭଏସ ମେଲ ଅପଡେଟ ହୋଇପାରିବ ନାହିଁ|"</string>
+<string name="voicemail_error_server_connection_message">"ଆପଣ ଏବେବି ଭଏସ ମେଲ ଜାଂଚ କରିବା ପାଇଁ କଲ କରି ପାରିବେ"</string>
+<string name="voicemail_error_server_title">"ଭିଜୁଆଲ ଭଏସ ମେଲ ଅପଡେଟ ହୋଇପାରିବ ନାହିଁ|"</string>
+<string name="voicemail_error_server_message">"ଆପଣ ଏବେବି ଭଏସ ମେଲ ଜାଂଚ କରିବା ପାଇଁ କଲ କରି ପାରିବେ"</string>
+<string name="voicemail_error_inbox_near_full_title">"ଇନ୍‍ବକ୍ସ ପ୍ରାୟ ପୂରା ହୋଇଗଲାଣି"</string>
+<string name="voicemail_error_inbox_near_full_message">"ଯଦି ଆପଣଙ୍କ ଇନ୍‍ବକ୍ସ ଫୁଲ ହୋଇଯାଇଛି|ଆପଣ ନୂଆ ଭଏସ ମେଲ ପାଇ ପାରିବେ ନାହିଁ|"</string>
+<string name="voicemail_error_inbox_full_title">"ନୂଆ ଭଏସ ମେଲ ମିଳି ପାରିବ ନାହିଁ"</string>
+<string name="voicemail_error_inbox_full_message">"ଆପଣଙ୍କ ଇନ୍‍ବକ୍ସ ଫୁଲ ହୋଇଯାଇଛି|ନୂଆ ଭଏସ ମେଲ ପାଇବା ପାଇଁ କିଛି ମେସେଜ ଡିଲିଟ କରିବାକୁ ଚେଷ୍ଟା କରନ୍ତୁ|"</string>
+<string name="voicemail_error_inbox_full_turn_archive_on_title">"ଅତିରିକ୍ତ ସଞ୍ଚୟସ୍ଥାନ ଓ ବ୍ୟାକ୍‍ଅପ୍‍ ଚାଲୁ କରନ୍ତୁ"</string>
+<string name="voicemail_error_inbox_full_turn_archive_on_message">"ଆପଣଙ୍କ ମେଲବକ୍ସ ପୁରା ହେଇଗଲାଣି, ସ୍ପେସ କୁ ଖାଲି କରିବା ପାଇଁ,ଅତିରିକ୍ତ ସଂଗ୍ରହଣ ଚଲାନ୍ତୁ ଯାହା ଫଳରେ ଗୁଗଲ ଆପଣଙ୍କ ଭଏସ ମେଲ ମେସେଜ କୁ ପ୍ରବନ୍ଧିତ ଏବଂ ବ୍ୟାକ ଅପ କରି ପାରିବ|"</string>
+<string name="voicemail_error_inbox_almost_full_turn_archive_on_title">"ଅତିରିକ୍ତ ସଞ୍ଚୟସ୍ଥାନ ଓ ବ୍ୟାକ୍‍ଅପ୍‍ ଚାଲୁ କରନ୍ତୁ"</string>
+<string name="voicemail_error_inbox_almost_full_turn_archive_on_message">"ଆପଣଙ୍କ ମେଲବକ୍ସ ପୁରା ହେଇଗଲାଣି, ସ୍ପେସ କୁ ଖାଲି କରିବା ପାଇଁ,ଅତିରିକ୍ତ ସଂଗ୍ରହଣ ଚଲାନ୍ତୁ ଯାହା ଫଳରେ ଗୁଗଲ ଆପଣଙ୍କ ଭଏସ ମେଲ ମେସେଜ କୁ ପ୍ରବନ୍ଧିତ ଏବଂ ବ୍ୟାକ ଅପ କରି ପାରିବ|"</string>
+<string name="voicemail_error_pin_not_set_title">"ଏକ ଭଏସ ମେଲ ପିନ୍‍ ସେଟ କରନ୍ତୁ"</string>
+<string name="voicemail_error_pin_not_set_message">"ଯେକୌଣସି ସମୟରେ ଆପଣଙ୍କ ଭଏସ ମେଲ କୁ ବ୍ୟବହାର କରିବା ପାଇଁ ଆପଣ ଏକ ଭଏସ ମେଲ PIN ଦରକାର କରିବେ|"</string>
+<string name="voicemail_action_turn_off_airplane_mode">"ଏୟାରପ୍ଲେନ ମୋଡ ସେଟିଂ"</string>
+<string name="voicemail_action_set_pin">"PIN ସେଟ କରନ୍ତୁ"</string>
+<string name="voicemail_action_retry">"ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ"</string>
+<string name="voicemail_action_turn_archive_on">"ସକ୍ରିୟ କରନ୍ତୁ"</string>
+<string name="voicemail_action_dimiss">"ନାହିଁ ଧନ୍ୟବାଦ"</string>
+<string name="voicemail_action_sync">"ସମନ୍ଵିତ"</string>
+<string name="voicemail_action_call_voicemail">"ଭଏସ୍‌‌ମେଲ୍‌ କଲ୍‍ କରନ୍ତୁ"</string>
+<string name="voicemail_action_call_customer_support">"ଗ୍ରାହକ ସହାୟତା ରେ କଲ କରନ୍ତୁ"</string>
+<string name="vvm3_error_vms_dns_failure_title">"କିଛି ଭୂଲ ହୋଇଯାଇଛି"</string>
+<string name="vvm3_error_vms_dns_failure_message">"କ୍ଷମା କରିବେ, ଆମେ ଏକ ଅସୁବିଧାରେ ଅଛୁ,ଦୟାକରି କିଛି ସମୟ ପରେ ଚେଷ୍ଟା କରନ୍ତୁ| ଯଦି ପୁଣି ବି କିଛି ଅସୁବିଧା ଅଛି ତେବେ ଦୟାକରି ଗ୍ରାହକ ସେବା କୁ  <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> ରେ ସଂପର୍କ କରନ୍ତୁ ଏବଂ ତାଙ୍କୁ ତ୍ରୁଟି କୋଡ 9001 କୁହନ୍ତୁ|"</string>
+<string name="vvm3_error_vmg_dns_failure_title">"କିଛି ଭୂଲ ହୋଇଯାଇଛି"</string>
+<string name="vvm3_error_vmg_dns_failure_message">"କ୍ଷମା କରିବେ, ଆମେ ଏକ ଅସୁବିଧାରେ ଅଛୁ,ଦୟାକରି କିଛି ସମୟ ପରେ ଚେଷ୍ଟା କରନ୍ତୁ| ଯଦି ପୁଣି ବି କିଛି ଅସୁବିଧା ଅଛି ତେବେ ଦୟାକରି ଗ୍ରାହକ ସେବା କୁ  <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> ରେ ସଂପର୍କ କରନ୍ତୁ ଏବଂ ତାଙ୍କୁ ତ୍ରୁଟି କୋଡ 9002 କୁହନ୍ତୁ|"</string>
+<string name="vvm3_error_spg_dns_failure_title">"କିଛି ଭୂଲ ହୋଇଯାଇଛି"</string>
+<string name="vvm3_error_spg_dns_failure_message">"କ୍ଷମା କରିବେ, ଆମେ ଏକ ଅସୁବିଧାରେ ଅଛୁ,ଦୟାକରି କିଛି ସମୟ ପରେ ଚେଷ୍ଟା କରନ୍ତୁ| ଯଦି ପୁଣି ବି କିଛି ଅସୁବିଧା ଅଛି ତେବେ ଦୟାକରି ଗ୍ରାହକ ସେବା କୁ  <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> ରେ ସଂପର୍କ କରନ୍ତୁ ଏବଂ ତାଙ୍କୁ ତ୍ରୁଟି କୋଡ 9003 କୁହନ୍ତୁ|"</string>
+<string name="vvm3_error_vms_no_cellular_title">"ଆପଣଙ୍କ ଭଏସ ମେଲବକ୍ସ କୁ ସଂଯୋଗ ହୋଇ ପାରୁ ନାହିଁ|"</string>
+<string name="vvm3_error_vms_no_cellular_message">"କ୍ଷମା କରିବେ,ଆପଣଙ୍କ ଭଏସ ମେଲବକ୍ସ କୁ କନେକ୍ଟ କରିବାରେ ସମାସ୍ୟା ହେଉଛି|ଯଦି ଆପଣ ଖରାପ ସିଗ୍ନାଲ ଶକ୍ତି କ୍ଷେତ୍ର ରେ ଅଛନ୍ତି, ସେ ପର୍ଯ୍ଯନ୍ତ ଅପେକ୍ଷା କରନ୍ତୁ ଯେପର୍ଯ୍ୟନ୍ତ ଆପଣଙ୍କ ସିଗ୍ନାଲ ଆସିନି ତାପରେ ଚେଷ୍ଟା କରନ୍ତୁ ଯଦି ପୁଣି ବି କିଛି ଅସୁବିଧା ଅଛି ତେବେ ଦୟାକରି ଗ୍ରାହକ ସେବା କୁ<xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g>ରେ ସଂପର୍କ କରନ୍ତୁ ଏବଂ ଏବଂ ତାଙ୍କୁ ତ୍ରୁଟି କୋଡ 9004 କୁହନ୍ତୁ|"</string>
+<string name="vvm3_error_vmg_no_cellular_title">"ଆପଣଙ୍କ ଭଏସ ମେଲବକ୍ସ କୁ ସଂଯୋଗ ହୋଇ ପାରୁ ନାହିଁ|"</string>
+<string name="vvm3_error_vmg_no_cellular_message">"କ୍ଷମା କରିବେ,ଆପଣଙ୍କ ଭଏସ ମେଲବକ୍ସ କୁ କନେକ୍ଟ କରିବାରେ ସମାସ୍ୟା ହେଉଛି|ଯଦି ଆପଣ ଖରାପ ସିଗ୍ନାଲ ଶକ୍ତି କ୍ଷେତ୍ର ରେ ଅଛନ୍ତି, ସେ ପର୍ଯ୍ଯନ୍ତ ଅପେକ୍ଷା କରନ୍ତୁ ଯେପର୍ଯ୍ୟନ୍ତ ଆପଣଙ୍କ ସିଗ୍ନାଲ ଆସିନି ତାପରେ ଚେଷ୍ଟା କରନ୍ତୁ ଯଦି ପୁଣି ବି କିଛି ଅସୁବିଧା ଅଛି ତେବେ ଦୟାକରି ଗ୍ରାହକ ସେବା କୁ<xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g>ରେ ସଂପର୍କ କରନ୍ତୁ ଏବଂ ଏବଂ ତାଙ୍କୁ ତ୍ରୁଟି କୋଡ 9005 କୁହନ୍ତୁ|"</string>
+<string name="vvm3_error_spg_no_cellular_title">"ଆପଣଙ୍କ ଭଏସ ମେଲବକ୍ସ କୁ ସଂଯୋଗ ହୋଇ ପାରୁ ନାହିଁ|"</string>
+<string name="vvm3_error_spg_no_cellular_message">"କ୍ଷମା କରିବେ,ଆପଣଙ୍କ ଭଏସ ମେଲବକ୍ସ କୁ କନେକ୍ଟ କରିବାରେ ସମାସ୍ୟା ହେଉଛି|ଯଦି ଆପଣ ଖରାପ ସିଗ୍ନାଲ ଶକ୍ତି କ୍ଷେତ୍ର ରେ ଅଛନ୍ତି, ସେ ପର୍ଯ୍ଯନ୍ତ ଅପେକ୍ଷା କରନ୍ତୁ ଯେପର୍ଯ୍ୟନ୍ତ ଆପଣଙ୍କ ସିଗ୍ନାଲ ଆସିନି ତାପରେ ଚେଷ୍ଟା କରନ୍ତୁ ଯଦି ପୁଣି ବି କିଛି ଅସୁବିଧା ଅଛି ତେବେ ଦୟାକରି ଗ୍ରାହକ ସେବା କୁ<xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g>ରେ ସଂପର୍କ କରନ୍ତୁ ଏବଂ ଏବଂ ତାଙ୍କୁ ତ୍ରୁଟି କୋଡ 9006 କୁହନ୍ତୁ|"</string>
+<string name="vvm3_error_vms_timeout_title">"କିଛି ଭୂଲ ହୋଇଯାଇଛି"</string>
+<string name="vvm3_error_vms_timeout_message">"କ୍ଷମା କରିବେ, ଆମେ ଏକ ଅସୁବିଧାରେ ଅଛୁ,ଦୟାକରି କିଛି ସମୟ ପରେ ଚେଷ୍ଟା କରନ୍ତୁ| ଯଦି ପୁଣି ବି କିଛି ଅସୁବିଧା ଅଛି ତେବେ ଦୟାକରି ଗ୍ରାହକ ସେବା କୁ  <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> ରେ ସଂପର୍କ କରନ୍ତୁ ଏବଂ ତାଙ୍କୁ ତ୍ରୁଟି କୋଡ 9007 କୁହନ୍ତୁ|"</string>
+<string name="vvm3_error_vmg_timeout_title">"କିଛି ଭୂଲ ହୋଇଯାଇଛି"</string>
+<string name="vvm3_error_vmg_timeout_message">"କ୍ଷମା କରିବେ, ଆମେ ଏକ ଅସୁବିଧାରେ ଅଛୁ,ଦୟାକରି କିଛି ସମୟ ପରେ ଚେଷ୍ଟା କରନ୍ତୁ| ଯଦି ପୁଣି ବି କିଛି ଅସୁବିଧା ଅଛି ତେବେ ଦୟାକରି ଗ୍ରାହକ ସେବା କୁ  <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> ରେ ସଂପର୍କ କରନ୍ତୁ ଏବଂ ତାଙ୍କୁ ତ୍ରୁଟି କୋଡ 9008 କୁହନ୍ତୁ|"</string>
+<string name="vvm3_error_status_sms_timeout_title">"କିଛି ଭୂଲ ହୋଇଯାଇଛି"</string>
+<string name="vvm3_error_status_sms_timeout_message">"କ୍ଷମା କରିବେ, ଆପଣଙ୍କ ସେବା ସେଟିଂ କରିବାରେ ଏକ ସମାସ୍ୟା ର  ସମ୍ମୁଖିନ ହେଉଛୁ,ଦୟାକରି କିଛି ସମୟ ପରେ ଚେଷ୍ଟା କରନ୍ତୁ| ଯଦି ପୁଣି ବି କିଛି ଅସୁବିଧା ଅଛି ତେବେ ଦୟାକରି ଗ୍ରାହକ ସେବା କୁ  <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> ରେ ସଂପର୍କ କରନ୍ତୁ ଏବଂ ତାଙ୍କୁ ତ୍ରୁଟି କୋଡ 9009 କୁହନ୍ତୁ|"</string>
+<string name="vvm3_error_subscriber_blocked_title">"ଆପଣଙ୍କ ଭଏସ ମେଲବକ୍ସ କୁ ସଂଯୋଗ ହୋଇ ପାରୁ ନାହିଁ|"</string>
+<string name="vvm3_error_subscriber_blocked_message">"କ୍ଷମା କରିବେ, ଏହି ସମୟରେ ଆପଣଙ୍କ ଭଏସ ମେଲବକ୍ସ କୁ ସଂଯୋଗ କରିବାରେ ସକ୍ଷମ ହୋଇ ପାରୁ ନାହୁଁ|"ଦୟାକରି କିଛି ସମୟ ପରେ ଚେଷ୍ଟା କରନ୍ତୁ| ଯଦି ପୁଣି ବି କିଛି ଅସୁବିଧା ଅଛି ତେବେ ଦୟାକରି ଗ୍ରାହକ ସେବା କୁ  "<xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> ରେ ସଂପର୍କ କରନ୍ତୁ ଏବଂ ତାଙ୍କୁ ତ୍ରୁଟି କୋଡ 9990 କୁହନ୍ତୁ|"</string>
+<string name="vvm3_error_unknown_user_title">"ଭଏସ୍‍ ମେଲ୍‍ ସ୍ଥାପନ କରନ୍ତୁ"</string>
+<string name="vvm3_error_unknown_user_message">"ଭଏସ ମେଲ ଆପଣଙ୍କ ଆକାଉଣ୍ଟ ରେ ସେଟ ହୋଇନାହିଁ|ଦୟାକରି ଗ୍ରାହକ ସେବା କୁ  <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> ରେ ସଂପର୍କ କରନ୍ତୁ ଏବଂ ତାଙ୍କୁ ତ୍ରୁଟି କୋଡ 9991 କୁହନ୍ତୁ|"</string>
+<string name="vvm3_error_unknown_device_title">"ଭଏସମେଲ୍‍"</string>
+<string name="vvm3_error_unknown_device_message">"ଏହି ଉପକରଣଟି ରେ ଭିଜୁଆଲ ଭଏସ ମେଲ ବ୍ୟବହାର ହୋଇପାରିବ ନାହିଁ|ଦୟାକରି ଗ୍ରାହକ ସେବା କୁ  <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> ରେ ସଂପର୍କ କରନ୍ତୁ ଏବଂ ତାଙ୍କୁ ତ୍ରୁଟି କୋଡ 9992 କୁହନ୍ତୁ|"</string>
+<string name="vvm3_error_invalid_password_title">"କିଛି ଭୂଲ ହୋଇଯାଇଛି"</string>
+<string name="vvm3_error_invalid_password_message">"ଦୟାକରି ଗ୍ରାହକ ସେବା କୁ  <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> ରେ ସଂପର୍କ କରନ୍ତୁ ଏବଂ ତାଙ୍କୁ ତ୍ରୁଟି କୋଡ 9993 କୁହନ୍ତୁ|"</string>
+<string name="vvm3_error_mailbox_not_initialized_title">"ଦୃଶ୍ୟମାନ ଭଏସ୍‌‌ମେଲ୍‌"</string>
+<string name="vvm3_error_mailbox_not_initialized_message">"ଭିଜୁଆଲ ଭଏସ ମେଲ ସେଟ ଅପ ଶେଷ କରିବାକୁ,<xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> ରେ ସଂପର୍କ କରନ୍ତୁ ଏବଂ ତାଙ୍କୁ ତ୍ରୁଟି କୋଡ 9994 କୁହନ୍ତୁ|"</string>
+<string name="vvm3_error_service_not_provisioned_title">"ଦୃଶ୍ୟମାନ ଭଏସ୍‌‌ମେଲ୍‌"</string>
+<string name="vvm3_error_service_not_provisioned_message">"ଭିଜୁଆଲ ଭଏସ ମେଲ ସେଟ ଅପ ଶେଷ କରିବାକୁ,<xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> ରେ ସଂପର୍କ କରନ୍ତୁ ଏବଂ ତାଙ୍କୁ ତ୍ରୁଟି କୋଡ 9995 କୁହନ୍ତୁ|"</string>
+<string name="vvm3_error_service_not_activated_title">"ଦୃଶ୍ୟମାନ ଭଏସ୍‌‌ମେଲ୍‌"</string>
+<string name="vvm3_error_service_not_activated_message">"ଭଏସ୍‍ ମେଲ୍‍ ସକ୍ରିୟ କରିବାକୁ, ଦୟାକରି  <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> ରେ ଗ୍ରାହକ ସେବାକେନ୍ଦ୍ରକୁ ଯୋଗାଯୋଗ କରନ୍ତୁ ଏବଂ ସେମାନଙ୍କୁ ତ୍ରୁଟି କୋଡ 9996 କୁହନ୍ତୁ |"</string>
+<string name="vvm3_error_user_blocked_title">"କିଛି ଭୂଲ ହୋଇଯାଇଛି"</string>
+<string name="vvm3_error_user_blocked_message">"ଭିଜୁଆଲ ଭଏସ ମେଲ ସେଟ ଅପ ଶେଷ କରିବାକୁ,ଦୟାକରି <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> ରେ ସଂପର୍କ କରନ୍ତୁ ଏବଂ ତାଙ୍କୁ ତ୍ରୁଟି କୋଡ 9998 କୁହନ୍ତୁ|"</string>
+<string name="vvm3_error_subscriber_unknown_title">"ଭିଜୁଆଲ ଭଏସମେଲ ଅକ୍ଷମ"</string>
+<string name="vvm3_error_subscriber_unknown_message">"ଭିଜୁଆଲ ଭଏସ ମେଲ ସେଟ ଅପ ସକ୍ରିୟ କରିବାକୁ, ଦୟାକରି<xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> ରେ ସଂପର୍କ କରନ୍ତୁ |"</string>
+<string name="vvm3_error_imap_getquota_error_title">"କିଛି ଭୂଲ ହୋଇଯାଇଛି"</string>
+<string name="vvm3_error_imap_getquota_error_message">"ଦୟାକରି ଗ୍ରାହକ ସେବା କୁ  <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> ରେ ସଂପର୍କ କରନ୍ତୁ ଏବଂ ତାଙ୍କୁ ତ୍ରୁଟି କୋଡ 9997 କୁହନ୍ତୁ|"</string>
+<string name="vvm3_error_imap_select_error_title">"କିଛି ଭୂଲ ହୋଇଯାଇଛି"</string>
+<string name="vvm3_error_imap_select_error_message">"ଦୟାକରି ଗ୍ରାହକ ସେବା କୁ  <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> ରେ ସଂପର୍କ କରନ୍ତୁ ଏବଂ ତାଙ୍କୁ ତ୍ରୁଟି କୋଡ 9989 କୁହନ୍ତୁ|"</string>
+<string name="vvm3_error_imap_error_title">"କିଛି ଭୂଲ ହୋଇଯାଇଛି"</string>
+<string name="vvm3_error_imap_error_message">"ଦୟାକରି ଗ୍ରାହକ ସେବା କୁ  <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> ରେ ସଂପର୍କ କରନ୍ତୁ ଏବଂ ତାଙ୍କୁ ତ୍ରୁଟି କୋଡ 9999 କୁହନ୍ତୁ|"</string>
+<string name="verizon_terms_and_conditions_title">"ଭିଜୁଆଲ ଭଏସମେଲ ଅନ୍‍ କର"</string>
+<string name="verizon_terms_and_conditions_message">"<xliff:g>%1$s</xliff:g>  ଦୃଶ୍ୟମାନ ଭଏସ୍‌ମେଲ୍‌ ଚାଲୁ କରିବା ଦ୍ୱାରା ଆପଣ ଭେରିଜୋନ ଓୟାରଲେସ ନିୟମ ଓ ସର୍ତାବଳି ପ୍ରତି ସ୍ୱିକୃତ ହେଉଛନ୍ତି: \n\n<xliff:g>%2$s</xliff:g>"</string>
+<string name="dialer_terms_and_conditions_title">"ଭିଜୁଆଲ ଭଏସମେଲ ଅନ୍‍ କର"</string>
+<string name="dialer_terms_and_conditions_existing_user_title">"ନୁତନ! ଆପଣଙ୍କ ଭଏସ୍‌ମେଲ୍‌ ପଢ଼ନ୍ତୁ"</string>
+<string name="dialer_terms_and_conditions_message">"<xliff:g>%s</xliff:g>"</string>
+<string name="dialer_terms_and_conditions_1.0">"ଭଏସ୍‌ମେଲ୍‌ରେ କଲ୍‍ ନକରି, ଆପଣଙ୍କ ଭଏସ୍‌ମେଲ୍‌କୁ ଦେଖନ୍ତୁ ଏବଂ ଶୁଣନ୍ତୁ | ଆପଣଙ୍କ ଭଏସ୍‌ମେଲ୍‌ର ପ୍ରତିଲିପି Google ର ଫ୍ରୀ ପ୍ରତିଲିପି ସେବା ମାଧ୍ୟମରେ ଯୋଗାଇ ଦିଆଯାଉଛି | ଆପଣ ସେଟିଂସ୍‌ରେ ଯେକୌଣସି ସମୟରେ ଏହାକୁ ଚାଲୁ ବା ବନ୍ଧ କରିପାରିବେ | <xliff:g>%s</xliff:g> "</string>
+<string name="dialer_terms_and_conditions_existing_user">"ଆପଣଙ୍କ ଭଏସ୍‌ମେଲ୍‌ର ପ୍ରତିଲିପି ଏବେ Google ର ଫ୍ରୀ ପ୍ରତିଲିପି ସେବା ମାଧ୍ୟମରେ ଯୋଗାଇ ଦିଆଯାଉଛି | ଆପଣ ସେଟିଂସ୍‌ରେ ଯେକୌଣସି ସମୟରେ ଏହାକୁ ଚାଲୁ ବା ବନ୍ଧ କରିପାରିବେ | %s "</string>
+<string name="dialer_terms_and_conditions_for_verizon_1.0">"ଭଏସ୍‌ମେଲ୍‌ରେ କଲ୍‍ ନକରି, ଆପଣଙ୍କ ଭଏସ୍‌ମେଲ୍‌କୁ ଦେଖନ୍ତୁ ଏବଂ ଶୁଣନ୍ତୁ |"</string>
+<string name="dialer_terms_and_conditions_learn_more">"ଜାଣନ୍ତୁ:ଅଧିକ"</string>
+<string name="dialer_terms_and_conditions_existing_user_ack">"ଓକେ, ପାଇଲି"</string>
+<string name="dialer_terms_and_conditions_existing_user_decline">"ନାହିଁ ଧନ୍ୟବାଦ"</string>
+<string name="terms_and_conditions_decline_dialog_title">"ଦୃଶ୍ୟମାନ ଭଏସ୍‌ମେଲ୍‌ ଅକ୍ଷମ କରିବେ?"</string>
+<string name="verizon_terms_and_conditions_decline_dialog_message">"ଯଦି ନିୟମ ଏବଂ ସର୍ତ୍ତ କୁ ଅସ୍ୱୀକାର କରାଯିବ ତେବେ ଭିଜୁଆଲ ଭଏସମେଲ ଅକ୍ଷମ ହୋଇଯିବ"</string>
+<string name="verizon_terms_and_conditions_decline_dialog_downgrade">"ଡିଜେବଲ୍"</string>
+<string name="dialer_terms_and_conditions_decline_dialog_message">"ଯଦି ଆପଣ ଦୃଶ୍ୟମାନ ଭଏସ୍‌ମେଲ୍‌ ଅକ୍ଷମ କରନ୍ତି ତେବେ ଦୃଶ୍ୟମାନ ଭଏସ୍‌ମେଲ୍‌ ଅକ୍ଷମ ହେବ |"</string>
+<string name="dialer_terms_and_conditions_decline_dialog_downgrade">"ଡିଜେବଲ୍"</string>
+<string name="verizon_terms_and_conditions_decline_set_pin_dialog_message">"ଭଏସମେଲ କେବଳ *86 ରେ କଲ୍‍ କରି ବ୍ୟବହାର କରିହେବ|ଅଗ୍ରସର ହେବା ପାଇଁ ଏକ ନୂଆ ଭଏସମେଲ PIN ସେଟ କର"</string>
+<string name="verizon_terms_and_conditions_decline_set_pin_dialog_set_pin">"PIN ସେଟ କରନ୍ତୁ"</string>
+</resources>

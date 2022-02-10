@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="low_battery_warning_title">"Onyo la betri kuisha nguvu"</string>
+<string name="low_battery_warning_message">"Nguvu ya betri ni chini ya 15%. Unataka kuendelea na simu ya video au kugeuza kwa simu ya sauti?"</string>
+<string name="low_battery_continue_video_call">Ndio</string>
+<string name="low_battery_convert_to_voice_call">"Geuza"</string>
+<string name="call_cannot_be_sent">"Simu haiwezi kutumwa"</string>
+<string name="activity_not_security">"Hakuna haki za ufikiaji kwa programu hii."</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="block_number_confirmation_title">" <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> অৱৰুদ্ধ কৰিবনে? "</string>
+<string name="block_number_confirmation_message_new_filtering">"এই নম্বৰৰ পৰা আপুনি আৰু কল বা টেক্সট প্ৰাপ্ত নকৰে।"</string>
+<string name="block_number_ok">"প্ৰতিবন্ধক"</string>
+<string name="unblock_number_ok">"অনৱৰোধ"</string>
+<string name="block_report_number_alert_title">"ব্ল’ক <xliff:g id="number">%1$s</xliff:g>?"</string>
+<string name="block_report_number_alert_details">"আপুনি এই নম্বৰটোৰ পৰা আৰু কল বা পাঠসমূহ প্ৰাপ্ত নকৰে।"</string>
+<string name="block_number_alert_details">"<xliff:g id="text">%1$s</xliff:g> এই ক’লটো স্পাম বুলি চিনাক্ত কৰা হৈছে|"</string>
+<string name="unblock_number_alert_details">"এই নম্বৰটো আন-ব্ল’ক কৰা হ’ব আৰু স্পাম বুলি ৰিপৰ্ট কৰা নহ’ব | ভৱিষ্যতৰ ক’লসমূহ স্পাম হিচাপে চিনাক্ত কৰা নহ’ব|"</string>
+<string name="unblock_report_number_alert_title">"আন-ব্ল’ক <xliff:g id="number">%1$s</xliff:g>?"</string>
+<string name="report_not_spam_alert_button">"জনাওঁক"</string>
+<string name="report_not_spam_alert_title">"এটা ভূল ৰিপৰ্ট কৰা?" </string>
+<string name="report_not_spam_alert_details">"ভৱিষ্যতৰ ক’লসমূহ  <xliff:g id="number">%1$s</xliff:g> স্পাম হিচাপে চিনাক্ত কৰা নহ’ব|"</string>
+<string name="checkbox_report_as_spam_action">"স্পাম হিচাপে এটা ক’ল ৰিপৰ্ট কৰা"</string>
+<string name="block_number_failed_toast">"এই নম্বৰটো অৱৰোধ কৰোতে সমস্যা হৈছে"</string>
+<string name="unblock_number_failed_toast">"এই নম্বৰটো অনৱৰোধ কৰোতে সমস্যা হৈছে"</string>
+</resources>

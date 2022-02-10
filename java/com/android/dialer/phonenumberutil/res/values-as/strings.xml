@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="private_num_verizon">"সতৰ্কবাণী"</string>
+<string name="private_num_non_verizon">"ব্যক্তিগত নাম্বাৰ"</string>
+</resources>

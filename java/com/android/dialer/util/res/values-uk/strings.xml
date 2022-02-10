@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="low_battery_warning_title">"Попередження про низький заряд батареї"</string>
+<string name="low_battery_warning_message">"Рівень заряду батареї нижче 15%. Бажаєте продовжити відеодзвінки або перейти в голосовий режим?"</string>
+<string name="low_battery_continue_video_call">"Так"</string>
+<string name="low_battery_convert_to_voice_call">"Конвертувати"</string>
+<string name="call_cannot_be_sent">"Не вдалося надіслати виклик"</string>
+<string name="activity_not_security">"Немає прав на доступ для цього додатка."</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="low_battery_warning_title">"අඩු බැටරි අනතුරු ඇඟවීම"</string>
+<string name="low_battery_warning_message">"ඔබේ බැටරි මට්ටම 15%ට අඩුය. ඔබට වීඩියෝ ඇමතුම කරගෙන යාමට හෝ හඬ ඇමතුමට පරිවර්තනය කිරීමට අවශ්‍යද?"</string>
+<string name="low_battery_continue_video_call">"ඔව්"</string>
+<string name="low_battery_convert_to_voice_call">"පරිවර්තනය කරන්න"</string>
+<string name="call_cannot_be_sent">"ඇමතුම යැවිය නොහැක"</string>
+<string name="activity_not_security">"මෙම යෙදුම සඳහා පිවිසුම් හිමිකම් නැත."</string>
+</resources>

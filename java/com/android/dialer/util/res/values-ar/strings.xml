@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="low_battery_warning_title">"تحذير انخفاض البطارية"</string>
+<string name="low_battery_warning_message">"مستوى البطارية أقل من 15%. هل ترغب بالاستمرار في مكالمة الفيديو أم التحويل إلى مكالمة صوتية؟"</string>
+<string name="low_battery_continue_video_call">"Yes"</string>
+<string name="low_battery_convert_to_voice_call">"تحويل"</string>
+<string name="call_cannot_be_sent">"يتعذر إجراء المكالمة"</string>
+<string name="activity_not_security">"لا توجد حقوق وصول لهذا التطبيق."</string>
+</resources>

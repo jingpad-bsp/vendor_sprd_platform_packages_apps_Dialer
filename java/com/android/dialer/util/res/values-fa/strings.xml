@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="low_battery_warning_title">"هشدار پایین بودن باتری"</string>
+<string name="low_battery_warning_message">"شارژ باتری شما زیر 15% است. آیا تماس ویدئویی را ادامه می‌دهید یا آن را به تماس صوتی تبدیل می‌کنید؟"</string>
+<string name="low_battery_continue_video_call">بله</string>
+<string name="low_battery_convert_to_voice_call">"تبدیل"</string>
+<string name="call_cannot_be_sent">"تماس قابل‌تنظیم نیست"</string>
+<string name="activity_not_security">"هیچ حق دسترسی برای این برنامه وجود ندارد."</string>
+</resources>

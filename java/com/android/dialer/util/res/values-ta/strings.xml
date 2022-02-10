@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="low_battery_warning_title">"குறைவான பேட்டரி எச்சரிக்கை"</string>
+<string name="low_battery_warning_message">"உங்கள் பேட்டரி அளவு 15%க்கும் குறைவாக உள்ளது.நீங்கள் வீடியோ அழைப்பை தொடர விரும்புகிறீர்களா அல்லது குரல் அழைப்புக்கு மாற விரும்புகிறீர்களா?"</string>
+<string name="low_battery_continue_video_call">"ஆம்"</string>
+<string name="low_battery_convert_to_voice_call">"மாற்றவும்"</string>
+<string name="call_cannot_be_sent">"அழைப்பை அனுப்பமுடியவில்லை"</string>
+<string name="activity_not_security">"இந்த பயன்பாட்டிற்கு அணுகல் உரிமைகள் இல்லை."</string>
+</resources>

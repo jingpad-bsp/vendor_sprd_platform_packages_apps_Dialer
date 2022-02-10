@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="description_dialpad_back">"পিছলৈ নেভিগেট কৰক"</string>
+<string name="description_dialpad_overflow">"অধিক বিকল্প"</string>
+<string name="description_delete_button">"বেকস্পেচ"</string>
+<string name="description_image_button_plus">"ডায়েল প্লাচ"</string>
+<string name="description_voicemail_button">"কল ভএসমেল"</string>
+<string name="description_dial_button">"ডায়েল"</string>
+<string name="dialog_voicemail_airplane_mode_message">"ভইচমেইল ট কল কৰিবলৈ প্ৰথমে এয়াৰপ্লেন মোড বন্ধ কৰক।"</string>
+<string name="dialog_voicemail_not_ready_message">"ভইচমেইল ছেট আপ কৰিবলৈ, মেনু &gt; ছেটিংছলৈ যাওক।"</string>
+<string name="add_2sec_pause">"2- সেকেন্ড পজ্‍ সংযোগ কৰক।"</string>
+<string name="add_wait">"বেট সংযোগ কৰক।"</string>
+<string name="dialer_useDtmfDialpad">"স্পৰ্শ-ট\'ন কীপেড ব্যৱহাৰ কৰক"</string>
+<string name="dialer_returnToInCallScreen">"কল চলমান লই ঘুৰি আহক।"</string>
+<string name="dialer_addAnotherCall">"কল সংযোগ কৰক।"</string>
+<string name="simContacts_emptyLoading">"SIM কাৰ্ডৰ পৰা লোডিং\u2026"</string>
+<string name="simContacts_title">"SIM কাৰ্ডৰ সম্পৰ্ক সমূহ।"</string>
+<string name="menu_callNumber">"লৈ কল কৰক <xliff:g id="number">%s</xliff:g>"</string>
+<string name="dialpad_hint_emergency_calling_not_available">"Wi-Fi-ৰ মাধ্যমেৰে জৰুৰীকালীন কল কৰিব নোৱাৰি"</string>
+<string name="dialog_phone_call_prohibited_message">"এই নম্বৰটো কল কৰিব নোৱাৰি"</string>
+</resources>

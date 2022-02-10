@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="low_battery_warning_title">"คำเตือนแบตเตอรี่อ่อน"</string>
+<string name="low_battery_warning_message">"ระดับพลังงานแบตเตอรี่ของคุณเหลือน้อยกว่า 15% คุณต้องการโทรโดยใช้วิดีโอต่อหรือเปลี่ยนเป็นการโทรด้วยเสียง?"</string>
+<string name="low_battery_continue_video_call">"ใช่"</string>
+<string name="low_battery_convert_to_voice_call">"เปลี่ยน"</string>
+<string name="call_cannot_be_sent">"ไม่สามารถส่งการโทรได้"</string>
+<string name="activity_not_security">"ไม่มีสิทธิ์เข้าถึงสำหรับแอปพลิเคชันนี้"</string>
+</resources>

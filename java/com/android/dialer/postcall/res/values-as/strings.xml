@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="post_call_message">"চে ৱাই ইউ ক’ল"</string>
+<string name="post_call_message_1">"দিছ ইজ আৰ্জেন্ট |ক’ল মি বেক"</string>
+<string name="post_call_message_2">"ক’ল মি বেক ৱেন ইউ হেভ চ’ম টাইম"</string>
+<string name="post_call_message_3">"ন’ট আৰ্জেন্ট, ৱুই কেন চেট লেটাৰ|"</string>
+<string name="post_call_add_message">"এড মেছেজ"</string>
+<string name="post_call_send_message">"মেছেজ প্ৰেৰণ কৰক"</string>
+<string name="post_call_message_sent">"বাৰ্তা প্ৰেৰণ কৰা হৈছে"</string>
+<string name="view">"চাওক"</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="urgent">"আৰ্জেন্ট! প্লীজপিক পিক আপ"</string>
+<string name="want_to_chat">"ৱান্ট টু চেট?"</string>
+<string name="quick_question">"কুইক কুৱেশ্বন......."</string>
+<string name="message_composer_custom_message_hint">"ৰাইট এ কাষ্ট’ম মেছেজ"</string>
+<string name="send_and_call">"চেণ্ড এণ্ড ক’ল"</string>
+<string name="share_and_call">"শ্বেয়াৰ আৰু ক’ল"</string>
+<string name="gallery_item_description">"প্ৰতিচ্ছৱি <xliff:g id="date">%1$tB %1$te %1$tY %1$tl %1$tM %1$tp</xliff:g>"</string>
+<string name="gallery_item_description_no_date">"ছবি"</string>
+<string name="camera_media_failure">"কেমেৰা প্ৰতিচ্ছবি লোড কৰিব পৰা নাই"</string>
+<string name="allow">"অনুমতি দিয়া হওঁক"</string>
+<string name="camera_permission_text">"টু টেক এ ফটো, গিভ এক্সেছ টু কেমেৰা"</string>
+<string name="gallery_permission_text">"টু শ্বেয়াৰ এ্ন ইমেজ, গিভ এক্সেছ টু মেডিয়া"</string>
+<string name="description_call_composer_camera">"টেক এ পিকচাৰ"</string>
+<string name="description_call_composer_photo">"ছুজ এ ফটো"</string>
+<string name="description_call_composer_message">"এটা বাৰ্তা প্ৰেৰণ কৰক"</string>
+<string name="image_sent_messages">"ফটো চেন্ট ভাইয়া মেছেজ"</string>
+<string name="message_sent_messages">"মেছেজ চেন্ট ভাইয়া মেছেজ"</string>
+<string name="call_composer_image_uploading">"ছবি প্ৰেৰণ কৰি আছে…"</string>
+</resources>

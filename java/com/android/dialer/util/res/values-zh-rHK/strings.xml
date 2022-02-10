@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="low_battery_warning_title">"低電量提醒"</string>
+<string name="low_battery_warning_message">"您的電量低於15%，繼續視訊通話或是切換到語音通話?"</string>
+<string name="low_battery_continue_video_call">開啟</string>
+<string name="low_battery_convert_to_voice_call">"降為語音"</string>
+<string name="call_cannot_be_sent">"未能撥出電話"</string>
+<string name="activity_not_security">"無此應用程式的存取權限。"</string>
+</resources>

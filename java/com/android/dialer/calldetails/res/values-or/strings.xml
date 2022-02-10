@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_details">"କଲ୍‌ ବିବରଣୀ"</string>
+<string name="delete">"କାଟ"</string>
+<string name="call_details_copy_number">"ସଂଖ୍ୟା କପି କର"</string>
+<string name="call_details_edit_number">"କଲ୍‌ କରିବା ପୁର୍ବରୁ ନମ୍ବରକୁ ସଂଶୋଧନ କରନ୍ତୁ"</string>
+<string name="call_details_report_call_id">"ଭୁଲ ନମ୍ବର ରିପୋର୍ଟ କରନ୍ତୁ"</string>
+<string name="sent_a_photo">"ଫଟ ପଠା ହୋଇଛି"</string>
+<string name="received_a_photo">"ଏକ ଫୋଟ ମିଳିଛି"</string>
+<string name="message_in_quotes">"\"<xliff:g id="message">%1$s</xliff:g>\""</string>
+<string name="report_caller_id_dialog_title">"ଭୂଲ ନମ୍ବର ରିପୋର୍ଟ କରନ୍ତୁ"</string>
+<string name="report_caller_id_failed">"ନମ୍ବର ରିପୋର୍ଟ କରି ହେଉନି"</string>
+<string name="report_caller_id_toast">"ନମ୍ବର ରିପୋର୍ଟ ହେଇଛି"</string>
+<string name="assisted_dialing_country_code_entry">"ସହାୟକ ଡାୟାଲିଂ: ବ୍ୟବହୃତ ଦେଶ କୋଡ୍‍ +<xliff:g example="1" id="ad_country_code">%1$s</xliff:g>"</string>
+<string name="assisted_dialing_country_code_entry_failure">"ସହାୟକ ଡାୟାଲିଂ ବ୍ୟବହୃତ ହୋ‍ଇଛି"</string>
+<string name="rtt_transcript_not_available">"କେବଳ ମେସେଜିଂ ସହିତ କଲ୍‍ଗୁଡ଼ିକ ପାଇଁ ପ୍ରତିଲିପି ଉପଲବ୍ଧ"</string>
+<string name="rtt_transcript_link">"ପ୍ରତିଲିପି ଦେଖନ୍ତୁ"</string>
+</resources>

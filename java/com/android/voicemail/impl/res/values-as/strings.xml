@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vvm_unsupported_message_format">"অসমৰ্থনীয় মেছেজৰ প্ৰকাৰ, শুনিবলৈ <xliff:g example="*86" id="number">%s</xliff:g> ক’ল কৰক"</string>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="voicemail_settings_with_label">"ଭଏସମେଲ (<xliff:g example="Mock Carrier" id="subscriptionlabel">%s</xliff:g>)"</string>
+<string name="voicemail_settings_title">"ଭଏସମେଲ୍‍"</string>
+<string name="voicemail_notifications_preference_title">"ବିଜ୍ଞପ୍ତି"</string>
+<string name="voicemail_change_greeting_preference_title">"ଭଏସ୍‌ମେଲ୍‌ ଅଭିନନ୍ଦନ"</string>
+<string name="change_greeting_text">"ରେକର୍ଡ କରିବାକୁ ଟ୍ୟାପ୍‍ କରନ୍ତୁ"</string>
+<string name="save_button_text">"ସଞ୍ଚୟ କରନ୍ତୁ"</string>
+<string name="redo_button_text">"ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ"</string>
+<string name="voicemail_advanced_settings_title">"ଆଡଭାନ୍ସଡ ସେଟିଂସ୍"</string>
+<string name="voicemail_visual_voicemail_switch_title">"ଦୃଶ୍ୟମାନ ଭଏସ୍‌‌ମେଲ୍‌"</string>
+<string name="voicemail_visual_voicemail_auto_archive_switch_title">"ଅତିରିକ୍ତ ବ୍ୟାକ୍‍ଅପ୍‍ ଓ ସଞ୍ଚୟସ୍ଥାନ"</string>
+<string name="voicemail_set_pin_preference_title">"PIN ସେଟ କରନ୍ତୁ"</string>
+<string name="voicemail_change_pin_preference_title">"PIN ବଦଳାନ୍ତୁ"</string>
+<string name="voicemail_change_pin_preference_summary_disable">"PIN ବଦଳେଇବାକୁ ଭିଜୁଆଲ ଭଏସମେଲ କୁ ସକ୍ଷମ କରିବାକୁ ହେବ"</string>
+<string name="voicemail_change_pin_preference_summary_not_activated">"ଭିଜୁଆଲ ଭଏସମେଲ ଏପର୍ଯ୍ୟନ୍ତ ସକ୍ରିୟ ହେଇନାହିଁ, ଦୟାକରି କିଛି ସମୟ ପରେ ଚେଷ୍ଟା କରନ୍ତୁ"</string>
+<string name="vm_change_pin_old_pin">"ପୁରୁଣା PIN"</string>
+<string name="vm_change_pin_new_pin">"ନୂଆଁ PIN" </string>
+<string name="vm_change_pin_progress_message">"ଦୟାକରି ଅପେକ୍ଷା କରନ୍ତୁ..."</string>
+<string name="vm_change_pin_error_too_short">"ନୂଆ PIN ଟି ବହୁତ ଛୋଟ"</string>
+<string name="vm_change_pin_error_too_long">"ନୂଆ PIN ଟି ବହୁତ ଛୋଟ"</string>
+<string name="vm_change_pin_error_too_weak">"ନୂଆ PIN ଟି ବହୁତ ଦୁର୍ବଳ|ଏକ ମଜବୁତ ପାସୱାର୍ଡ ରେ ଲଗାଦାର ଅନୁକ୍ରମ ବା ରିପିଟ ହୋଇଥିବା ଅଙ୍କ ନହବା ଦରକାର"</string>
+<string name="vm_change_pin_error_mismatch">"ପୁରୁଣା PIN ମ୍ୟାଚ ହେଉନାହିଁ"</string>
+<string name="vm_change_pin_error_invalid">"ନୂଆ PIN ରେ ଅମାନ୍ୟ ବର୍ଣ୍ଣ ଅଛି"</string>
+<string name="vm_change_pin_error_system_error">"PIN କୁ ବଦଳେଇବାକୁ ଅକ୍ଷମ"</string>
+<string name="change_pin_title">"ଭଏସମେଲ PIN  ବଦଳାନ୍ତୁ "</string>
+<string name="change_pin_continue_label">"କ୍ରମଜାରି"</string>
+<string name="change_pin_cancel_label">"ବାତିଲ କରନ୍ତୁ"</string>
+<string name="change_pin_ok_label">"ଠିକଠାକ"</string>
+<string name="change_pin_enter_old_pin_header">"ଆପଣଙ୍କ ପୁରୁଣା PIN କୁ ପୃଷ୍ଟି କରନ୍ତୁ"</string>
+<string name="change_pin_enter_old_pin_hint">"ଜାରି ରଖିବା ପାଇଁ ଆପଣଙ୍କ ଭଏସମେଲ PIN ଏଣ୍ଟର କରନ୍ତୁ"</string>
+<string name="change_pin_enter_new_pin_header">"ଏକ ନୂଆ ପିନ୍ ସେଟ୍ କରନ୍ତୁ"</string>
+<string name="change_pin_enter_new_pin_hint">"PIN  <xliff:g example="4" id="min">%1$d</xliff:g>-<xliff:g example="7" id="max">%2$d</xliff:g> ଡିଜିଟ ହେବା ଦରକାର"</string>
+<string name="change_pin_confirm_pin_header">"ଆପଣଙ୍କ PIN ସୁନିଶ୍ଚିତ କରନ୍ତୁ"</string>
+<string name="change_pin_confirm_pins_dont_match">"PIN‍ ‍ଗୁଡିକ ମେଳ ହେଉନାହିଁ"</string>
+<string name="change_pin_succeeded">"ଭଏସମେଲ PIN ଅପଡେଟ କରନ୍ତୁ  "</string>
+<string name="change_pin_system_error">"PIN ସେଟ କରିବାକୁ ଅସମର୍ଥ"</string>
+<string name="voicemail_visual_voicemail_transcription_switch_title">"ଭଏସ୍‌ମେଲ୍‌ ପ୍ରତିଲିପି"</string>
+<string name="voicemail_visual_voicemail_donation_switch_title">"ଭଏସ୍‌ମେଲ୍‌ ପ୍ରତିଲିପି ବିଶ୍ଳେଷଣ"</string>
+<string name="voicemail_activating_summary_info">"ଭଏସ୍‌ମେଲ୍‌ ସକ୍ରିୟ କରୁଅଛି"</string>
+<string name="voicemail_transcription_preference_summary_info">"ଆପଣଙ୍କ ଭଏସ୍‌ମେଲ୍‌ ପ୍ରତିଲିପି Google ପ୍ରତିଲିପି ସେବା ବ୍ୟବହାର କରି ପାଆନ୍ତୁ | <xliff:g example="Learn more">%1$s</xliff:g>"</string>
+<string name="voicemail_donate_preference_summary_info">"Google କୁ ଆପଣଙ୍କ ଭଏସ୍‌ମେଲ୍‌ ବାର୍ତ୍ତାଗୁଡ଼ିକୁ ପ୍ରତିଲିପି ନିଭୁଲତା ଉନ୍ନତ କରିବାକୁ ପର୍ଯ୍ୟାଲୋଚନା କରିବାକୁ ଦିଅନ୍ତୁ | ଆପଣଙ୍କ ଭଏସ୍‌ମେଲ୍‌ ବାର୍ତ୍ତାଗୁଡ଼ିକ ଅଜ୍ଞାତ ଭାବେ ସଂରକ୍ଷିତ ହୁଏ | <xliff:g example="Learn more">%1$s</xliff:g>"</string>
+<string name="confirm_disable_voicemail_dialog_title">"ଭିଜୁଆଲ ଭଏସ୍‍ ମେଲ୍‍ ବନ୍ଦ କରନ୍ତୁ"</string>
+<string name="confirm_disable_voicemail_dialog_message">"ଏହା ଏହି ଆପ୍ଲିକେଶନ ମଧ୍ୟରେ ସଂରକ୍ଷିତ କୌଣସି ଭଏସ୍‍ ମେଲ୍‍ ଏବଂ Google ଟ୍ରାନ୍ସସ୍କ୍ରିପ୍ଟ ଡିଲିଟ କରିଦେବ. ଆପଣଙ୍କ କ୍ୟାରିୟର ତାଙ୍କର ନିଜସ୍ୱ କପି ରଖିପାରନ୍ତି."</string>
+<string name="confirm_disable_voicemail_accept_dialog_label">"ଟର୍ଣ୍ଣ ଅଫ୍‌"</string>
+</resources>

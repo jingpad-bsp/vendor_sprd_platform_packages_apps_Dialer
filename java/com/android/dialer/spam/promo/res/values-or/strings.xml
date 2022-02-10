@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="spam_blocking_promo_title">"ସମସ୍ତ ସନ୍ଦେହଜନକ ସ୍ପାମ କଲ୍‍ଗୁଡ଼ିକୁ ଫିଲ୍ଟର କରିବେ?"</string>
+<string name="spam_blocking_promo_text">"ଆପଣ ଏବେ ବ୍ଲକ୍‍ କରିଥିବା ପରି କଲ୍‍ ଆଉ ଆପଣଙ୍କୁ ବିରକ୍ତ କରିବ ନାହିଁ "</string>
+<string name="spam_blocking_promo_action_filter_spam">"ସ୍ପାମ ଫିଲ୍ଟର କରନ୍ତୁ"</string>
+<string name="spam_blocking_promo_action_dismiss">"ଡିସ୍‌ମିସ୍‌"</string>
+<string name="spam_blocking_setting_prompt">"ସଂସ୍ଥାପନା"</string>
+<string name="spam_blocking_settings_enable_error_text">"ସ୍ପାମ ଫିଲ୍ଟରିଂ ଚାଲୁ କରିବାରେ ସମସ୍ୟା"</string>
+<string name="spam_blocking_settings_disable_error_text">"ସ୍ପାମ ଫିଲ୍ଟରିଂ ବନ୍ଦ କରିବା ନେଇ ସମସ୍ୟା"</string>
+<string name="spam_blocking_settings_enable_complete_text">"ସ୍ପାମ ଫିଲ୍ଟରିଂ ଚାଲୁ ହୋ‍ଇଛି"</string>
+<string name="spam_blocking_settings_disable_complete_text">"ସ୍ପାମ ଫିଲ୍ଟରିଂ ବନ୍ଦ ହୋ‍ଇଛି"</string>
+</resources>

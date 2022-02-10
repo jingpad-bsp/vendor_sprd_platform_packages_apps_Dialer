@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="voicemail_settings_with_label">" ভ’ইচমেইল (<xliff:g example="Mock Carrier" id="subscriptionlabel">%s</xliff:g>)"</string>
+<string name="voicemail_settings_title">"ভয়েচমেইল"</string>
+<string name="voicemail_notifications_preference_title">"জাননি"</string>
+<string name="voicemail_change_greeting_preference_title">"ভইচমেইল শুভেচ্ছা"</string>
+<string name="change_greeting_text">"ৰেকৰ্ড কৰিবলৈ টেপ কৰক"</string>
+<string name="save_button_text">"সংৰক্ষণ কৰা "</string>
+<string name="redo_button_text">"পুনৰ চেষ্টা কৰক"</string>
+<string name="voicemail_advanced_settings_title">"উন্নত ছেটিং"</string>
+<string name="voicemail_visual_voicemail_switch_title">"ভিজুৱেল ভইচমেইল"</string>
+<string name="voicemail_visual_voicemail_auto_archive_switch_title">"অতিৰিক্ত বেকআপ আৰু ষ্ট\'ৰেজ"</string>
+<string name="voicemail_set_pin_preference_title">"PIN চেট কৰা"</string>
+<string name="voicemail_change_pin_preference_title">"PIN সলনি কৰক"</string>
+<string name="voicemail_change_pin_preference_summary_disable">"PIN সলনি কৰিবলৈ দৃশ্যমান ভ’ইচমেইল নিশ্চিতভাৱে সক্ষম কৰিব লাগিব"</string>
+<string name="voicemail_change_pin_preference_summary_not_activated">"দৃশ্যমান ভ’ইচমেইল এতিয়ালৈকে সক্ৰিয় হোৱা নাই, অনুগ্ৰহ কৰি পিছত চেষ্টা কৰিব"</string>
+<string name="vm_change_pin_old_pin">"পুৰণি PIN"</string>
+<string name="vm_change_pin_new_pin">"নতুন PIN"</string>
+<string name="vm_change_pin_progress_message">"প্লীজ ৱেইট"</string>
+<string name="vm_change_pin_error_too_short">"নতুন PIN টো বহুত চুটি"</string>
+<string name="vm_change_pin_error_too_long">"নতুন PIN টো বহুত দীঘল"</string>
+<string name="vm_change_pin_error_too_weak">"নতুন PIN টো বহুত দুৰ্বল | এটা শক্তিশালী পাছৱৰ্ডত অবিৰত ক্ৰমাংক বা পুনৰাবৃত্তি ডিজিট থকা উচিত নহয়|"</string>
+<string name="vm_change_pin_error_mismatch">"এই পুৰণা PIN টোৱে মিল খোৱা নাই|"</string>
+<string name="vm_change_pin_error_invalid">"এই নতুন PIN ত অবৈধ চৰিত্ৰ আছে|"</string>
+<string name="vm_change_pin_error_system_error">"PIN সলনি কৰিবলৈ অসমৰ্থ"</string>
+<string name="change_pin_title">"ভ’ইচমেইল PIN সলনি কৰক"</string>
+<string name="change_pin_continue_label">"অব্যাহত ৰাখক"</string>
+<string name="change_pin_cancel_label">"নাকচ"</string>
+<string name="change_pin_ok_label">"ঠিক আছে"</string>
+<string name="change_pin_enter_old_pin_header">"আপোনাৰ পুৰণি PIN নিশ্চিত কৰক" </string>
+<string name="change_pin_enter_old_pin_hint">"বাহাল ৰাখিবলৈ আপোনাৰ ভ’ইচমেইল PIN ভৰাওক"</string>
+<string name="change_pin_enter_new_pin_header">"নতুন PIN চেট কৰক"</string>
+<string name="change_pin_enter_new_pin_hint">"PIN নিশ্চিতৰূপত <xliff:g example="4" id="min">%1$d</xliff:g>-<xliff:g example="7" id="max">%2$d</xliff:g> ডিজিট বা সাংখ্যিক হ’ব লাগে|"</string>
+<string name="change_pin_confirm_pin_header">"অপোনাৰ PIN নিশ্চিত কৰক"</string>
+<string name="change_pin_confirm_pins_dont_match">"PIN মিলা নাই"</string>
+<string name="change_pin_succeeded">"ভ’ইচমেইল PIN উন্নত কৰা হ’ল|"</string>
+<string name="change_pin_system_error">"PIN চেট কৰিবলৈ অসমৰ্থ"</string>
+<string name="voicemail_visual_voicemail_transcription_switch_title">" ভইচমেইল অনুলিখন "</string>
+<string name="voicemail_visual_voicemail_donation_switch_title">" ভইচমেইল অনুলিখন বিশ্লেষণ "</string>
+<string name="voicemail_activating_summary_info">"ভইচমেইল সক্ৰিয় কৰি থকা হৈছে"</string>
+<string name="voicemail_transcription_preference_summary_info">"Google-ৰ বিনামূলীয়া অনুলিখন সেৱাৰ দ্বাৰা আপোনাৰ ভইচমেইলৰ ট্ৰান্সক্ৰিপ্টসমূহ লাভ কৰক। <xliff:g example="Learn more">%1$s</xliff:g>"</string>
+<string name="voicemail_donate_preference_summary_info">"ট্ৰেন্সক্ৰিচনৰ নিৰ্ভুলতা উন্নত কৰিবলৈ Google-ক আপোনাৰ ভইচমেইল বাৰ্তাসমূহৰ পুনৰীক্ষণ কৰিবলৈ দিয়ক। আপোনাৰ ভইচমেইল বাৰ্তাসমূহ বেনামীভাবে মজুত কৰা হয়। <xliff:g example="Learn more">%1$s</xliff:g>"</string>
+<string name="confirm_disable_voicemail_dialog_title">"ভিজুৱেল ভইচমেইল অফ কৰক"</string>
+<string name="confirm_disable_voicemail_dialog_message">"ই যিকোনো ভয়চমেইল বিলোপ কৰিব আৰু Google লিপ্যন্তৰ এই এপৰ ভিতৰত সঞ্চয় কৰা হ’ব। আপোনাৰ কেৰিয়াৰে ইয়াৰ নিজস্ব প্ৰতিলিপি ৰাখিব।"</string>
+<string name="confirm_disable_voicemail_accept_dialog_label">"অফ কৰক"</string>
+</resources>

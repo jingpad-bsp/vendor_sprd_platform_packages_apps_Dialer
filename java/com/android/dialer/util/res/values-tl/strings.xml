@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="low_battery_warning_title">"Babala ng Mababang Baterya"</string>
+<string name="low_battery_warning_message">"Ang antas ng iyong baterya ay mababa sa 15%. Gusto mo bang magpatuloy ng tawag sa bidyo o lumipat sa tawag boses?"</string>
+<string name="low_battery_continue_video_call">"Oo"</string>
+<string name="low_battery_convert_to_voice_call">"Lumipat"</string>
+<string name="call_cannot_be_sent">"Hindi magawa ang pagtawag"</string>
+<string name="activity_not_security">"Walang karapatan sa pag-access para sa application na ito."</string>
+</resources>

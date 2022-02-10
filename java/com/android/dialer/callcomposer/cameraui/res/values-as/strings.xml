@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="description_camera_switch_full_screen">"পূৰ্ণ স্ক্ৰীনৰ কেমেৰালৈ সলনি কৰক"</string>
+<string name="description_camera_switch_preview_screen">"চুইটচ টু কেমেৰা প্ৰী-ভিউ"</string>
+<string name="description_camera_switch_camera_facing">" চুইটচ টু ফ্ৰ’ন্ট ফেচিং কেমেৰা"</string>
+<string name="description_camera_switch_camera_rear">"চুইটচ টু বেক ফেচিং কেমেৰা"</string>
+<string name="description_camera_take_picture">"ফটো লওঁক কৰক"</string>
+<string name="description_camera_cancel_photo">"ফটো ৰি-টেক"</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="low_battery_warning_title">"Cảnh báo Pin thấp"</string>
+<string name="low_battery_warning_message">"Mức pin của bạn là dưới 15%. Bạn có muốn tiếp tục với các cuộc gọi video hoặc chuyển sang cuộc gọi video không"?</string>
+<string name="low_battery_continue_video_call">"Có"</string>
+<string name="low_battery_convert_to_voice_call">"Chuyển đổi"</string>
+<string name="call_cannot_be_sent">"Không thể gửi được cuộc gọi"</string>
+<string name="activity_not_security">"Không có quyền truy cập cho ứng dụng này."</string>
+</resources>

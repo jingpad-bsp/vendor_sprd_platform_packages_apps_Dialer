@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="new_permission_no_search">"ଆପଣଙ୍କ ଯୋଗାଯୋଗ ଗୁଡ଼ିକୁ ଖୋଜିବାକୁ, କଣ୍ଟାକ୍ଟ ପର୍ମିସନରେ ଟର୍ଣ୍ଣ ଅନ୍‌ କରନ୍ତୁ |"</string>
+<string name="search_shortcut_create_new_contact">"ଗୋଟିଏ ନୁଆ ଯୋଗାଯୋଗ ସୃଷ୍ଟିକରନ୍ତୁ"</string>
+<string name="search_shortcut_add_to_contact">"ଗୋଟିଏ ଯୋଗାଯୋଗକୁ ଯୋଗକରନ୍ତୁ"</string>
+<string name="search_shortcut_send_sms_message">"SMS ପଠାନ୍ତୁ"</string>
+<string name="search_shortcut_make_video_call">"ଭିଡ଼ିଓ କଲ୍‌ କରନ୍ତୁ"</string>
+<string name="search_shortcut_make_voice_call">"କଲ୍‍  <xliff:g id="phone_number">%1$s</xliff:g>"</string>
+</resources>

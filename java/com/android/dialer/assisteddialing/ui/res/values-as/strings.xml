@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="assisted_dialing_setting_title">"এচিছটেড ডায়েলিং"</string>
+<string name="assisted_dialing_setting_summary">"বিদেশ ভ্ৰমণ কৰি থকাৰ সময়ত কল কৰোতে কোনো দেশৰ কোড পূৰ্বানুমান আৰু যোগ কৰক"</string>
+<string name="assisted_dialing_setting_cc_default_summary">"স্বয়ংক্ৰিয়ভাবে চিনাক্ত • <xliff:g example="United Kingdom (+44)" id="ad_country_code_info">%1$s</xliff:g>"</string>
+<string name="assisted_dialing_setting_cc_default_summary_fallback">"স্বয়ংক্ৰিয়ভাবে চিনাক্ত"</string>
+<string name="assisted_dialing_setting_cc_category_title">"গৃহ দেশ"</string>
+<string name="assisted_dialing_setting_cc_title">"ডিফল্ট গৃহ দেশ"</string>
+</resources>

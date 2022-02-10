@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="voicemail_error_activating_title">"দৃশ্যমান ভইচমেইল সক্ৰিয় কৰা|"</string>
+<string name="voicemail_error_activating_message">"যেতিয়ালৈকে দৃশ্যমান ভইচমেইলটো সম্পূৰ্ণৰূপত সক্ৰিয় হৈ নাযায়, তেতিয়ালৈকে আপুনি হয়তো ভইচমেইলৰ জাননীসমূহ প্ৰাপ্ত নকৰিব | যেতিয়ালৈকে দৃশ্যমান ভইচমেইলটো সম্পূৰ্ণৰূপত সক্ৰিয় হৈ নাযায়, নতুন মেছেজসমূহ উদ্ধাৰ কৰিবলৈ ভইচমেইললৈ ক’ল কৰক |" </string>
+<string name="voicemail_error_not_activate_no_signal_title">"দৃশ্যমান ভইচমেইল সক্ৰিয় কৰিব নোৱাৰা|"</string>
+<string name="voicemail_error_not_activate_no_signal_message">"নিশ্চিত হওঁক যে, আপোনাৰ মোবাইলত নেটৱৰ্ক সংযোগ আছে আৰু পুনৰাই চেষ্টা কৰক|"</string>
+<string name="voicemail_error_not_activate_no_signal_airplane_mode_message">"এয়াৰপ্লেন মোড টাৰ্ণ অফ কৰা আৰু পুনৰাই চেষ্টা কৰক|"</string>
+<string name="voicemail_error_no_signal_title">"সংযোগ নাই"</string>
+<string name="voicemail_error_no_signal_message">"আপোনাক নতুন ভ’ইচমেইলসমূহৰ বাবে জাননী দিয়া নহ’ব| যদিহে আপুনি Wi-Fi ত আছে, তেন্তে আপুনি চিংকিং কৰি ভ’ইচমেইল পৰীক্ষা কৰিব পাৰে|"</string>
+<string name="voicemail_error_no_signal_airplane_mode_message">"আপোনাক নতুন ভ’ইচমেইলসমূহৰ বাবে জাননী দিয়া নহ’ব|  আপোনাৰ ভ’ইচমেইলক চিংক কৰিবলৈ এয়াৰপ্লেন মোড টাৰ্ণ অফ কৰক|"</string>
+<string name="voicemail_error_no_signal_cellular_required_message">"আপোনাৰ ফোনক মোবাইল ডেটা প্ৰয়োজন হয় ভ’ইচমেইল পৰীক্ষা কৰিবলৈ |"</string>
+<string name="voicemail_error_activation_failed_title">"দৃশ্যমান ভইচমেইল সক্ৰিয় কৰিব নোৱাৰা|"</string>
+<string name="voicemail_error_activation_failed_message">"আপুনি ভ’ইচমেইল পৰীক্ষা কৰিবলৈ এতিয়াও পৰীক্ষা কৰিব পাৰে|"</string>
+<string name="voicemail_error_no_data_title">"আপোনাৰ ফোনক মোবাইল ডেটা সংযোজন প্ৰয়োজন হয় ভ’ইচমেইল পৰীক্ষা কৰিবলৈ |"</string>
+<string name="voicemail_error_no_data_message">"যেতিয়া মোবাইল সংযোগ ব্যৱস্থা আৰু মোবাইল ডেটা সংযোগ উত্তম হ’ব তেতিয়া পুনৰাই চেষ্টা কৰিব | আপুনি এতিয়াও ভ’ইচমেইল পৰীক্ষা কৰিব পাৰিব |"</string>
+<string name="voicemail_error_no_data_cellular_required_message">"যেতিয়া মোবাইল সংযোগ ব্যৱস্থা আৰু মোবাইল ডেটা সংযোগ উত্তম হ’ব তেতিয়া পুনৰাই চেষ্টা কৰিব | আপুনি এতিয়াও ভ’ইচমেইল পৰীক্ষা কৰিব পাৰিব |"</string>
+<string name="voicemail_error_bad_config_title">"আপোনাৰ ফোনক মোবাইল ডেটা সংযোজন প্ৰয়োজন হয় ভ’ইচমেইল পৰীক্ষা কৰিবলৈ |"</string>
+<string name="voicemail_error_bad_config_message">"আপুনি ভ’ইচমেইল পৰীক্ষা কৰিবলৈ এতিয়াও পৰীক্ষা কৰিব পাৰে|"</string>
+<string name="voicemail_error_communication_title">"আপোনাৰ ফোনক মোবাইল ডেটা সংযোজন প্ৰয়োজন হয় ভ’ইচমেইল পৰীক্ষা কৰিবলৈ |"</string>
+<string name="voicemail_error_communication_message">"আপুনি ভ’ইচমেইল পৰীক্ষা কৰিবলৈ এতিয়াও পৰীক্ষা কৰিব পাৰে|"</string>
+<string name="voicemail_error_server_connection_title">"আপোনাৰ ফোনক মোবাইল ডেটা সংযোজন প্ৰয়োজন হয় ভ’ইচমেইল পৰীক্ষা কৰিবলৈ |"</string>
+<string name="voicemail_error_server_connection_message">"আপুনি ভ’ইচমেইল পৰীক্ষা কৰিবলৈ এতিয়াও পৰীক্ষা কৰিব পাৰে|"</string>
+<string name="voicemail_error_server_title">"আপোনাৰ ফোনক মোবাইল ডেটা সংযোজন প্ৰয়োজন হয় ভ’ইচমেইল পৰীক্ষা কৰিবলৈ |"</string>
+<string name="voicemail_error_server_message">"আপুনি ভ’ইচমেইল পৰীক্ষা কৰিবলৈ এতিয়াও পৰীক্ষা কৰিব পাৰে|"</string>
+<string name="voicemail_error_inbox_near_full_title">"ইনবক্স প্ৰায় পূৰ হ’ল|"</string>
+<string name="voicemail_error_inbox_near_full_message">"আপুনি কোনো নতুন ভ’ইচমেইল প্ৰাপ্ত কৰিব নোৱাৰিব, যদিহে আপোনাৰ ইনবক্স ভৰ্তি হৈ থাকে|"</string>
+<string name="voicemail_error_inbox_full_title">"নতুন ভ’ইচমেইলসমূহ প্ৰাপ্ত কৰিব নোৱাৰে"</string>
+<string name="voicemail_error_inbox_full_message">"আপোনাৰ ইনবক্স ভৰ্তি হৈ আছে, নতুন ভ’ইচমেইল প্ৰাপ্ত কৰিবলৈ কিছুমান মেছেজ ডিলিট কৰক|"</string>
+<string name="voicemail_error_inbox_full_turn_archive_on_title">"অতিৰিক্ত ষ্ট’ৰেজ আৰু বেক-আপ টাৰ্ণ অন"</string>
+<string name="voicemail_error_inbox_full_turn_archive_on_message">"আপোনাৰ মেইল বক্সটো পূৰ্ণ হৈছে | স্পেছ ফ্ৰী কৰিবলৈ, এক্সট্ৰা ষ্ট’ৰেজত টাৰ্ণ অন কৰা, যাতে গোগোলে আপোনাৰ ভইচমেইল মেছেজসমূহ পৰিচালনা আৰু বেক-আপ কৰিব পাৰে |"</string>
+<string name="voicemail_error_inbox_almost_full_turn_archive_on_title">"অতিৰিক্ত ষ্ট’ৰেজ আৰু বেক-আপ টাৰ্ণ অন"</string>
+<string name="voicemail_error_inbox_almost_full_turn_archive_on_message">"আপোনাৰ মেইল বক্সটো পূৰ্ণ হৈছে | স্পেছ ফ্ৰী কৰিবলৈ, এক্সট্ৰা ষ্ট’ৰেজত টাৰ্ণ অন কৰা, যাতে গোগোলে আপোনাৰ ভইচমেইল মেছেজসমূহ পৰিচালনা আৰু বেক-আপ কৰিব পাৰে |"</string>
+<string name="voicemail_error_pin_not_set_title">"আপোনাৰ ভ’ইচমেইল PIN চেট কৰক"</string>
+<string name="voicemail_error_pin_not_set_message">"যিকোনো সময়তে আপোনাৰ ভ’ইচমেইল ক’লৰ প্ৰয়োজন হ’ব, যেতিয়াই আপুনি আপোনাৰ ভ’ইচমেইলত প্ৰৱেশ কৰিব বিচাৰে|"</string>
+<string name="voicemail_action_turn_off_airplane_mode">"এয়াৰপ্লেন মোড চেটিং"</string>
+<string name="voicemail_action_set_pin">"PIN চেট কৰা"</string>
+<string name="voicemail_action_retry">"পুনৰ চেষ্টা কৰক"</string>
+<string name="voicemail_action_turn_archive_on">"অন কৰক"</string>
+<string name="voicemail_action_dimiss">"নাই, ধন্যবাদ"</string>
+<string name="voicemail_action_sync">"সিংক"</string>
+<string name="voicemail_action_call_voicemail">"কল ভএসমেল"</string>
+<string name="voicemail_action_call_customer_support">"গ্ৰাহক সহায়ক ফোন কৰক"</string>
+<string name="vvm3_error_vms_dns_failure_title">"কিবা ভূল হৈছে"</string>
+<string name="vvm3_error_vms_dns_failure_message">"ক্ষমা কৰিব, আমি এটা সমস্যাত পৰিছো | অনুগ্ৰহ কৰি পিছত চেষ্টা কৰিব | তথাপিও যদিহে ইয়াত সমস্যা এটা থাকে, অনুগ্ৰহ কৰি গ্ৰাহক সেৱাত যোগাযোগ কৰক <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g>তেওঁলোকক কওঁক যে ভূল কোডটো 9001 |"  </string>
+<string name="vvm3_error_vmg_dns_failure_title">"কিবা ভূল হৈছে"</string>
+<string name="vvm3_error_vmg_dns_failure_message">"ক্ষমা কৰিব, আমি এটা সমস্যাত পৰিছো | অনুগ্ৰহ কৰি পিছত চেষ্টা কৰিব | তথাপিও যদিহে ইয়াত সমস্যা এটা থাকে, অনুগ্ৰহ কৰি গ্ৰাহক সেৱাত যোগাযোগ কৰক <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g>তেওঁলোকক কওঁক যে ভূল কোডটো 9002 |"  </string>
+<string name="vvm3_error_spg_dns_failure_title">"কিবা ভূল হৈছে"</string>
+<string name="vvm3_error_spg_dns_failure_message">"ক্ষমা কৰিব, আমি এটা সমস্যাত পৰিছো | অনুগ্ৰহ কৰি পিছত চেষ্টা কৰিব | তথাপিও যদিহে ইয়াত সমস্যা এটা থাকে, অনুগ্ৰহ কৰি গ্ৰাহক সেৱাত যোগাযোগ কৰক <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g>তেওঁলোকক কওঁক যে ভূল কোডটো 9003|"  </string>
+<string name="vvm3_error_vms_no_cellular_title">"আপোনাৰ ভ’ইচমেইল বক্স সংযোগ কৰিব পৰা নাই"</string>
+<string name="vvm3_error_vms_no_cellular_message">"ক্ষমা কৰিব, আমি আপোনাৰ ভ’ইচমেইল বক্সত সংযোগ কৰাত সমস্যাৰ সন্মুখীণ হৈছো |যদিহে আপুনি দুৰ্বল চিগনেলৰ ক্ষেত্ৰত আছে, ভাল চিগনেল অহালৈকে অপেক্ষা কৰক আৰু পুনৰাই চেষ্টা কৰক | তথাপিও যদিহে ইয়াত সমস্যা এটা থাকে, অনুগ্ৰহ কৰি গ্ৰাহক সেৱাত যোগাযোগ কৰক <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> আৰু তেওঁলোকক কওঁক যে ভূল কোডটো 9004|"</string>
+<string name="vvm3_error_vmg_no_cellular_title">"আপোনাৰ ভ’ইচমেইল বক্স সংযোগ কৰিব পৰা নাই"</string>
+<string name="vvm3_error_vmg_no_cellular_message">"ক্ষমা কৰিব, আমি আপোনাৰ ভ’ইচমেইল বক্সত সংযোগ কৰাত সমস্যাৰ সন্মুখীণ হৈছো |যদিহে আপুনি দুৰ্বল চিগনেলৰ ক্ষেত্ৰত আছে, ভাল চিগনেল অহালৈকে অপেক্ষা কৰক আৰু পুনৰাই চেষ্টা কৰক | তথাপিও যদিহে ইয়াত সমস্যা এটা থাকে, অনুগ্ৰহ কৰি গ্ৰাহক সেৱাত যোগাযোগ কৰক <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> আৰু তেওঁলোকক কওঁক যে ভূল কোডটো 9005|"</string>
+<string name="vvm3_error_spg_no_cellular_title">"আপোনাৰ ভ’ইচমেইল বক্স সংযোগ কৰিব পৰা নাই"</string>
+<string name="vvm3_error_spg_no_cellular_message">"ক্ষমা কৰিব, আমি ভ’ইচমেইল বক্সত সংযোগ কৰাত সমস্যাৰ সন্মুখীণ হৈছো |যদিহে আপুনি দুৰ্বল চিগনেলৰ ক্ষেত্ৰত আছে, ভাল চিগনেল অহালৈকে অপেক্ষা কৰক আৰু পুনৰাই চেষ্টা কৰক | তথাপিও যদিহে ইয়াত সমস্যা এটা থাকে, অনুগ্ৰহ কৰি গ্ৰাহক সেৱাত যোগাযোগ কৰক <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> আৰু তেওঁলোকক কওঁক যে ভূল কোডটো 9006|" </string>
+<string name="vvm3_error_vms_timeout_title">"কিবা ভূল হৈছে"</string>
+<string name="vvm3_error_vms_timeout_message">"ক্ষমা কৰিব, আমি এটা সমস্যাত পৰিছো | অনুগ্ৰহ কৰি পিছত চেষ্টা কৰিব | তথাপিও যদিহে ইয়াত সমস্যা এটা থাকে, অনুগ্ৰহ কৰি গ্ৰাহক সেৱাত যোগাযোগ কৰক <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g>তেওঁলোকক কওঁক যে ভূল কোডটো 9007|"  </string>
+<string name="vvm3_error_vmg_timeout_title">"কিবা ভূল হৈছে"</string>
+<string name="vvm3_error_vmg_timeout_message">"ক্ষমা কৰিব, আমি এটা সমস্যাত পৰিছো | অনুগ্ৰহ কৰি পিছত চেষ্টা কৰিব | তথাপিও যদিহে ইয়াত সমস্যা এটা থাকে, অনুগ্ৰহ কৰি গ্ৰাহক সেৱাত যোগাযোগ কৰক <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g>তেওঁলোকক কওঁক যে ভূল কোডটো 9008|"  </string>
+<string name="vvm3_error_status_sms_timeout_title">"কিবা ভূল হৈছে"</string>
+<string name="vvm3_error_status_sms_timeout_message">"ক্ষমা কৰিব, আমি আপোনাৰ ভ’ইচমেইল বক্সত সংযোগ কৰাত সমস্যাৰ সন্মুখীণ হৈছো |অনুগ্ৰহ কৰি পিছত পুনৰাই চেষ্টা কৰক | তথাপিও যদিহে ইয়াত সমস্যা এটা থাকে, অনুগ্ৰহ কৰি গ্ৰাহক সেৱাত যোগাযোগ কৰক <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> আৰু তেওঁলোকক কওঁক যে ভূল কোডটো 9009|"</string>
+<string name="vvm3_error_subscriber_blocked_title">"আপোনাৰ ভ’ইচমেইল বক্স সংযোগ কৰিব পৰা নাই"</string>
+<string name="vvm3_error_subscriber_blocked_message">"ক্ষমা কৰিব, আমি এই সময়ত আপোনাৰ ভ’ইচমেইল বক্সত সংযোগ কৰাত সমস্যাৰ সন্মুখীণ হৈছো |অনুগ্ৰহ কৰি পিছত পুনৰাই চেষ্টা কৰক | তথাপিও যদিহে ইয়াত সমস্যা এটা থাকে, অনুগ্ৰহ কৰি গ্ৰাহক সেৱাত যোগাযোগ কৰক <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> আৰু তেওঁলোকক কওঁক যে ভূল কোডটো 9990|"</string>
+<string name="vvm3_error_unknown_user_title">"ভইচমেইল ছেট আপ কৰক"</string>
+<string name="vvm3_error_unknown_user_message">"আপোনাৰ একাউন্টত ভ’ইচমেইল চেট আপ নাই হোৱা | অনুগ্ৰহ কৰি গ্ৰাহক সেৱালৈ ফোন কৰক <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> তেওঁলোকক কওঁক যে ভূল কোডটো 9991."</string>
+<string name="vvm3_error_unknown_device_title">"ভয়েচমেইল"</string>
+<string name="vvm3_error_unknown_device_message">"এই ডিভাইচত দৃশ্যমান ভ’ইচমেইল চেট আপ কৰিব পৰা নাই | অনুগ্ৰহ কৰি গ্ৰাহক সেৱালৈ ফোন কৰক <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> তেওঁলোকক কওঁক যে ভূল কোডটো 9992|"</string>
+<string name="vvm3_error_invalid_password_title">"কিবা ভূল হৈছে"</string>
+<string name="vvm3_error_invalid_password_message">"অনুগ্ৰহ কৰি গ্ৰাহক সেৱালৈ ফোন কৰক <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> তেওঁলোকক কওঁক যে ভূল কোডটো 9993|"</string>
+<string name="vvm3_error_mailbox_not_initialized_title">"ভিজুৱেল ভইচমেইল"</string>
+<string name="vvm3_error_mailbox_not_initialized_message">"দৃশ্যমান ভ’ইচমেইল চেট আপ সম্পূৰ্ণ কৰিবলৈ, অনুগ্ৰহ কৰি গ্ৰাহক সেৱালৈ ফোন কৰক <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> তেওঁলোকক কওঁক যে ভূল কোডটো 9994|"</string>
+<string name="vvm3_error_service_not_provisioned_title">"ভিজুৱেল ভইচমেইল"</string>
+<string name="vvm3_error_service_not_provisioned_message">"দৃশ্যমান ভ’ইচমেইল চেট আপ সম্পূৰ্ণ কৰিবলৈ, অনুগ্ৰহ কৰি গ্ৰাহক সেৱালৈ ফোন কৰক <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> তেওঁলোকক কওঁক যে ভূল কোডটো 9995|"</string>
+<string name="vvm3_error_service_not_activated_title">"ভিজুৱেল ভইচমেইল"</string>
+<string name="vvm3_error_service_not_activated_message">"দৃশ্যমান ভইচমেইল সক্ৰিয় কৰিবলৈ, অনুগ্ৰহ কৰি <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g>-ত গ্ৰাহক সেৱাৰ সৈতে যোগাযোগ কৰক আৰু তেওঁলোকক কওক যে ত্ৰুটি কোড হৈছে 9996।"</string>
+<string name="vvm3_error_user_blocked_title">"কিবা ভূল হৈছে"</string>
+<string name="vvm3_error_user_blocked_message">"দৃশ্যমান ভ’ইচমেইল চেট আপ সম্পূৰ্ণ কৰিবলৈ, অনুগ্ৰহ কৰি গ্ৰাহক সেৱালৈ ফোন কৰক <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> তেওঁলোকক কওঁক যে ভূল কোডটো 9998"</string>
+<string name="vvm3_error_subscriber_unknown_title">"দৃশ্যমান ভ’ইচমেইল অক্ষম"</string>
+<string name="vvm3_error_subscriber_unknown_message">"দৃশ্যমান ভ’ইচমেইল সক্ৰিয় কৰিবলৈ <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> অনুগ্ৰহ কৰি গ্ৰাহক সেৱালৈ ফোন কৰক|"</string>
+<string name="vvm3_error_imap_getquota_error_title">"কিবা ভূল হৈছে"</string>
+<string name="vvm3_error_imap_getquota_error_message">"অনুগ্ৰহ কৰি গ্ৰাহক সেৱালৈ ফোন কৰক <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> তেওঁলোকক কওঁক যে ভূল কোডটো 9997|"</string>
+<string name="vvm3_error_imap_select_error_title">"কিবা ভূল হৈছে"</string>
+<string name="vvm3_error_imap_select_error_message">" অনুগ্ৰহ কৰি গ্ৰাহক সেৱালৈ ফোন কৰক <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> তেওঁলোকক কওঁক যে ভূল কোডটো 9989|"</string>
+<string name="vvm3_error_imap_error_title">"কিবা ভূল হৈছে"</string>
+<string name="vvm3_error_imap_error_message">"অনুগ্ৰহ কৰি গ্ৰাহক সেৱালৈ ফোন কৰক <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> তেওঁলোকক কওঁক যে ভূল কোডটো 9999|"</string>
+<string name="verizon_terms_and_conditions_title">"দৃশ্যমান ভ’ইচমেইল টাৰ্ণ অন"</string>
+<string name="verizon_terms_and_conditions_message">"<xliff:g>%1$s</xliff:g> দৃশ্যমান ভইচমেইল অন কৰি আপুনি Verizon Wireless-ৰ চৰ্তাৱলী আৰু পৰিস্থিতিসমূহৰ সৈতে সন্মত হয়।\n\n<xliff:g>%2$s</xliff:g>"</string>
+<string name="dialer_terms_and_conditions_title">"দৃশ্যমান ভ’ইচমেইল টাৰ্ণ অন"</string>
+<string name="dialer_terms_and_conditions_existing_user_title">"নতুন! আপোনাৰ ভইচমেইল পঢ়ক"</string>
+<string name="dialer_terms_and_conditions_message">"<xliff:g>%s</xliff:g>"</string>
+<string name="dialer_terms_and_conditions_1.0">" আপোনাৰ বাৰ্তাসমূহ চাওক আৰু পঢ়ক, ভইচমেইল কল নকৰাকৈয়ে। আপোনাৰ ভইচমেইলৰ ট্ৰান্সক্ৰিপ্টসমূহ Google-ৰ বিনামূলীয়া অনুলিখন সেৱাৰ দ্বাৰা প্ৰদান কৰা হ\'ব। আপুনি যিকোনো সময়তে ছেটিংছত কোনো এটাক অফ কৰিব পাৰিব। <xliff:g>%s</xliff:g> "</string>
+<string name="dialer_terms_and_conditions_existing_user">" আপোনাৰ ভইচমেইলৰ ট্ৰান্সক্ৰিপ্টসমূহ এতিয়া Google-ৰ বিনামূলীয়া অনুলিখন সেৱাৰ দ্বাৰা প্ৰদান কৰা হ\'ব। আপুনি যিকোনো সময়তে ছেটিংছত ইয়াক অফ কৰিব পাৰিব। %s "</string>
+<string name="dialer_terms_and_conditions_for_verizon_1.0">" আপোনাৰ বাৰ্তাসমূহ চাওক আৰু পঢ়ক, ভইচমেইল কল নকৰাকৈয়ে। "</string>
+<string name="dialer_terms_and_conditions_learn_more">"অধিক শিকক"</string>
+<string name="dialer_terms_and_conditions_existing_user_ack">"ঠিক, বুজি পালো"</string>
+<string name="dialer_terms_and_conditions_existing_user_decline">"নাই, ধন্যবাদ"</string>
+<string name="terms_and_conditions_decline_dialog_title">"দৃশ্যমান ভইচমেইল অক্ষম কৰিবনে?"</string>
+<string name="verizon_terms_and_conditions_decline_dialog_message">"দৃশ্যমান ভ’ইচমেইল অক্ষম হ’ব, যদিহে নিয়ম আৰু চৰ্তাৱলীসমূহ প্ৰত্যাখান কৰা হয়|"</string>
+<string name="verizon_terms_and_conditions_decline_dialog_downgrade">"অক্ষম"</string>
+<string name="dialer_terms_and_conditions_decline_dialog_message">"যদি আপুনি দৃশ্যমান ভইচমেইল অফ কৰে তেন্তে দৃশ্যমান ভইচমেইলক অক্ষম কৰা হ\'ব।"</string>
+<string name="dialer_terms_and_conditions_decline_dialog_downgrade">"অক্ষম"</string>
+<string name="verizon_terms_and_conditions_decline_set_pin_dialog_message">"ভ’ইচমেইল পাব পৰা যাব, কেৱল *86লৈ ফোন কৰি |আগবাঢ়িবলৈ নতুন ভ’ইচমেইলৰ PIN চেট আপ কৰা|"</string>
+<string name="verizon_terms_and_conditions_decline_set_pin_dialog_set_pin">"PIN চেট কৰা"</string>
+</resources>

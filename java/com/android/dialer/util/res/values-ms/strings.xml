@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="low_battery_warning_title">"Amaran Bateri Lemah"</string>
+<string name="low_battery_warning_message">"Tahap bateri anda di bawah 15%.Adakah anda ingin meneruskan panggilan video atau tukarkannya ke panggilan suara?"</string>
+<string name="low_battery_continue_video_call">Ya</string>
+<string name="low_battery_convert_to_voice_call">"Tukar"</string>
+<string name="call_cannot_be_sent">"Panggilan tidak boleh dihantar"</string>
+<string name="activity_not_security">"Tiada hak akses untuk aplikasi ini."</string>
+</resources>

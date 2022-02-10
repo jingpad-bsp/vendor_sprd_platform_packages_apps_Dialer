@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="post_call_message">"କାହିଁକି କଲ କରିଥିଲ କୁହ"</string>
+<string name="post_call_message_1">"ଏହା ବହୁତ ଜରୁରୀ,ମତେ କଲ ବ୍ୟାକ କର"</string>
+<string name="post_call_message_2">"ଯେତେବେଳେ ଆପଣଙ୍କ ପାଖରେ କିଛି ସମୟ ଅଛି ମତେ କଲ ବ୍ୟାକ କର"</string>
+<string name="post_call_message_3">"କିଛି ଜରୁରି ନାହିଁ ଆମେ ପଛରେ ଚାଟ କରିବା"</string>
+<string name="post_call_add_message">"ମେସେଜ ଆଡ କର"</string>
+<string name="post_call_send_message">"ମେସେଜ ପଠାନ୍ତୁ"</string>
+<string name="post_call_message_sent">"ବାର୍ତ୍ତା ପଠାଯାଇ ସରିଛି"</string>
+<string name="view">"ଦୃଶ୍ୟ"</string>
+</resources>

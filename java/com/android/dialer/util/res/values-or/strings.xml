@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="default_notification_description">"ଡିଫଲ୍ଟ ଶବ୍ଦ (<xliff:g id="default_sound_title">%1$s</xliff:g>)"</string>
+<string name="ringtone_silent">"କେହି ନାହିଁ"</string>
+<string name="ringtone_unknown">"ଅଜଣା ରିଙ୍ଗଟୋନ/ସ୍ଵର"</string>
+<string name="activity_not_available">"ଏହି ଡିଭାଇସରେ ସେଥିପାଇଁ କୌଣସି ଆପ୍‌ ନାହିଁ"</string>
+<string name="outgoing_wps_warning">"ଏକ WPS କଲ ସ୍ଥାପିତ କଲେ ଆପଣଙ୍କ ପୂର୍ବରୁ ଥିବା କଲ୍‍ କଟି ଯିବ"</string>
+<string name="dialog_continue">"କ୍ରମଜାରି"</string>
+<string name="camera_privacy_text">"କ୍ୟାମେରା ଅନୁମତି ସକ୍ଷମ"</string>
+<string name="low_battery_warning_title">"ଲୋ ବ୍ୟାଟେରୀ ଚେତାବନୀ"</string>
+<string name="low_battery_warning_message">"ଆପଣଙ୍କ ବ୍ୟାଟେରୀ ସ୍ତର 15%ରୁ ତଳକୁ ରହିଛି। ଆପଣ ଭିଡିଓ କଲ୍ ଜାରି ରଖିବା ପାଇଁ ଚାହାଁନ୍ତି କିମ୍ବା ଭଏସ୍ କଲ୍ କୁ ରୂପାନ୍ତରିତ କରିବା ପାଇଁ ଚାହାଁନ୍ତି?"</string>
+<string name="low_battery_continue_video_call">"ହଁ"</string>
+<string name="low_battery_convert_to_voice_call">"ରୂପାନ୍ତର କରନ୍ତୁ"</string>
+<string name="call_cannot_be_sent">"କଲ୍‍ ପଠାଯାଇପାରିବ ନାହିଁ"</string>
+<string name="activity_not_security">"ଏହି ଆପ୍ଲିକେଶନ ପାଇଁ ଆକ୍ସେସ ଅଧିକାର ନାହିଁ."</string>
+</resources>

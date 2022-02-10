@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="low_battery_warning_title">"ការព្រមានពេលថ្មសល់តិច"</string>
+<string name="low_battery_warning_message">"កម្រិតថ្មរបស់លោកអ្នកទាបជាង15%។តើលោកអ្នកចង់បន្តការហៅវីដេអូរប្តូរទៅជាការហៅជាសម្លងវិញ?"</string>
+<string name="low_battery_continue_video_call">"បាទ/ចាស"</string>
+<string name="low_battery_convert_to_voice_call">"បម្លែង"</string>
+<string name="call_cannot_be_sent">"មិនអាចបញ្ជូនការហៅទូរសព្ទបានទេ"</string>
+<string name="activity_not_security">"គ្មានសិទ្ធិចូលប្រើសម្រាប់កម្មវិធីនេះ។"</string>
+</resources>

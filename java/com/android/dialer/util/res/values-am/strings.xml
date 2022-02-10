@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="low_battery_warning_title">"ዝቅተኛ ባትሪ ማስጠንቀቂያ"</string>
+<string name="low_battery_warning_message">"የባትሪ መጠኖት ከ 15% በታች ነው፡፡ በዚህ ቪዲዮ ጥሪ ወይም ድምጽ ጥሪ መቀጠል ይፈልጋሉ?"</string>
+<string name="low_battery_continue_video_call">"አዎ"</string>
+<string name="low_battery_convert_to_voice_call">"ቀይር"</string>
+<string name="call_cannot_be_sent">"ጥሪው ሊላክ አልቻለም"</string>
+<string name="activity_not_security">"ለዚህ መተግበሪያ ምንም የመዳረሻ መብቶች የሉም።"</string>
+</resources>

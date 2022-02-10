@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="low_battery_warning_title">"Düşük pil uyarısı"</string>
+<string name="low_battery_warning_message">"Pil seviyeniz % 15\'in altında  Görüntülü arama ile devam etmek istiyor musunuz yoksa sesli aramaya mı geçmek istiyorsunuz?"</string>
+<string name="low_battery_continue_video_call">"Evet"</string>
+<string name="low_battery_convert_to_voice_call">"Dönüştür"</string>
+<string name="call_cannot_be_sent">"Arama gönderilemiyor"</string>
+<string name="activity_not_security">"Bu uygulama için erişim izni yok."</string>
+</resources>

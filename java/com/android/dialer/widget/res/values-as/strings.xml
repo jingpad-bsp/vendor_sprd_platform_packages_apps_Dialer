@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="custom_message_hint">"ৰাইট এ কাষ্ট’ম মেছেজ"</string>
+<string name="toolbar_close">"বন্ধ"</string>
+<string name="all_contacts_empty">"এতিয়াও আপোনাৰ কোনো সম্পৰ্ক নাই"</string>
+<string name="all_contacts_empty_add_contact_action">"নতুন কণ্টেক্ট সৃষ্টি কৰক"</string>
+<string name="permission_single_turn_on">"অন কৰক"</string>
+<string name="permission_no_contacts">"আপোনাৰ সম্পৰ্কবোৰ চাবলৈ,সম্পৰ্ক অনুমতি অন কৰক।"</string>
+<string name="add_contact_not_available">"কোনো সম্পৰ্ক এপ্প উপলভ্য নহয়"</string>
+</resources>

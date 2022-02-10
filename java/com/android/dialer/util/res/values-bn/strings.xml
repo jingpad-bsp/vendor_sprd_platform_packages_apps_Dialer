@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="low_battery_warning_title">"কম ব্যাটরীর সতর্কতা"</string>
+<string name="low_battery_warning_message">"আপনার ব্যাটরীর মাত্রা 15% - এর নিচে। আপনি ভিডিও কলটি চালিয়ে যেতে চান না ভয়েস কলে রূপান্তরিত করতে চান?"</string>
+<string name="low_battery_continue_video_call">হ্যাঁ</string>
+<string name="low_battery_convert_to_voice_call">"রূপান্তরিত করুন"</string>
+<string name="call_cannot_be_sent">"কল প্রেরণে ব্যর্থ"</string>
+<string name="activity_not_security">"এই আপ্লিকেশনের জন্য কোনো আক্সেসের অধিকার নেই"</string>
+</resources>

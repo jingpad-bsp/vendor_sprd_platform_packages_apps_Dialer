@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="launcherDialpadActivityLabel">"ଫୋନ୍‍ କିପ୍ୟାଡ"</string>
+<string name="action_copy_number_text">"ସଂଖ୍ୟା କପି କର"</string>
+<string name="copy_transcript_text">"ପ୍ରତିଲେଖନ କପି"</string>
+<string name="action_edit_number_before_call">"କଲ୍‌ କରିବା ପୁର୍ବରୁ ନମ୍ବରକୁ ସଂଶୋଧନ କରନ୍ତୁ"</string>
+<string name="call_log_delete_all">"କଲ୍‌ ହିଷ୍ଟୋରି କ୍ଲିଅର୍‌ କରନ୍ତୁ"</string>
+<string name="call_log_trash_voicemail">"ଭଏସ୍‌ମେଲ୍‌ ଅପସାରିତ କରନ୍ତୁ"</string>
+<string name="snackbar_voicemail_deleted">"ଭଏସମେଲ୍‍ ଡିଲିଟ କରାଯାଇଛି"</string>
+<string name="clearCallLogConfirmation_title">"କଲ୍‌ ହିଷ୍ଟୋରି କ୍ଲିଅର୍‌ କରିବେକି?"</string>
+<string name="clearCallLogConfirmation">"ଏହା ଆପଣଙ୍କର ହିଷ୍ଟୋରିରୁ ସମସ୍ତ କଲ୍‌ଗୁଡିକୁ ଅପସାରିତ କରିବ"</string>
+<string name="clearCallLogProgress_title">"କଲ୍‌ ହିଷ୍ଟୋରି କ୍ଲିଅର୍‌ କରୁଛି..."</string>
+<string name="notification_missedCallTitle">"ମିସ୍‌ଡ୍‌ କଲ୍‌"</string>
+<string name="notification_missedWorkCallTitle">"ମିସ୍ଡ ୱର୍କ କଲ୍"</string>
+<string name="notification_missedCallsTitle">"ମିସ୍ଡ କଲ୍ ଗୁଡ଼ିକ"</string>
+<string name="notification_missedCallsMsg">"<xliff:g id="num_missed_calls">%d</xliff:g> ମିସ ହୋଇଯାଇଥିବା କଲ"</string>
+<string name="notification_missedCall_call_back">"କଲ୍‌ ବ୍ୟାକ୍‌"</string>
+<string name="notification_missedCall_message">"ମେସେଜ"</string>
+<string name="post_call_notification_message">"<xliff:g id="name">%1$s</xliff:g>: <xliff:g id="message">%2$s</xliff:g>"</string>
+<string name="notification_voicemail_text_format">"ଡାଏଲ୍ କରନ୍ତୁ <xliff:g id="voicemail_number">%s</xliff:g>"</string>
+<string name="notification_voicemail_no_vm_number">"ଭଏସମେଲ୍ ନମ୍ବର ଜଣା ନାହିଁ"</string>
+<string name="notification_voicemail_callers_list">"<xliff:g id="newer_callers">%1$s</xliff:g>, <xliff:g id="older_caller">%2$s</xliff:g>"</string>
+<string name="notification_new_voicemail_ticker">"<xliff:g id="caller">%1$s</xliff:g> ରୁ ନୁଆ ଭଏସ୍‌‌ମେଲ୍‌"</string>
+<string name="voicemail_playback_error">"ଭଏସ୍‌‌ମେଲ୍‌ ଚଲେଇ ହେଲାନାହିଁ"</string>
+<string name="voicemail_fetching_content">"ଭଏସ୍‌‌ମେଲ୍‌ ଲୋଡ଼କରୁଛି..."</string>
+<string name="voicemail_fetching_timout">"ଭଏସ୍‌‌ମେଲ୍‌ ଲୋଡ଼ କରିପାରିଲା ନାହିଁ"</string>
+<string name="call_log_item_count_and_date">"(<xliff:g id="count">%1$d</xliff:g>) <xliff:g id="date">%2$s</xliff:g>"</string>
+<string name="description_playback_speakerphone">"ସ୍ପିକର୍‌ଫୋନ ସୁଇଚ ଅନ୍‌ କିମ୍ବା ଅଫ୍‌ କରିବା"</string>
+<string name="description_playback_seek">"ପ୍ଲେବ୍ୟାକ ପୋଜିସନ ଖୋଜନ୍ତୁ"</string>
+<string name="action_menu_call_history_description">"କଲ୍‌ ହିଷ୍ଟୋରି"</string>
+<string name="action_menu_overflow_description">"ଅଧିକ ବିକଳ୍ପ"</string>
+<string name="action_menu_dialpad_button">"କି ପ୍ୟାଡ"</string>
+<string name="dialer_settings_label">"ସଂସ୍ଥାପନା"</string>
+<string name="simulator_submenu_label">"ସିମୁ୍ଲେଟର"</string>
+<string name="new_ui_launcher_shortcut_label">"ନୂଆ UI ସର୍ଟକର୍ଟ ବନାନ୍ତୁ"</string>
+<string name="description_entering_bulk_action_mode">"ବଲ୍କ ଆକ୍ସନ ମୋଡ କୁ ପ୍ରବେଶ"</string>
+<string name="description_leaving_bulk_action_mode">"ବଲ୍କ ଆକ୍ସନ ମୋଡ ରୁ ବାହାର"</string>
+<string name="description_selecting_bulk_action_mode">"<xliff:g id="nameOrNumber">%1$s</xliff:g> ଚୟନିତ"</string>
+<string name="description_unselecting_bulk_action_mode">"<xliff:g id="nameOrNumber">%1$s</xliff:g> ଚୟନ ହୋଇନାହିଁ"</string>
+<string name="description_contact_details">"<xliff:g id="nameOrNumber">%1$s</xliff:g> ପାଇଁ ଯୋଗାଯୋଗ ବିବରଣୀ |"</string>
+<string name="description_spam_contact_details">"ସଂଦିଗ୍ଧ ସ୍ପାମ କଲର ଙ୍କ ସଂପର୍କ ବିବରଣୀ <xliff:g id="nameOrNumber">%1$s</xliff:g>"</string>
+<string name="description_num_calls">"<xliff:g id="numberOfCalls">%1$s</xliff:g> କଲ୍‌ଗୁଡ଼ିକ |"</string>
+<string name="description_video_call">"ଭିଡ଼ିଓ କଲ୍‌ |"</string>
+<string name="description_start_voice_search">"ଭଏସ୍‌ ସର୍ଚ୍ଚ ଅରମ୍ଭ କରନ୍ତୁ"</string>
+<string name="voicemail">"ଭଏସମେଲ୍‍"</string>
+<string name="description_cancel_multi_select">"ବ୍ୟାଚ ଆକ୍ସନ ମୋଡ ରଦ୍ଦ କରନ୍ତୁ"</string>
+<string name="voicemailMultiSelectDeleteConfirm">"କାଟ"</string>
+<string name="voicemailMultiSelectDeleteCancel">"ବାତିଲ କରନ୍ତୁ"</string>
+<string name="voicemailMultiSelectActionBarTitle">"<xliff:g id="number">%1$s</xliff:g> ଚୟନ କରାଯାଇଛି"</string>
+<plurals name="delete_voicemails_confirmation_dialog_title">
+<item quantity="one">"<b>ଏହି ଭଏସ ମେଲ କୁ ଡିଲିଟ କରନ୍ତୁ? </b>"</item>
+<item quantity="other">"<b>ଏହି ଭଏସ ମେଲ ଗୁଡିକୁ ଡିଲିଟ କରନ୍ତୁ? </b>"</item>
+</plurals>
+<string name="voicemailCallLogDateTimeFormat">"<xliff:g example="Jul 25, 2014" id="date">%1$s</xliff:g>  <xliff:g example="2:49 PM" id="time">%2$s</xliff:g> ଠାରେ"</string>
+<string name="voicemailDurationFormat">"<xliff:g example="10" id="minutes">%1$02d</xliff:g>:<xliff:g example="20" id="seconds">%2$02d</xliff:g>"</string>
+<string name="voicemailCallLogDateTimeFormatWithDuration">"<xliff:g example="Jul 25, 2014 at 2:49PM" id="dateAndTime">%1$s</xliff:g> \u2022 <xliff:g example="01:22" id="duration">%2$s</xliff:g>"</string>
+<string name="voice_search_not_available">"ଭଏସ୍‌ ସର୍ଚ୍ଚ ଉପଲବ୍ଧ ନାହିଁ"</string>
+<string name="dialer_hint_find_contact">"ଯୋଗାଯୋଗ ସର୍ଚ୍ଚକରନ୍ତୁ"</string>
+<string name="block_number_search_hint">"ନମ୍ବର ଆଡ କର କିମ୍ବା ସଂପର୍କ ଖୋଜ"</string>
+<string name="call_log_all_empty">"ଆପଣଙ୍କ କଲ ଇତିହାସ ଖାଲି ଅଛି"</string>
+<string name="call_log_all_empty_action">"ଗୋଟିଏ କଲ୍‌ କରନ୍ତୁ"</string>
+<string name="call_log_missed_empty">"ଆପଣଙ୍କର କୌଣସି ମିସ୍‌ଡ୍‌ କଲ୍‌ ନାହିଁ |"</string>
+<string name="call_log_voicemail_empty">"ଆପଣଙ୍କର ଭଏସ୍‌ମେଲ୍‌ ଇନବକ୍ସ ଶୂନ୍ୟ ଅଛି |"</string>
+<string name="call_log_all_title">"ସମସ୍ତ"</string>
+<string name="call_log_missed_title">"ମିସ୍‌ଡ୍‍"</string>
+<string name="tab_speed_dial">"ସ୍ପିଡ଼ ଡାଏଲ୍‌"</string>
+<string name="tab_history">"କଲ୍‌ ହିଷ୍ଟୋରି"</string>
+<string name="tab_all_contacts">"ସମ୍ପର୍କ"</string>
+<string name="tab_voicemail">"ଭଏସମେଲ୍‍"</string>
+<string name="search_shortcut_call_number">"<xliff:g id="number">%s</xliff:g> କଲ୍‌କରନ୍ତୁ"</string>
+<string name="search_shortcut_create_new_contact">"ଗୋଟିଏ ନୁଆ ଯୋଗାଯୋଗ ସୃଷ୍ଟିକରନ୍ତୁ"</string>
+<string name="search_shortcut_add_to_contact">"ଗୋଟିଏ ଯୋଗାଯୋଗକୁ ଯୋଗକରନ୍ତୁ"</string>
+<string name="search_shortcut_send_sms_message">"ମେସେଜ ପଠାନ୍ତୁ"</string>
+<string name="search_shortcut_make_video_call">"ଭିଡ଼ିଓ କଲ୍‌ କରନ୍ତୁ"</string>
+<string name="search_shortcut_block_number">"ନମ୍ବର ବ୍ଲକ"</string>
+<string name="speed_dial_empty">"ଆପଣଙ୍କ ସ୍ପିଡ଼ ଡ଼ାଏଲ୍‌ରେ ଏପର୍ଯ୍ୟନ୍ତ କେହି ନାହାଁନ୍ତି"</string>
+<string name="speed_dial_empty_add_favorite_action">"ଗୋଟିଏ ଫେଭରାଇଟ୍‌ ଯୋଗକରନ୍ତୁ"</string>
+<string name="remove_contact">"ବାହାର କରି ଦିଅନ୍ତୁ"</string>
+<string name="select_all">"ସବୁ ଯାକ ବାଛନ୍ତୁ"</string>
+<string name="call_log_action_video_call">"ଭିଡିଓ ଡାକ"</string>
+<string name="call_log_action_set_up_video">"ଭିଡିଓ କଲିଂ ସେଟ୍‍ ଅପ୍‍ କରନ୍ତୁ"</string>
+<string name="call_log_action_invite_video">"ଭିଡିଓ କଲ୍‌ରେ ଆମନ୍ତ୍ରଣ କରନ୍ତୁ"</string>
+<string name="call_log_action_send_message">"ମେସେଜ ପଠାନ୍ତୁ"</string>
+<string name="call_log_action_details">"କଲ୍‌ ବିବରଣୀ"</string>
+<string name="call_log_action_share_voicemail">"...କୁ ପଠାନ୍ତୁ"</string>
+<string name="call_log_action_call">"<xliff:g example="John Smith" id="nameOrNumber">^1</xliff:g> କୁ କଲ କରନ୍ତୁ "</string>
+<string name="description_incoming_missed_call">"<xliff:g example="John Smith" id="nameOrNumber">^1</xliff:g>, <xliff:g example="Mobile" id="typeOrLocation">^2</xliff:g>, <xliff:g example="2 min ago" id="timeOfCall">^3</xliff:g>, <xliff:g example="on SIM 1" id="phoneAccount">^4</xliff:g> ଠାରୁ ମିସ୍‍ କଲ"</string>
+<string name="description_incoming_answered_call">"<xliff:g example="John Smith" id="nameOrNumber">^1</xliff:g>, <xliff:g example="Mobile" id="typeOrLocation">^2</xliff:g>, <xliff:g example="2 min ago" id="timeOfCall">^3</xliff:g>, <xliff:g example="on SIM 1" id="phoneAccount">^4</xliff:g> ଠାରୁ ଉତ୍ତର କଲ"</string>
+<string name="description_unread_voicemail">"ପଢା ନଯାଇଥିବା <xliff:g example="John Smith" id="nameOrNumber">^1</xliff:g>, <xliff:g example="Mobile" id="typeOrLocation">^2</xliff:g>, <xliff:g example="2 min ago" id="timeOfCall">^3</xliff:g>, <xliff:g example="on SIM 1" id="phoneAccount">^4</xliff:g> ଠାରୁ ଆସିଥିବା ଭଏସ ମେଲ "</string>
+<string name="description_read_voicemail">"<xliff:g example="John Smith" id="nameOrNumber">^1</xliff:g>, <xliff:g example="Mobile" id="typeOrLocation">^2</xliff:g>, <xliff:g example="2 min ago" id="timeOfCall">^3</xliff:g>, <xliff:g example="on SIM 1" id="phoneAccount">^4</xliff:g> ଠାରୁ ଆସିଥିବା ଭଏସ ମେଲ "</string>
+<string name="description_outgoing_call">"<xliff:g example="John Smith" id="nameOrNumber">^1</xliff:g>, <xliff:g example="Mobile" id="typeOrLocation">^2</xliff:g>, <xliff:g example="2 min ago" id="timeOfCall">^3</xliff:g>, <xliff:g example="on SIM 1" id="phoneAccount">^4</xliff:g> କୁ କଲ"</string>
+<string name="call_log_via_number">"<xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> ଦ୍ୱାରା"</string>
+<string name="call_log_via_number_phone_account">"<xliff:g example="SIM 1" id="phoneAccount">%1$s</xliff:g> ଦ୍ୱାରା <xliff:g example="(555) 555-5555" id="number">%2$s</xliff:g>"</string>
+<string name="description_call_action">"<xliff:g example="John Smith" id="nameOrNumber">^1</xliff:g> କୁ କଲ କରନ୍ତୁ "</string>
+<string name="description_video_call_action">"<xliff:g example="John Smith" id="nameOrNumber">^1</xliff:g> ଭିଡିଓ କଲ "</string>
+<string name="description_voicemail_action">"<xliff:g example="John Smith" id="nameOrNumber">^1</xliff:g> ଠାରୁ ଆସିଥିବା ଭଏସ ମେଲ କୁ ଶୁଣ "</string>
+<string name="description_create_new_contact_action">"<xliff:g example="John Smith" id="nameOrNumber">^1</xliff:g> ପାଇଁ ସଂପର୍କ ତିଆରି କର "</string>
+<string name="description_add_to_existing_contact_action">"<xliff:g example="John Smith" id="nameOrNumber">^1</xliff:g> କୁ ପୂର୍ବରୁ ଥିବା ସଂପର୍କ ସୂଚୀ ରେ ଯୋଡ"</string>
+<string name="description_details_action">"<xliff:g example="John Smith" id="nameOrNumber">^1</xliff:g>ପାଇଁ କଲ ବିବରଣୀ "</string>
+<string name="call_log_header_today">"ଆଜି"</string>
+<string name="call_log_header_yesterday">"ଗତକାଲି"</string>
+<string name="call_log_header_other">"ଅଧିକତର ପୁରୁଣା"</string>
+<string name="voicemail_speaker_on">"ସ୍ପିକର୍‌ ଟର୍ଣ୍ଣ ଅନ୍‌ କରନ୍ତୁ |"</string>
+<string name="voicemail_speaker_off">"ସ୍ପିକର୍‌ ଟର୍ଣ୍ଣ ଅଫ୍‌ କରନ୍ତୁ |"</string>
+<string name="voicemail_play_start_pause">"ପ୍ଲେବ୍ୟାକ୍‌କୁ ଚାଲୁକରନ୍ତୁ କିମ୍ବା ପଜ୍‌କରନ୍ତୁ |"</string>
+<string name="display_options_title">"ଡିସପ୍ଲେ ଅପସନ୍‌"</string>
+<string name="sounds_and_vibration_title">"ସାଉଣ୍ଡସ୍‌ ଓ ଭାଇବ୍ରେସନ୍‌"</string>
+<string name="accessibility_settings_title">"ପ୍ରବେଶାଧିକାର/ପ୍ରାପ୍ତାଧିକାର"</string>
+<string name="ringtone_title">"ଫୋନ ରିଙ୍ଗଟୋନ୍‌"</string>
+<string name="vibrate_on_ring_title">"କଲ୍‌ଗୁଡ଼ିକ ପାଇଁ ମଧ୍ୟ ଭାଇବ୍ରେଟ କରାନ୍ତୁ"</string>
+<string name="dtmf_tone_enable_title">"କି ପ୍ୟାଡ ଟୋନ"</string>
+<string name="dtmf_tone_length_title">"ଲମ୍ବା କି ପ୍ୟାଡ ଟୋନ"</string>
+<string-array name="dtmf_tone_length_entries">
+<item>"ସ୍ୱାଭାବିକ"</item>
+<item>"ଲମ୍ବା"</item>
+</string-array>
+<string name="respond_via_sms_setting_title">"କ୍ଷୀପ୍ର ଜବାବଗୁଡିକ"</string>
+<string name="call_settings_label">"କଲ୍‌ଗୁଡିକ"</string>
+<string name="manage_blocked_numbers_label">"କଲ୍‍ ଅବରୋଧ କରିବା"</string>
+<string name="voicemail_settings_label">"ଭଏସମେଲ୍‍"</string>
+<string name="blocked_numbers_disabled_emergency_header_label">"କଲ୍‍  ଅବରୋଧ କରିବା ଅସ୍ଥାୟୀ ଭାବରେ ବନ୍ଦ ଅଛି"</string>
+<string name="blocked_numbers_disabled_emergency_desc">"କଲ୍‍  ଅବରୋଧ ଅକ୍ଷମ କରାଯାଇଛି କାରଣ ଆପଣ ଗତ 48 ଘଣ୍ଟା ମଧ୍ୟରେ ଏହି ଫୋନ୍‍ ରୁ ଆପାତ କାଳୀନ ସେବା ସହିତ ସଂପର୍କ କରିଛନ୍ତି| ଏହା 48 ଘଣ୍ଟା ଅବଧି ସରିଗଲା ପରେ ଆପେ ଆପେ ପୂନର୍ବାର ସକ୍ଷମ ହୋଇଯିବ|"</string>
+<string name="import_send_to_voicemail_numbers_label">"ନମ୍ବର ଆଦାନ କରିବା"</string>
+<string name="blocked_call_settings_import_description">"ଆପଣ ପ୍ରଥମେ କିଛି କଲର ମାନଙ୍କୁ ଅନ୍ୟ ଏପ୍‍ ମାଧ୍ୟମରେ ଭଏସ ମେଲ ରେ ସ୍ୱଚାଳିତ ରୂପରେ ପଠେଇ ବାକୁ ଚିହ୍ନିତ କରିଛନ୍ତି|"</string>
+<string name="blocked_call_settings_view_numbers_button">"ନମ୍ବର ଗୁଡିକ ଦେଖ"</string>
+<string name="blocked_call_settings_import_button">"ଇମ୍ପୋର୍ଟ"</string>
+<string name="description_blocked_number_list_delete">"ନମ୍ବର ଅନ୍‍ବ୍ଲକ"</string>
+<string name="addBlockedNumber">"ନମ୍ବର ଯୋଗକରନ୍ତୁ"</string>
+<string name="block_number_footer_message_vvm">"ଏହି ନମ୍ବର ଗୁଡିକରୁ ଆସୁଥିବା କଲ୍‍  ଅବରୋଧ ହୋଇଯିବ ଏବଂ ଭଏସ ମେଲ ଆପେ ହଟିଯିବ|"</string>
+<string name="block_number_footer_message_no_vvm">ଏହି ନମ୍ବର ଗୁଡିକରୁ ଆସୁଥିବା କଲ୍‍  ଅବରୋଧ ହୋଇଯିବ କିନ୍ତୁ ତଥାପି ସେମାନେ ଆପଣଙ୍କୁ ଭଏସ ମେଲ ଛାଡିବାକୁ ସକ୍ଷମ ହେବେ|</string>
+<string name="block_list">"ବ୍ଲକ୍ ହୋଇଥିବା ସଂଖ୍ୟାଗୁଡ଼ିକ"</string>
+<string name="alreadyBlocked">"<xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> ଅବରୋଧ ହୋଇସାରିଛି"</string>
+<string name="phone_account_settings_label">"କଲ୍‌କରିବା ଆକାଉଣ୍ଟ ଗୁଡିକ"</string>
+<string name="permission_no_speeddial">"ସ୍ପିଡ ଡାଏଲ କୁ ସକ୍ଷମ କରିବା ପାଇଁ, ସଂପର୍କ ଅନୁମତି ଅନ୍‍ କରନ୍ତୁ|"</string>
+<string name="permission_no_calllog">"ଆପଣଙ୍କ କଲ ଲଗ ଦେଖିବା ପାଇଁ, ଫୋନ ଅନୁମତି ଅନ୍‍ କରନ୍ତୁ|"</string>
+<string name="permission_no_search">"ଆପଣଙ୍କ ଯୋଗାଯୋଗ ଗୁଡ଼ିକୁ ଖୋଜିବାକୁ, କଣ୍ଟାକ୍ଟ ପର୍ମିସନରେ ଟର୍ଣ୍ଣ ଅନ୍‌ କରନ୍ତୁ |"</string>
+<string name="permission_place_call">"ଆପଣ ଏକ କଲ କରିବା ପାଇଁ, ଫୋନ ଅନୁମତି ଅନ୍‍ କରନ୍ତୁ|"</string>
+<string name="toast_cannot_write_system_settings">"ସିଷ୍ଟମ ସେଟିଂସ୍‌କୁ ରାଇଟ୍‌ କରିବାକୁ ଫୋନ ଆପ୍‌ର ଅନୁମତି ନାହିଁ |"</string>
+<string name="blocked_number_call_log_label">"ଅବରୋଧିତ"</string>
+<string name="call_log_action_block_report_number">"ଅବରୋଧ/ ସ୍ପାମ ରିପୋର୍ଟ"</string>
+<string name="call_log_action_block_number">"ନମ୍ବର ବ୍ଲକ"</string>
+<string name="call_log_action_remove_spam">"ସ୍ପାମ ନୁହେଁ"</string>
+<string name="call_log_action_unblock_number">"ନମ୍ବର ଅନ୍‍ବ୍ଲକ"</string>
+<string name="spam_number_call_log_label">"ସ୍ପାମ"</string>
+<string name="call_composer_connection_failed">"<xliff:g id="name">%1$s</xliff:g> ଅଫଲାଇନ ଅଛି ଏବଂ ତାକୁ ପହଁଚି  ହେବନାହିଁ|"</string>
+<string name="about_phone_label">"ବିଷୟରେ"</string>
+<string name="voicemail_transcription_branding_text">"Google ଦ୍ୱାରା ଟ୍ରାନ୍ସସ୍କ୍ରାଇ‌ କରାଯାଇଛି"</string>
+<string name="voicemail_transcription_in_progress">"ଟ୍ରାନ୍ସସ୍କାରିବ କରାଯାଉଛି..."</string>
+<string name="voicemail_transcription_failed">"ଟ୍ରାନ୍ସସ୍କ୍ରିପ୍ଟ ଉପଲବ୍ଧ ନାହିଁ."</string>
+<string name="voicemail_transcription_failed_language_not_supported">"ଟ୍ରାନ୍ସସ୍କ୍ରିପ୍ଟ ଉପଲବ୍ଧ ନାହିଁ. ଭାଷା ସମର୍ଥିତ ନୁହେଁ."</string>
+<string name="voicemail_transcription_failed_no_speech">"ଟ୍ରାନ୍ସସ୍କ୍ରିପ୍ଟ ଉପଲବ୍ଧ ନାହିଁ. କୌଣସି କଥନ ସନାକ୍ତ ହୋ‍ଇନାହିଁ."</string>
+<string name="voicemail_donation_promo_title">"ପ୍ରତିଲିପି ନିର୍ଭୁଲତା ଉନ୍ନତ କରିବାରେ ସହାୟତା କରିବେ କି?"</string>
+<string name="voicemail_donation_promo_content">"Google କୁ ପ୍ରତିଲିପି ସହିତ ଏହି ଏବଂ ଭବିଷ୍ୟତର ଭଏସ୍‍ମେଲ୍‍ ବାର୍ତାଗୁଡ଼ିକ ପର୍ଯ୍ୟାଲୋଚନା କରିବାକୁ ଦିଅନ୍ତୁ | ସେଗୁଡ଼ିକ ବେନାମି ଭାବେ ସଂରକ୍ଷଣ କରା ହେବ | ଯେୌଣସି ସମୟରେ ସେଟିଂସ୍ଟ ବଦଳାନ୍ତୁ | <xliff:g example="Learn more">%1$s</xliff:g> "</string>
+<string name="voicemail_donation_promo_opt_in">"ହଁ, ମୁଁ ଭିତରେ ଅଛି"</string>
+<string name="voicemail_donation_promo_opt_out">"ନାହିଁ ଧନ୍ୟବାଦ"</string>
+<string name="voicemail_transcription_rating">"ପ୍ରତିଲିପି ଗୁଣବତ୍ତା ନିଧାରଣ କରନ୍ତୁ"</string>
+<string name="voicemail_transcription_rating_thanks">"ଆପଣଙ୍କ ମତାମତ ପାଇଁ ଧନ୍ୟବାଦ"</string>
+<string name="description_rating_good">"ପସନ୍ଦ"</string>
+<string name="description_rating_bad">"ଅପସନ୍ଦ"</string>
+<string name="view_conversation">"ଦୃଶ୍ୟ"</string>
+<string name="ec_data_deleted">"କଲ୍‍ ହଟେଇ ଦିଆଯାଇଛି| ମେସେଜ ରେ ଏହି କଲ ସମୟରେ ସେୟାର ହୋଇଥିବା ଅନୁଲଗ୍ନକ କୁ ଦେଖନ୍ତୁ ଏବଂ ହଟାନ୍ତୁ"</string>
+<string name="multiple_ec_data_deleted">"କଲ୍‍ ହଟେଇ ଦିଆଯାଇଛି| ମେସେଜ ରେ  କଲ ସମୟରେ ସେୟାର ହୋଇଥିବା ଅନୁଲଗ୍ନକ କୁ ଦେଖନ୍ତୁ ଏବଂ ହଟାନ୍ତୁ"</string>
+<string name="location_permission_message">"ଡାଏଲ କରୁଥିବା ବ୍ୟକ୍ତିଙ୍କୁ ଡିଭାଇସ ର ସ୍ଥାନ ବ୍ୟବହାର କରିବାର ଅନୁମତି ଦିଅନ୍ତୁ?"</string>
+<string name="view_setting">"ଦୃଶ୍ୟ"</string>
+<string name="item_all_calls">"ଅଲ୍‍ କଲ୍‌ ଲଗ୍‌ଗୁଡିକ"</string>
+<string name="item_sim_calls">"SIM%d କଲ୍‍ ଲଗ୍‌ଗୁଡିକ"</string>
+<string name="doneButton">"ହୋଇଗଲା"</string>
+<string name="cancel">"ବାତିଲ କରନ୍ତୁ"</string>
+<string name="delete_selected_calls">"ସିଲେକ୍ଟ କରାଯାଇଥିବା ରେକର୍ଡ଼ ଗୁଡ଼ିକୁ ଅପସାରିତ କରିବାକୁ ଆପଣ ସୁନିଶ୍ଚିତକି?"</string>
+<string name="delete_success">"ସଫଳତାର ସହ ଅପସାରିତ"</string>
+<string name="clear_all_call_log">"ସମସ୍ତ କଲ୍‌ ଲଗ୍‌ କ୍ଲିଅର୍‌ କରନ୍ତୁ"</string>
+<string name="clear_selected_call_log">"ସିଲେକ୍ଟ ହୋ‌ଇଥିବା କଲ୍‌ ଲଗ୍‌ କ୍ଲିଅର୍‌ କରନ୍ତୁ"</string>
+<string name="unselect_all">"ସମସ୍ତ ଅମନୋନୀତ କରନ୍ତୁ"</string>
+<string name="delete_all_calls_confirm">"ଆପଣଙ୍କ ସମସ୍ତ ରେକର୍ଡ଼ଗୁଡିକୁ ଆପଣ ଅପସାରିତ କରିବାକୁ ଚାହାଁନ୍ତିକି?"</string>
+<string name="do_not_select">"ଆପନ ଡିଲିଟ କରିବା ପାଇଁ ରେକର୍ଡ ବାଛି ନାହାନ୍ତି |"</string>
+<string name="delete_calls">"କାଟ"</string>
+<string name="search_description">"କଲ ଲଗ ଖୋଜନ୍ତୁ"</string>
+<string name="select_horizontal_photo">"ସମାନ୍ତରାଳ ଫୋଟୋ ଚୟନ କରନ୍ତୁ"</string>
+<string name="select_vertical_photo">"ଭୂଲମ୍ବ ଫୋଟୋ ଚୟନ କରନ୍ତୁ"</string>
+<string name="video_photo_select_title">"ଭିଡିଓ ମିଟିଂ ଫୋଟୋ"</string>
+<string name="select_photo">"ଫୋଟୋ ଚୟନ କରନ୍ତୁ"</string>
+<string name="gallery_error">"ଗ୍ୟାଲେରୀ ବନ୍ଦ ହୋଇଯାଇଛି"</string>
+<string name="no_photo">"କୌଣସି ଫୋଟୋ ନାହିଁ"</string>
+<string name="default_photo">"ଡିଫଲ୍ଟ ଛବି"</string>
+<string name="select_photo_from_gallery">"ଗ୍ୟାଲେରୀରୁ ଫୋଟୋ ଚୟନ କରନ୍ତୁ"</string>
+<string name="save_photo_successful">"ଫୋଟୋ ସେଭ୍ କରିବା ସଫଳ ହୋଇଛି"</string>
+<string name="save_photo_failed">"ଫୋଟୋ ସେଭ୍ କରିବା ବିଫଳ ହୋଇଛି"</string>
+<string name="permission_set_meeting_photo">"ଭିଡିଓ କଲ୍‍ ମିଟିଂ କଲ୍‍ ସେଟ୍‍ କରିବା ପାଇଁ, ଷ୍ଟୋରେଜ ଅନୁମତି ଚାଲୁ କରନ୍ତୁ."</string>
+<string name="delete_unsuccess">"ସଫଳ ବିଫଳ ହେଲା"</string>
+<string name="delete_all_calls_specific_number_confirm">"ଏହା ଏହି ନମ୍ବର ର ସମସ୍ତ କଲ କୁ ଡିଲିଟ କରିଦେବ"</string>
+<string name="action_delete_all_call_of_this_number">"ଏହି କଲ ର ସମସ୍ତ ନମ୍ବର କୁ ହଟାଅ"</string>
+<string name="fast_dial_settings">"ଦ୍ରୁତ ଡ଼ାଏଲ୍‌ ସେଟିଂସ୍‌"</string>
+<string name="delete_fastdial">"ଦ୍ରୁତ ଡ଼ାଏଲ୍‌ ଅପସାରିତ କରନ୍ତୁ"</string>
+<string name="update_fastdial">"ଦ୍ରୁତ ଡ଼ାଏଲ୍‌ ଅପ୍‌ଡେଟ୍‌ କରନ୍ତୁ"</string>
+<string name="sim_list_title">"ଦୟାକରି SIM କାର୍ଡ ଚୟନ କରନ୍ତୁ"</string>
+<string name="no_sim_text">"ଦୟାକରି SIM କାର୍ଡ଼ ଭର୍ତ୍ତିକରନ୍ତୁ କିମ୍ବା ଆରମ୍ଭକରନ୍ତୁ"</string>
+<string name="fast_dial_number_invalid">"ଦୟାକରି ଏକ ମାନ୍ୟ ସଂଖ୍ୟା ଏଣ୍ଟର କରନ୍ତୁ"</string>
+<string name="fast_dial_title">"ଦ୍ରୁତ ଡ଼ାଏଲ୍‌"</string>
+<string name="fast_dial_in_guest_mode">"ଓନର୍‌ ମୋଡ଼ରେ ନଥିଲେ ଦ୍ରୁତ ଡ଼ାଏଲ୍‌କୁ ବ୍ୟବହାର କରିହେବ ନାହିଁ"</string>
+<string name="no_fast_dial_number">"ଦ୍ରୁତ ଡ଼ାଏଲ ନମ୍ବର ସେଟ୍‌ ନାହିଁ |"</string>
+<string name="dialog_make_call_airplane_mode_message">"ଏକ କଲ୍‍ କରିବାକୁ, ପ୍ରଥମେ ଏରୋପ୍ଲେନ୍ ମୋଡ୍‍ ଅଫ୍‍ କରନ୍ତୁ ।"</string>
+<string name="selectContact">"ଯୋଗାଯୋଗ ସିଲେକ୍ଟ କରନ୍ତୁ"</string>
+<string name="menu_add">"କଣ୍ଟାକ୍ଟ ଯୋଗକରନ୍ତୁ"</string>
+<string name="alert_dialog_yes">"ହଁ"</string>
+<string name="alert_dialog_no">"ନାହିଁ"</string>
+<string name="call_log_outgoing_title">"ଆଉଟଗୋ‌ଇଂ"</string>
+<string name="call_log_incoming_title">"ଇନକମିଂ"</string>
+<string name="call_log_outgoing_empty">"ଆପଣଙ୍କର କୌଣସି ଆଉଟଗୋ‌ଇଂ କଲ୍‌ ନାହିଁ |"</string>
+<string name="call_log_incoming_empty">"ଆପଣଙ୍କର କୌଣସି ଇନକମିଂ କଲ୍‌ ନାହିଁ |"</string>
+<string name="no_available_sim">"ଦୟାକରି ସିମକାର୍ଡ ଇନସର୍ଟ କରନ୍ତୁ କିମ୍ବା ଏନାବଲ୍ କରନ୍ତୁ"</string>
+<string name="modem_abnormal">"ମଡେମ ସ୍ୱାଭାବିକ ନୁହେ ଏବଂ ପାସୱାର୍ଡ ଦ୍ୱାରା ଅନ୍ୟାନ୍ୟ ଅନ୍ୟାନ୍ୟ ଆପ୍ଲିକେଶନଗୁଡ଼ିକରେ ପ୍ରବେଶ କରାଟାଇପାରିବ ନାହିଁ."</string>
+<string name="ip_dialing_title">"ଆଇପି ଡ଼ାଏଲିଂ"</string>
+<string name="ip_dialing_list_title">"IP ଡ଼ାଏଲ୍‌ ତାଲିକା"</string>
+<string name="ip_no_number">"IP ପ୍ରିଫିକ୍ସର ଅଭାବ"</string>
+<string name="ip_no_number_msg">"IP ପ୍ରିଫିକ୍ସ ଫୋନରେ ଷ୍ଟୋର୍‌ ହୋ‌ଇନାହିଁ |"</string>
+<string name="ip_number_empty_loading">"IP ଡ଼ାଏଲ୍‌ ତାଲିକା ଖାଲିଅଛି |"</string>
+<string name="remove">"ବାହାର କରି ଦିଅନ୍ତୁ"</string>
+<string name="ip_number_is_too_long">"IP ଡ଼ାଏଲ୍‌ ନମ୍ବରଗୁଡିକ 20ଟି ସଂଖ୍ୟାରୁ ଅଧିକ ହୋ‌ଇପାରିବ ନାହିଁ |"</string>
+<string name="add_ip_number_str">"ନୁଆ"</string>
+<string name="ip_dialing_num_error">"କେବଳ 10ଟି IP ନମ୍ବରକୁ ସେଭ୍‌ କରିହେବ"</string>
+<string name="ip_dialing_num_repeat">"ନମ୍ବର ରିପିଟ,ଯୋଡିବା ବିଫଳ"</string>
+<string name="menu_selected_all">"ସବୁ ଯାକ ବାଛନ୍ତୁ"</string>
+<string name="menu_select_none">"ଅଲ୍‌କୁ ଅନସିଲେକ୍ଟ କରନ୍ତୁ"</string>
+<string name="ip_dial_menu">"ଆଇପି ଡ଼ାଏଲ"</string>
+<string name="vowifi_conf_do_not_support">"ବର୍ତ୍ତମାନ ଏହି ଆକସନ୍ କୁ ସପୋର୍ଟ କରନ୍ତୁ ନାହିଁ ।"</string>
+<string name="make_video_call_menu">"ଭିଡ଼ିଓ କଲ୍‌ କରନ୍ତୁ"</string>
+<string name="dialpad_multi_call_menu">"ମଲଟି କଲ୍‌"</string>
+<string name="cound_not_make_mutil_call">"ମଲ୍ଟି କଲ୍‍ କରାଯାଇ ପାରିନାହିଁ"</string>
+<string name="no_available_number">"କୌଣସି ଉପଲବ୍ଧ ନମ୍ବର ନାହିଁ"</string>
+<string name="number_anr_isnull">"କଣ୍ଟାକ୍ଟ ନମ୍ବର ଟି ଖାଲି ଅଛି"</string>
+<string name="menu_call_blocked_label">"କଲ୍‍ ଅବରୋଧ କରିବା"</string>
+    <plurals name="notification_voicemail_title">
+<item quantity="one">"ଭଏସମେଲ୍‍"</item>
+<item quantity="other">"<xliff:g id="count">%1$d</xliff:g> ଭଏସ୍‍‍ମେଲ୍‍"</item>
+    </plurals>
+     <string name="ip_dial_in_guest_mode">"ଓନର ମୋଡ୍ ରେ ନ ଥିବା ଆଇପି ଡାଏଲ୍ ବ୍ୟବହାର କରିପାରିବେ ନାହିଁ"</string>
+
+</resources>

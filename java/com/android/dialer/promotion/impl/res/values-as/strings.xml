@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="rtt_promotion_title">"কলৰ মাজতে প্ৰকৃত-সময়ৰ পাঠ মেছেজিং"</string>
+<string name="rtt_promotion_details">"কলা, শুনোতে অসুবিধা পোৱা, কথন অক্ষমতা থকা বা কেৱল ধ্বনিতকৈও অধিক প্ৰয়োজন থকা কলাৰসকলক RTT-এ সহায় কৰে। আপোনাৰ ডিভাইচৰ কল ইতিহাসৰ ভিতৰত RTT মেছেজিং ট্ৰান্সক্ৰিপ্টসমূহ মজুত কৰা হয়। <xliff:g exmaple="Learn More">%1$s</xliff:g>"</string>
+<string name="duo_disclosure_title">" Duo-ৰ দ্বাৰা ভিডিঅ\' কল কৰক "</string>
+<string name="duo_disclosure_details">" Google Duo ভিডিঅ\' কলে আপোনাক বন্ধুসকল আৰু পৰিয়ালৰ সৈতে মুখামুখিকৈ চ্যাট কৰিবলৈ দিয়ে। ডাটা মাছুল প্ৰযোজ্য হ\'ব পাৰে। <xliff:g example="Learn More">%1$s</xliff:g> "</string>
+</resources>

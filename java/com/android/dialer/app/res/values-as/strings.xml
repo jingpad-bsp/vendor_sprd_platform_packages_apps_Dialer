@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="launcherDialpadActivityLabel">"ফোন কী-পেড"</string>
+<string name="action_copy_number_text">"নম্বৰ কপি কৰক"</string>
+<string name="copy_transcript_text">"ট্ৰেঞ্চক্ৰিপচন কপি কৰক"</string>
+<string name="action_edit_number_before_call">"কল কৰাৰ আগতে নম্বৰ সম্পাদনা কৰক"</string>
+<string name="call_log_delete_all">"কল ইতিহাস পৰিষ্কাৰ কৰক"</string>
+<string name="call_log_trash_voicemail">"ভএসমেল মোহাৰি পেলাওক।"</string>
+<string name="snackbar_voicemail_deleted">"ভইচমেইল বিলোপ কৰা হৈছে"</string>
+<string name="clearCallLogConfirmation_title">"কল ইতিহাস পৰিষ্কাৰ কৰিব?"</string>
+<string name="clearCallLogConfirmation">"ই আপোনাৰ কল ইতিহাসৰ পৰা সকলো কল বিলোপ কৰিব"</string>
+<string name="clearCallLogProgress_title">"কল ইতিহাস পৰিষ্কাৰ কৰি আছে\u2026"</string>
+<string name="notification_missedCallTitle">"মিচড কল।"</string>
+<string name="notification_missedWorkCallTitle">"মিচড ৱৰ্ক কল"</string>
+<string name="notification_missedCallsTitle">"মিছড কলসমূহ"</string>
+<string name="notification_missedCallsMsg">"<xliff:g id="num_missed_calls">%d</xliff:g> মিছদ ক’লসমূহ"</string>
+<string name="notification_missedCall_call_back">"কলবেক"</string>
+<string name="notification_missedCall_message">"বাৰ্তা"</string>
+<string name="post_call_notification_message">"<xliff:g id="name">%1$s</xliff:g>: <xliff:g id="message">%2$s</xliff:g>"</string>
+<string name="notification_voicemail_text_format">"ডায়েল <xliff:g id="voicemail_number">%s</xliff:g>"</string>
+<string name="notification_voicemail_no_vm_number">"ভয়চমেইল নম্বৰ অজ্ঞাত"</string>
+<string name="notification_voicemail_callers_list">"<xliff:g id="newer_callers">%1$s</xliff:g>, <xliff:g id="older_caller">%2$s</xliff:g> "</string>
+<string name="notification_new_voicemail_ticker">"<xliff:g id="কলer">%1$s</xliff:g>পৰা নতুন ভএসমেল।"</string>
+<string name="voicemail_playback_error">"ভইচমেইল প্লে কৰিব নোৱাৰিলে"</string>
+<string name="voicemail_fetching_content">"ভইচমেইল লোড কৰি আছে\u2026"</string>
+<string name="voicemail_fetching_timout">"ভইচমেইল লোড কৰিব নোৱাৰিলে"</string>
+<string name="call_log_item_count_and_date">"(<xliff:g id="count">%1$d</xliff:g>) <xliff:g id="date">%2$s</xliff:g> "</string>
+<string name="description_playback_speakerphone">"স্পিকাৰফোন চুইচ অন বা অফ কৰক"</string>
+<string name="description_playback_seek">"প্লেবেক অৱস্থান বিচাৰক"</string>
+<string name="action_menu_call_history_description">"কল ইতিহাস"</string>
+<string name="action_menu_overflow_description">"অধিক বিকল্প"</string>
+<string name="action_menu_dialpad_button">"কী-পেড"</string>
+<string name="dialer_settings_label">"ছেটিংছ"</string>
+<string name="simulator_submenu_label">"চিমুলেটৰ"</string>
+<string name="new_ui_launcher_shortcut_label">"নতুন UI চমুপথ সৃষ্টি কৰা"</string>
+<string name="description_entering_bulk_action_mode">"বাল্ক একশ্বন মোড ভৰোৱা"</string>
+<string name="description_leaving_bulk_action_mode">"বাল্ক একশ্বন মোড এৰি দিয়া"</string>
+<string name="description_selecting_bulk_action_mode">"বাচনি কৰা <xliff:g id="nameOrNumber">%1$s</xliff:g>"</string>
+<string name="description_unselecting_bulk_action_mode">"বাচনি নকৰা <xliff:g id="nameOrNumber">%1$s</xliff:g>"</string>
+<string name="description_contact_details">"<xliff:g id="nameOrNumber">%1$s</xliff:g>ৰ বাবে যোগাযোগ বিৱৰণ"</string>
+<string name="description_spam_contact_details">"সন্দেহযুক্ত স্পাম ক’লাৰ বাবে কন্টেক সৱিশেষসমূহ<xliff:g id="nameOrNumber">%1$s</xliff:g>"</string>
+<string name="description_num_calls">"<xliff:g id="numberOfCalls">%1$s</xliff:g> কল।"</string>
+<string name="description_video_call">"ভিডিঅ\' কল।"</string>
+<string name="description_start_voice_search">"ভয়চ চাৰ্চ আৰম্ভ কৰক"</string>
+<string name="voicemail">"ভয়েচমেইল"</string>
+<string name="description_cancel_multi_select">"বেষ্ট একশ্বন মোড কেন্সেল কৰা"</string>
+<string name="voicemailMultiSelectDeleteConfirm">"মচি দিয়া"</string>
+<string name="voicemailMultiSelectDeleteCancel">"নাকচ"</string>
+<string name="voicemailMultiSelectActionBarTitle">"<xliff:g id="number">%1$s</xliff:g> বাচনি কৰা"</string>
+<plurals name="delete_voicemails_confirmation_dialog_title">
+<item quantity="one">"<b>ভইচমেইল ডিলিট কৰা?</b>"</item>
+<item quantity="other">"<b>ভইচমেইলসমূহ ডিলিট কৰা? </b>"</item>
+</plurals>
+<string name="voicemailCallLogDateTimeFormat">"<xliff:g example="Jul 25, 2014" id="date">%1$s</xliff:g> এট <xliff:g example="2:49 PM" id="time">%2$s</xliff:g>"</string>
+<string name="voicemailDurationFormat">"<xliff:g example="10" id="minutes">%1$02d</xliff:g>:<xliff:g example="20" id="seconds">%2$02d</xliff:g>"</string>
+<string name="voicemailCallLogDateTimeFormatWithDuration">"<xliff:g example="Jul 25, 2014 at 2:49PM" id="dateAndTime">%1$s</xliff:g> \u2022 <xliff:g example="01:22" id="duration">%2$s</xliff:g>"</string>
+<string name="voice_search_not_available">"ভইচ অনুসন্ধান উপলব্ধ নহয়"</string>
+<string name="dialer_hint_find_contact">"কণ্টেক্ট বিচাৰক"</string>
+<string name="block_number_search_hint">"নম্বৰ যোগ কৰক বা সম্পৰ্ক অনুসন্ধান কৰক"</string>
+<string name="call_log_all_empty">"আপোনাৰ ক’ল ল’গটি খালী"</string>
+<string name="call_log_all_empty_action">"কল এটা কৰক"</string>
+<string name="call_log_missed_empty">"আপোনাৰ কোনো মিচড কল নাই।"</string>
+<string name="call_log_voicemail_empty">"আপোনাৰ ভইচমেইল ইনবক্স খালি আছে।"</string>
+<string name="call_log_all_title">"সকলো"</string>
+<string name="call_log_missed_title">"মিচড।"</string>
+<string name="tab_speed_dial">"স্পিড ডায়েল"</string>
+<string name="tab_history">"কল ইতিহাস"</string>
+<string name="tab_all_contacts">"কণ্টেক্সমূহ"</string>
+<string name="tab_voicemail">"ভয়েচমেইল"</string>
+<string name="search_shortcut_call_number">"লৈ কল কৰক <xliff:g id="number">%s</xliff:g> "</string>
+<string name="search_shortcut_create_new_contact">"নতুন কণ্টেক্ট সৃষ্টি কৰক"</string>
+<string name="search_shortcut_add_to_contact">"এটা সম্পৰ্কলৈ যোগ কৰক"</string>
+<string name="search_shortcut_send_sms_message">"এটা বাৰ্তা প্ৰেৰণ কৰক"</string>
+<string name="search_shortcut_make_video_call">"এটা ভিডিঅ\' কল কৰক"</string>
+<string name="search_shortcut_block_number">"নম্বৰ অৱৰোধ কৰক"</string>
+<string name="speed_dial_empty">"এতিয়াও আপোনাৰ স্পিড ডায়েলত কোনো নাই"</string>
+<string name="speed_dial_empty_add_favorite_action">"ফেভাৰিট এটা যোগ দিয়ক"</string>
+<string name="remove_contact">"মচি দিয়ক"</string>
+<string name="select_all">"আটাইবোৰ নিৰ্ধাৰণ কৰক"</string>
+<string name="call_log_action_video_call">"ভিডিঅ’ কল"</string>
+<string name="call_log_action_set_up_video">"ভিডিঅ\' কলিং ছেট আপ কৰক"</string>
+<string name="call_log_action_invite_video">"ভিডিঅ\' কললৈ আমন্ত্ৰণ কৰক"</string>
+<string name="call_log_action_send_message">"এটা বাৰ্তা প্ৰেৰণ কৰক"</string>
+<string name="call_log_action_details">"কল বিবৰণ।"</string>
+<string name="call_log_action_share_voicemail">" .......পঠিওৱা হৈছে"</string>
+<string name="call_log_action_call">"ক’ল <xliff:g example="John Smith" id="nameOrNumber">^1</xliff:g> "</string>
+<string name="description_incoming_missed_call">"মিছদ ক’ল আহিছে <xliff:g example="John Smith" id="nameOrNumber">^1</xliff:g>, <xliff:g example="Mobile" id="typeOrLocation">^2</xliff:g>, <xliff:g example="2 min ago" id="timeOfCall">^3</xliff:g>, <xliff:g example="on SIM 1" id="phoneAccount">^4</xliff:g>."</string>
+<string name="description_incoming_answered_call">"উত্তৰ ক’ল আহিছে<xliff:g example="John Smith" id="nameOrNumber">^1</xliff:g>, <xliff:g example="Mobile" id="typeOrLocation">^2</xliff:g>, <xliff:g example="2 min ago" id="timeOfCall">^3</xliff:g>, <xliff:g example="on SIM 1" id="phoneAccount">^4</xliff:g>."</string>
+<string name="description_unread_voicemail">"নপঢ়া ভ’ইচমেইল<xliff:g example="John Smith" id="nameOrNumber">^1</xliff:g>, <xliff:g example="Mobile" id="typeOrLocation">^2</xliff:g>, <xliff:g example="2 min ago" id="timeOfCall">^3</xliff:g>, <xliff:g example="on SIM 1" id="phoneAccount">^4</xliff:g>."</string>
+<string name="description_read_voicemail">"ভইচমেইল আহিছে<xliff:g example="John Smith" id="nameOrNumber">^1</xliff:g>, <xliff:g example="Mobile" id="typeOrLocation">^2</xliff:g>, <xliff:g example="2 min ago" id="timeOfCall">^3</xliff:g>, <xliff:g example="on SIM 1" id="phoneAccount">^4</xliff:g>."</string>
+<string name="description_outgoing_call">"ক’ল কৰিছে<xliff:g example="John Smith" id="nameOrNumber">^1</xliff:g>, <xliff:g example="Mobile" id="typeOrLocation">^2</xliff:g>, <xliff:g example="2 min ago" id="timeOfCall">^3</xliff:g>, <xliff:g example="on SIM 1" id="phoneAccount">^4</xliff:g>."</string>
+<string name="call_log_via_number">"মাধ্যমে <xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g>"</string>
+<string name="call_log_via_number_phone_account">"<xliff:g example="SIM 1" id="phoneAccount">%1$s</xliff:g>মাধ্যমে<xliff:g example="(555) 555-5555" id="number">%2$s</xliff:g>"</string>
+<string name="description_call_action">"ক’ল <xliff:g example="John Smith" id="nameOrNumber">^1</xliff:g> "</string>
+<string name="description_video_call_action">"ভিডিঅ’ ক’ল<xliff:g example="John Smith" id="nameOrNumber">^1</xliff:g>. "</string>
+<string name="description_voicemail_action">"ইয়াৰ পৰা ভইচমেইল শুনক <xliff:g example="John Smith" id="nameOrNumber">^1</xliff:g> "</string>
+<string name="description_create_new_contact_action">" সৃষ্টি কৰা <xliff:g example="John Smith" id="nameOrNumber">^1</xliff:g> "</string>
+<string name="description_add_to_existing_contact_action">" থকা কন্টেকসমূহ <xliff:g example="John Smith" id="nameOrNumber">^1</xliff:g> ৰ লগত সংযোজন কৰা "</string>
+<string name="description_details_action">" ইয়াৰ বাবে ক’ল সৱিশেষসমূহ <xliff:g example="John Smith" id="nameOrNumber">^1</xliff:g> "</string>
+<string name="call_log_header_today">"আজি"</string>
+<string name="call_log_header_yesterday">"কালি"</string>
+<string name="call_log_header_other">"পুৰণি"</string>
+<string name="voicemail_speaker_on">"স্পিকাৰ অন কৰক।"</string>
+<string name="voicemail_speaker_off">"স্পিকাৰ অফ কৰক।"</string>
+<string name="voicemail_play_start_pause">"প্লেবেক আৰম্ভ বা বন্ধ কৰক।"</string>
+<string name="display_options_title">"বিকল্পসমূহৰ প্ৰদৰ্শন"</string>
+<string name="sounds_and_vibration_title">"ধ্বনি আৰু কম্পন"</string>
+<string name="accessibility_settings_title">"আহৰণযোগ্যতা"</string>
+<string name="ringtone_title">"ফোনৰ ৰিংটোন"</string>
+<string name="vibrate_on_ring_title">"কলৰ বাবে কম্পণো কৰিব"</string>
+<string name="dtmf_tone_enable_title">"কী-পেড ট’ন"</string>
+<string name="dtmf_tone_length_title">"কী-পেড ট’ন দৈৰ্ঘ্য"</string>
+<string-array name="dtmf_tone_length_entries">
+<item>"সাধাৰণ"</item>
+<item>"দীঘল"</item>
+</string-array>
+<string name="respond_via_sms_setting_title">"তাৎক্ষণিক সঁহাৰিসমূহ"</string>
+<string name="call_settings_label">"কলবোৰ"</string>
+<string name="manage_blocked_numbers_label">"কল অৱৰোধ কৰা"</string>
+<string name="voicemail_settings_label">"ভয়েচমেইল"</string>
+<string name="blocked_numbers_disabled_emergency_header_label">"কল অৱৰোধ অস্থায়ীভাবে অফ হৈছে"</string>
+<string name="blocked_numbers_disabled_emergency_desc">" কল অৱৰোধ অক্ষম কৰা হৈছে কাৰণ আপুনি এই ফোনৰ পৰা যোৱা 48 ঘণ্টাত জৰুৰী সেৱাৰ সৈতে যোগাযোগ কৰিছিল। 48 ঘণ্টা সময় উকলি যোৱাৰ পাছত ইয়াক স্বয়ংক্ৰিয়ভাবে পুনঃসক্ষম কৰা হ\'ব। "</string>
+<string name="import_send_to_voicemail_numbers_label">"নম্বৰবোৰ আমদানি কৰক"</string>
+<string name="blocked_call_settings_import_description">"আপুনি পূৰ্বতে কিছুমান কলাৰক আন এপ্পৰ মাধ্যমেৰে স্বয়ংক্ৰিয়ভাবে ভইচমেইললৈ প্ৰেৰণ কৰিবলৈ চিহ্নিত কৰিছিল। "</string>
+<string name="blocked_call_settings_view_numbers_button">"নম্বৰসমূহ চাওক"</string>
+<string name="blocked_call_settings_import_button">"আমদানি"</string>
+<string name="description_blocked_number_list_delete">"নম্বৰ অনাৱৰোধ কৰক"</string>
+<string name="addBlockedNumber">"নম্বৰ যোগ কৰক"</string>
+<string name="block_number_footer_message_vvm">"এই নম্বৰবোৰৰ পৰা অহা কল অৱৰোধ কৰা হ\'ব আৰু ভইচমেইলবোৰ স্বয়ংক্ৰিয়ভাবে বিলোপ কৰা হ\'ব। "</string>
+<string name="block_number_footer_message_no_vvm">"এই নম্বৰবোৰৰ পৰা অহা কল অৱৰোধ কৰা হ\'ব কিন্তু তেওঁলোকে তথাপিও আপোনাৰ বাবে ভইচমেইল ৰাখিব পাৰিব। "</string>
+<string name="block_list">"অৱৰোধ কৰা নম্বৰসমূহ"</string>
+<string name="alreadyBlocked">"<xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> ইতিমধ্যে ব্ল’ক কৰা হৈছে|"</string>
+<string name="phone_account_settings_label">"ফোন একাউন্ট ছেটিং"</string>
+<string name="permission_no_speeddial">"স্পিড ডায়েল সক্ষম কৰিবলৈ, সম্পৰ্ক অনুমতি অন কৰক।"</string>
+<string name="permission_no_calllog">"আপোনাৰ কল লগ চাবলৈ,ফোনৰ অনুমতি অন কৰক।"</string>
+<string name="permission_no_search">"আপোনাৰ সম্পৰ্কবোৰ অনুসন্ধান কৰিবলৈ, সম্পৰ্ক অনুমতি অন কৰক।"</string>
+<string name="permission_place_call">"এটা কল স্থাপন কৰিবলৈ, ফোনৰ অনুমতি অন কৰক।"</string>
+<string name="toast_cannot_write_system_settings">"ছিষ্টেম ছেটিংছত লিখিবলৈ ফোন এপ্পৰ অনুমতি নাই।"</string>
+<string name="blocked_number_call_log_label">"অৱৰোধিত"</string>
+<string name="call_log_action_block_report_number">"ব্ল’ক/স্পাম ৰিপৰ্ট"</string>
+<string name="call_log_action_block_number">"নম্বৰ অৱৰোধ কৰক"</string>
+<string name="call_log_action_remove_spam">"স্পাম নোহোৱা"</string>
+<string name="call_log_action_unblock_number">"নম্বৰ অনাৱৰোধ কৰক"</string>
+<string name="spam_number_call_log_label">"স্পাম"</string>
+<string name="call_composer_connection_failed">"<xliff:g id="name">%1$s</xliff:g> অফলাইন হৈ আছে আৰু ঢুকি পোৱা নাই"</string>
+<string name="about_phone_label">"বিষয়ে"</string>
+<string name="voicemail_transcription_branding_text">"Google-ৰ দ্বাৰা লিপন্ত্যৰিত"</string>
+<string name="voicemail_transcription_in_progress">"লিপন্ত্যৰ কৰি আছে..."</string>
+<string name="voicemail_transcription_failed">"লিপন্ত্যৰ উপলব্ধ নহয়।"</string>
+<string name="voicemail_transcription_failed_language_not_supported">"লিপন্ত্যৰ উপলব্ধ নহয়। ভাষা সমৰ্থিত নহয়।"</string>
+<string name="voicemail_transcription_failed_no_speech">"লিপন্ত্যৰ উপলব্ধ নহয়। কোনো স্পিচ্ চিনাক্ত হোৱা নাই।"</string>
+<string name="voicemail_donation_promo_title">"নিৰ্ভুল অনুলিখন উন্নতি কৰাত সহায় কৰিবনে?"</string>
+<string name="voicemail_donation_promo_content">" Google-ক ট্ৰান্সক্ৰিপ্টসমূহৰ দ্বাৰা এইটো আৰু ভৱিষ্যত ভইচমেইল বাৰ্তাসমূহৰ পুনৰীক্ষণ কৰিবলৈ দিয়ক। এইবোৰক বেনামীভাৱে মজুত কৰা হ\'ব। যিকোনো সময়তে ছেটিংছ সলনি কৰক। <xliff:g example="Learn more">%1$s</xliff:g> "</string>
+<string name="voicemail_donation_promo_opt_in">"হয়, মই অন্তৰ্ভুক্ত"</string>
+<string name="voicemail_donation_promo_opt_out">"নাই, ধন্যবাদ"</string>
+<string name="voicemail_transcription_rating">"অনুলিখনৰ মান নিৰ্ধাৰণ কৰক"</string>
+<string name="voicemail_transcription_rating_thanks">"আপোনাৰ ফীডবেকৰ বাবে ধন্যবাদ"</string>
+<string name="description_rating_good">"লাইক"</string>
+<string name="description_rating_bad">"ডিচলাইক"</string>
+<string name="view_conversation">"চাওক"</string>
+<string name="ec_data_deleted">"ক’ল ডিলিট কৰা হৈছে | এই ক’লৰ সময়ত মেছেজত ভাগবতৰা কৰা সংলগ্নসমূহ চাওঁক আৰু ডিলিট কৰক|"</string>
+<string name="multiple_ec_data_deleted">"ক’ল ডিলিট কৰা হৈছে | এই ক’লৰ সময়ত মেছেজত ভাগবতৰা কৰা সংলগ্নসমূহ চাওঁক আৰু ডিলিট কৰক|"</string>
+<string name="location_permission_message">"ডায়েলাৰক এই ডিভাইচৰ অৱস্থানত প্ৰৱেশ কৰিবলৈ অনুমতি দিয়ক"</string>
+<string name="view_setting">"চাওক"</string>
+<string name="item_all_calls">"সকলো কল ল\'গ"</string>
+<string name="item_sim_calls">"SIM%d কল ল\'গ"</string>
+<string name="doneButton">"হৈ গৈছে"</string>
+<string name="cancel">"নাকচ"</string>
+<string name="delete_selected_calls">"আপুনি এই চয়নিত ৰেকৰ্ডবোৰ বিলোপ কৰিবলৈ নিশ্চিতনে?"</string>
+<string name="delete_success">"সফলতাৰে বিলোপ কৰা হৈছে"</string>
+<string name="clear_all_call_log">"সকলো কল ল\'গ চাফা কৰক"</string>
+<string name="clear_selected_call_log">"নির্বাচিত কল ল\'গ চাফা কৰক"</string>
+<string name="unselect_all">"আটাইবোৰ নিৰ্বাচন নাকচ"</string>
+<string name="delete_all_calls_confirm">"আপোনাৰ সকলো তথ্য মচি পেলাবলৈ আপুনি বিচাৰে নে ?"</string>
+<string name="do_not_select">"বিলোপ কৰিবলৈ আপুনি ৰেকৰ্ড চয়ন নকৰিলে।"</string>
+<string name="delete_calls">"মচি দিয়া"</string>
+<string name="search_description">"ক’ল ল’গ সমূহ অনুসন্ধান কৰা"</string>
+<string name="select_horizontal_photo">"আনুভূমিক ফটো বাচনি কৰক"</string>
+<string name="select_vertical_photo">"উলম্ব ফটো বাচনি কৰক"</string>
+<string name="video_photo_select_title">"ভিডিঅ’ই পূৰ কৰিছে ফটো"</string>
+<string name="select_photo">"ফটো নিৰ্বাচন কৰক"</string>
+<string name="gallery_error">"গেলেৰী বন্ধ হৈ ৰৈছে৷"</string>
+<string name="no_photo">"ফটো নাই"</string>
+<string name="default_photo">"ডিফল্ট ফটো"</string>
+<string name="select_photo_from_gallery">"গেলেৰীৰ পৰা ফটো বাছনি কৰক"</string>
+<string name="save_photo_successful">"ফটো সংৰক্ষণ সফল হৈছে"</string>
+<string name="save_photo_failed">"ফটো সংৰক্ষণ ব্যৰ্থ হৈছে"</string>
+<string name="permission_set_meeting_photo">"ভিডিঅ’ কল মিটিং ফটো ছেট কৰিবলৈ,  ষ্ট\'ৰেজ অনুমতি অন কৰক।"</string>
+<string name="delete_unsuccess">"ডে\'লিট বিফল হ\'ল"</string>
+<string name="delete_all_calls_specific_number_confirm">"এইয়াই এই নম্বৰৰ সকলো ক’লসমূহ ডিলিট কৰি দিব" </string>
+<string name="action_delete_all_call_of_this_number">"এই নম্বৰৰ সকলো ক’লসমূহ ডিলিট কৰক" </string>
+<string name="fast_dial_settings">"ফাষ্ট ডায়েল চেটিং সমুহ"</string>
+<string name="delete_fastdial">"দ্ৰুত ডায়েল বিলোপ কৰক"</string>
+<string name="update_fastdial">"দ্ৰুত ডায়েল আপডেট কৰক"</string>
+<string name="sim_list_title">"অনুগ্ৰহ কৰি SIMকার্ড নির্বাচন কৰক"</string>
+<string name="no_sim_text">"SIM কাৰ্ড সুমুৱাওক বা আৰম্ভ কৰক"</string>
+<string name="fast_dial_number_invalid">"অনুগ্ৰহ কৰি বৈধ নম্বৰ ভৰ্তি কৰক"</string>
+<string name="fast_dial_title">"ফাষ্ট ডায়েল"</string>
+<string name="fast_dial_in_guest_mode">"ফাষ্ট ডায়েল ও’নাৰ ম’ডত নাই ব্যৱহাৰ কৰিব নোৱাৰিব" </string>
+<string name="no_fast_dial_number">"দ্ৰুত ডায়েল নম্বৰ ছেট কৰা নাই।"</string>
+<string name="dialog_make_call_airplane_mode_message">"এটা কল কৰিবলৈ, প্ৰথমতে বিমান মোড অফ কৰক।"</string>
+<string name="selectContact">"কণ্টেক্ট বাচনি কৰক"</string>
+<string name="menu_add">"কণ্টেক্ট যোগ কৰক"</string>
+<string name="alert_dialog_yes">"হয়"</string>
+<string name="alert_dialog_no">"নহয়"</string>
+<string name="call_log_outgoing_title">"আউটগ\'য়িং"</string>
+<string name="call_log_incoming_title">"ইনকামিং"</string>
+<string name="call_log_outgoing_empty">"আপোনাৰ কোনো আউটগোয়িং কল নাই।"</string>
+<string name="call_log_incoming_empty">"আপোনাৰ কোনো ইনকামিং কল নাই।"</string>
+<string name="no_available_sim">"অনুগ্ৰহ কৰি sim কাৰ্ড আন্তঃসংযোগ বা সক্ষম কৰক"</string>
+<string name="modem_abnormal">"মডেমটো অস্বাভাৱিক আৰু পাছৱৰ্ডৰ দ্বাৰা অন্যান্য এপ্লিকেছনত প্ৰৱেশ কৰিব নোৱাৰি।"</string>
+<string name="ip_dialing_title">"IP ডায়েলিং"</string>
+<string name="ip_dialing_list_title">"IP ডায়েল তালিকা"</string>
+<string name="ip_no_number">"IP প্রিফিক্ষ অবিহনে"</string>
+<string name="ip_no_number_msg">"IP প্রিফিক্ষ ফোনত ষ্টোৰ কৰা হোৱা নাই ."</string>
+<string name="ip_number_empty_loading">"IP ডায়েল তালিকাখন খালী।"</string>
+<string name="remove">"মচি দিয়ক"</string>
+<string name="ip_number_is_too_long">"IP ডায়েল নম্বৰ 20তকৈ ডাঙৰ হ\'ব নোৱাৰে।"</string>
+<string name="add_ip_number_str">"নতুন"</string>
+<string name="ip_dialing_num_error">"কেৱল 10 টা IP নম্বৰ সঞ্চিতকৰিব পাৰি"</string>
+<string name="ip_dialing_num_repeat">"নম্বৰ পুনৰাই কওঁক, সংযোজন ব্যৰ্থ হ’ল|"</string>
+<string name="menu_selected_all">"আটাইবোৰ নিৰ্ধাৰণ কৰক"</string>
+<string name="menu_select_none">"আটাইবোৰৰ নিৰ্বাচন প্ৰত্যাহাৰ কৰক"</string>
+<string name="ip_dial_menu">"IP ডায়েল"</string>
+<string name="vowifi_conf_do_not_support">"এই কাৰ্য এতিয়া সমৰ্থন নকৰিব৷"</string>
+<string name="make_video_call_menu">"এটা ভিডিঅ\' কল কৰক"</string>
+<string name="dialpad_multi_call_menu">"একাধিক কল"</string>
+<string name="cound_not_make_mutil_call">"একাধিক কল কৰিব নোৱাৰিলে"</string>
+<string name="no_available_number">"কোনো নম্বৰ উপলব্ধ নাই"</string>
+<string name="number_anr_isnull">"কন্টেক নম্বৰটি শূন্য"</string>
+<string name="menu_call_blocked_label">"কল অৱৰোধ কৰা"</string>
+    <plurals name="notification_voicemail_title">
+<item quantity="one">"ভয়েচমেইল"</item>
+<item quantity="other">"<xliff:g id="count">%1$d</xliff:g>ভইচমেইল"</item>
+    </plurals>
+     <string name="ip_dial_in_guest_mode">"গৰাকী মোডত নথকা বাবে IP ডায়েল ব্যৱহাৰ কৰিব পৰা নাযাব"</string>
+
+</resources>

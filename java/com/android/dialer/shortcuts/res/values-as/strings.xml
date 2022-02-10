@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="dialer_shortcut_disabled_message">"চৰ্টকাট ন’ট ৱ’ৰ্কিং |ড্ৰেগ টু ৰিমুভ|"</string>
+<string name="dialer_shortcut_contact_not_found_or_has_no_number">"কন্টেক ন’ লংগাৰ এভেলেব’ল|"</string>
+<string name="dialer_shortcut_no_permissions">"কান্ট ক’ল ৱুইদআউট পাৰমিছন"</string>
+</resources>

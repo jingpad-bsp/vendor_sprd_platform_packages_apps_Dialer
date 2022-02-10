@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="nearby_places">"ପାଖା ପାଖି ସ୍ଥାନ"</string>
+<string name="search_location_permission">"ଆପଣଙ୍କ ନିକଟସ୍ଥ ସ୍ଥାନଗୁଡ଼ିକର ଯୋଗାଯୋଗ ତଥ୍ୟ ପାଇବା ପାଇଁ, ଆପଣଙ୍କ ଲୋକେଶନ ଆକ୍ସେସ ଅନୁମତି ପ୍ରଦାନ କରନ୍ତୁ."</string>
+<string name="nearby_places_allow">"ଅନୁମତି ଦିଅନ୍ତୁ"</string>
+<string name="nearby_places_dismiss">"ଡିସ୍‌ମିସ୍‌"</string>
+</resources>

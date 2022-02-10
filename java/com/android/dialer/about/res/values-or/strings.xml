@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="build_version_label">"ସଂସ୍କରଣ ତିଆରିକରନ୍ତୁ"</string>
+<string name="open_source_license_detail_label">"ଓପନ୍ ସୋର୍ସ ସଫ୍ଟୱେୟାର ପାଇଁ ଲାଇସେନ୍ସ ଡିଟେଲ୍ସ"</string>
+<string name="licenseActivityLabel">"ଓପନ୍‌ ସୋର୍ସ୍‌ ଲାଇସେନ୍ସଗୁଡିକ"</string>
+<string name="privacy_policy_label">"ଗୋପନୀୟତା ନୀତି"</string>
+<string name="terms_of_service_label">"ସର୍ଭିସର ସର୍ତ୍ତ"</string>
+</resources>

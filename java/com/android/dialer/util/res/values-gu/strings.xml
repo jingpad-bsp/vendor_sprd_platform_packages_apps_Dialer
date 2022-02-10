@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="low_battery_warning_title">"નીચી બેટરીની  ચેતવણી"</string>
+<string name="low_battery_warning_message">"તમારી બૅટરીનું સ્તર 15%થી નીચે છે.શું તમે વિડિઓ કૉલ ચાલુ રાખવા માંગો છો કે પછી  વૉઇસ કૉલમાં  રૂપાંતરિત કરવા માંગો છો?"</string>
+<string name="low_battery_continue_video_call">"હા"</string>
+<string name="low_battery_convert_to_voice_call">"રૂપાંતર કરો"</string>
+<string name="call_cannot_be_sent">"કૉલને મોકલી શકતા નથી"</string>
+<string name="activity_not_security">"આ એપ્લિકેશનને ઍક્સેસ કરવા માટેના અધિકારો નથી"</string>
+</resources>

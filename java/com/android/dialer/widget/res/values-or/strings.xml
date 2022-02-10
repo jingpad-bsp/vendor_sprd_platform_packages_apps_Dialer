@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="custom_message_hint">"ଏକ କଷ୍ଟମ ମେସେଜ ଲେଖ"</string>
+<string name="toolbar_close">"ବନ୍ଦ"</string>
+<string name="all_contacts_empty">"ଆପଣଙ୍କ ଏପର୍ଯ୍ୟନ୍ତ କୌଣସି ଯୋଗଯୋଗ ନାହିଁ"</string>
+<string name="all_contacts_empty_add_contact_action">"ଗୋଟିଏ ନୁଆ ଯୋଗାଯୋଗ ସୃଷ୍ଟିକରନ୍ତୁ"</string>
+<string name="permission_single_turn_on">"ସକ୍ରିୟ କରନ୍ତୁ"</string>
+<string name="permission_no_contacts">"ଆପଣଙ୍କ ସଂପର୍କ ଦେଖିବାକୁ, ସଂପର୍କ ଅନୁମତି ଦେଖନ୍ତୁ|"</string>
+<string name="add_contact_not_available">"କୌଣସି ଯୋଗାଯୋଗ ଆପ୍‌ ଉପଲବ୍ଧ ନାହିଁ"</string>
+</resources>

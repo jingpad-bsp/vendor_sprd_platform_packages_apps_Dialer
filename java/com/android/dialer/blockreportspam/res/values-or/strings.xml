@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="block_number_confirmation_title">"<xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g>ବ୍ଲକ୍‍ କରିବେ? "</string>
+<string name="block_number_confirmation_message_new_filtering">"ଆଉ ଆପଣ ଏହି ନମ୍ବରରୁ କଲ କିମ୍ବା ଟେକ୍ସ୍ଟ ପାଇବେ ନାହିଁ"</string>
+<string name="block_number_ok">"ବ୍ଲକ୍‌"</string>
+<string name="unblock_number_ok">"ଅନବ୍ଲକ୍"</string>
+<string name="block_report_number_alert_title">"<xliff:g id="number">%1$s</xliff:g>?ଅବରୋଧ"</string>
+<string name="block_report_number_alert_details">"ଆପଣ ଏହି ନମ୍ବର ଠାରୁ ଆଉ କଲ୍‍ ବା ଟେକ୍ସଟ ପ୍ରାପ୍ତ କରିବେ ନାହିଁ।"</string>
+<string name="block_number_alert_details">"<xliff:g id="text">%1$s</xliff:g> ଏହି କଲ ଟି ସ୍ପାମ ଭାବରେ ରିପୋର୍ଟ କରାଯିବ|"</string>
+<string name="unblock_number_alert_details">"ଏହି ନମ୍ବର ରୁ ଅବରୋଧ ହଟାଯିବ ଏବଂ ସ୍ପାମ ନୁହେଁ ଭାବରେ ରିପୋର୍ଟ କରାଯିବ| ଭବିଷ୍ଯତ କଲ ଗୁଡିକ ସ୍ପାମ ଭାବରେ ଚିହ୍ନିତ ହେବେ ନାହିଁ|"</string>
+<string name="unblock_report_number_alert_title">"Unblock <xliff:g id="number">%1$s</xliff:g> ଅବରୋଧ ହଟାଅ?"</string>
+<string name="report_not_spam_alert_button">"ରିପୋର୍ଟ କରନ୍ତୁ"</string>
+<string name="report_not_spam_alert_title">"ଏକ ତ୍ରୁଟି ରିପୋର୍ଟ କର"</string>
+<string name="report_not_spam_alert_details">"<xliff:g id="number">%1$s</xliff:g> ରୁ ଭବିଷ୍ଯତ କଲ ଗୁଡିକ ସ୍ପାମ ଭାବରେ ଚିହ୍ନିତ ହେବେ ନାହିଁ|"</string>
+<string name="checkbox_report_as_spam_action">"କଲ ଟି ସ୍ପାମ ଭାବରେ ରିପୋର୍ଟ କର"</string>
+<string name="block_number_failed_toast">"ଏହି ନମ୍ବରଟି ବ୍ଲକ୍‍ କରିବାରେ ସମସ୍ୟା"</string>
+<string name="unblock_number_failed_toast">"ଏହି ନମ୍ବରଟି ଅନ୍‍ବ୍ଲକ୍‍ କରିବାରେ ସମସ୍ୟା"</string>
+</resources>

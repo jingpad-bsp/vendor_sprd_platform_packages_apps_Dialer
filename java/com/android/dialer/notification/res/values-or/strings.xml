@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="notification_channel_incoming_call">"ଇନକମିଂ କଲ୍‌ ଗୁଡିକ"</string>
+<string name="notification_channel_ongoing_call">"ଚାଲୁଥିବା କଲ"</string>
+<string name="notification_channel_missed_call">"ମିସ୍ଡ କଲ୍ ଗୁଡ଼ିକ"</string>
+<string name="notification_channel_voicemail">"ଭଏସମେଲ ଗୁଡିକ"</string>
+<string name="notification_channel_misc">"ଡିଫଲ୍ଟ"</string>
+</resources>

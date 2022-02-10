@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="rtt_promotion_title">"କଲ୍‍ ବିନା ରିୟଲ୍‍-ଟାଇମ ଟେକ୍‍ସ୍ଟ ବାର୍ତ୍ତା"</string>
+<string name="rtt_promotion_details">"RTT ବଧିର, ଶୁଣିବାରେ କଷ୍ଟ ହେଉଥିବା, କଥା କହିବାରେ ଅସୁବିଧା ହେଉଥିବା, ବା ଭଏସ୍‍ ଠାରୁ ଅଧିକ ଆବଶ୍ୟକ ହେଉଥିବାଙ୍କୁ ସହାୟତା କରେ | RTT ମେସେଜିଂ ପ୍ରତିଲିପିଗୁଡ଼ିକ ଆପଣଙ୍କ ଡିଭାଇସ୍‍ର କଲ୍‍ ଇତିହାସରେ ସଂରକ୍ଷିତ ହୋ‍ଇଛି | <xliff:g exmaple="Learn More">%1$s</xliff:g>"</string>
+<string name="duo_disclosure_title">"Duo ସହିତ ଭିଡିଓ କଲ୍‍ କରନ୍ତୁ"</string>
+<string name="duo_disclosure_details">"Google Duo ଭିଡିଓ କଲିଂ ଆପଣଙ୍କ ବଧୁବାଧବ ଓ ପରିବାର ସହିତ ମୁହାଁମୁହିଁ ଚାଟ୍‍ କରିବାକୁ ଦିଏ | ଡାଟା ଦେୟ ପ୍ରଯୋଜ୍ୟ ହୋ‍ଇପାରେ |  <xliff:g example="Learn More">%1$s</xliff:g> "</string>
+</resources>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="type_incoming">"ଇନକମିଂ କଲ୍‌"</string>
+<string name="type_incoming_pulled">"ଆସୁଥିବା କଲ ଗୁଡିକୁ ଅନ୍ୟ ଏକ ଉପକରଣ କୁ ଟ୍ରାନ୍ସଫର କରା ଯାଇଛି"</string>
+<string name="type_outgoing">"ଆଉଟଗୋ‌ଇଂ କଲ୍‌"</string>
+<string name="type_outgoing_pulled">"ଯାଉଥିବା କଲ ଗୁଡିକୁ ଅନ୍ୟ ଏକ ଉପକରଣ କୁ ଟ୍ରାନ୍ସଫର କରା ଯାଇଛି"</string>
+<string name="type_missed">"ମିସ୍‌ଡ୍‌ କଲ୍‌"</string>
+<string name="type_incoming_video">"ଇନକମିଂ ଭିଡ଼ିଓ କଲ୍‌"</string>
+<string name="type_incoming_video_pulled">"ଆସୁଥିବା ଭିଡିଓ କଲ ଗୁଡିକୁ ଅନ୍ୟ ଏକ ଉପକରଣ କୁ ଟ୍ରାନ୍ସଫର କରା ଯାଇଛି"</string>
+<string name="type_outgoing_video">"ଆଉଟଗୋ‌ଇଂ ଭିଡ଼ିଓ କଲ୍‌"</string>
+<string name="type_outgoing_video_pulled">"ଯାଉଥିବା ଭିଡିଓ କଲ ଗୁଡିକୁ ଅନ୍ୟ ଏକ ଉପକରଣ କୁ ଟ୍ରାନ୍ସଫର କରା ଯାଇଛି"</string>
+<string name="type_missed_video">"ମିସ୍‌ଡ୍‌ ଭିଡ଼ିଓ କଲ୍‌"</string>
+<string name="type_voicemail">"ଭଏସମେଲ୍‍"</string>
+<string name="type_rejected">"ଅସ୍ୱୀକୃତ କଲ"</string>
+<string name="type_blocked">"ବ୍ଲକ୍ ହୋଇଥିବା କଲ୍"</string>
+<string name="call_details_minutes_abbreviation">"M"</string>
+<string name="call_details_seconds_abbreviation">"S"</string>
+<string name="a11y_call_duration_format">" <xliff:g id="minutes">%1$d</xliff:g> <xliff:g id="minutes_translation">%2$s</xliff:g> <xliff:g id="seconds">%3$d</xliff:g> <xliff:g id="seconds_translation">%4$s</xliff:g> "</string>
+<string name="a11y_call_duration_short_format">" <xliff:g id="seconds">%1$d</xliff:g> <xliff:g id="seconds_translation">%2$s</xliff:g> "</string>
+<string name="call_duration_format_pattern">" <xliff:g id="minutes_special_character">%1$s</xliff:g>\'<xliff:g id="minutes_translation">%2$s</xliff:g>\' <xliff:g id="seconds_special_character">%3$s</xliff:g>\'<xliff:g id="seconds_translation">%4$s</xliff:g>\' "</string>
+<string name="call_duration_short_format_pattern">" <xliff:g id="seconds_special_character">%1$s</xliff:g>\'<xliff:g id="seconds_translation">%2$s</xliff:g>\' "</string>
+<plurals name="a11y_seconds">
+<item quantity="one">"ଦ୍ୱିତୀୟ"</item>
+<item quantity="other">"ସେକେଣ୍ଡ"</item>
+</plurals>
+<plurals name="a11y_minutes">
+<item quantity="one">"ମିନିଟ"</item>
+<item quantity="other">"ମିନିଟ୍‍"</item>
+</plurals>
+<string name="type_answered_elsewhere">"ଅନ୍ୟ ଏକ ଉପକରଣ ରେ କଲ୍‍ ର ଉତ୍ତର ଦିଆଯାଇଛି"</string>
+<string name="description_phone_account">"<xliff:g example="SIM 1" id="phoneAccount">^1</xliff:g> ରେ"</string>
+<string name="description_via_number">"<xliff:g example="(555) 555-5555" id="number">%1$s</xliff:g> ଦ୍ୱାରା"</string>
+<string name="description_via_number_phone_account">"<xliff:g example="SIM 1" id="phoneAccount">%1$s</xliff:g>, ଦ୍ୱାରା <xliff:g example="(555) 555-5555" id="number">%2$s</xliff:g> ରେ"</string>
+<string name="voicemail_string">"ଭଏସମେଲ୍‍"</string>
+<string name="just_now">"ଏଇ ସଙ୍ଗେ ସଙ୍ଗେ"</string>
+<string name="new_call_log_carrier_video">"କ୍ୟାରିୟର ଭିଡିଓ"</string>
+<string name="new_call_log_duo_video">"Duo ଭିଡିଓ"</string>
+<string name="new_call_log_unknown">"ଅଜଣା"</string>
+<string name="new_call_log_secondary_blocked">"ଅବରୋଧିତ"</string>
+<string name="new_call_log_secondary_spam">"ସ୍ପାମ"</string>
+<plurals name="a11y_new_call_log_entry_missed_call">
+<item quantity="one">"<xliff:g example="1" id="count">^1</xliff:g> ମିସ୍‍ଡ କଲ୍‍ଟି <xliff:g example="Jane Smith" id="primaryInfoForEntry">^2</xliff:g> ଠାରୁ ଆସିଛି"</item>
+<item quantity="other">"<xliff:g example="2" id="count">^1</xliff:g> କଲ୍‍ଗୁଡ଼ିକ,ଶେଷ କଲ୍‍ଟି <xliff:g example="Jane Smith" id="primaryInfoForEntry">^2</xliff:g> ଠାରୁ ଏକ ମିସ୍‍ଡ କଲ୍‍"</item>
+</plurals>
+<plurals name="a11y_new_call_log_entry_answered_call">
+<item quantity="one">"<xliff:g example="Jane Smith" id="primaryInfoForEntry">^2</xliff:g> ଠାରୁ <xliff:g example="1" id="count">^1</xliff:g> କଲ୍‍ ଉତ୍ତର ଦେଇଛନ୍ତି"</item>
+<item quantity="other">"<xliff:g example="2" id="count">^1</xliff:g> କଲ୍‍ଗୁଡ଼ିକ,ସର୍ବଶେଷ କଲ୍‍ଟି <xliff:g example="Jane Smith" id="primaryInfoForEntry">^2</xliff:g> ଠାରୁ ଉତ୍ତର ଦିଆଯାଇଥିବା କ‌ଲ୍‍"</item>
+</plurals>
+<plurals name="a11y_new_call_log_entry_outgoing_call">
+<item quantity="one">"<xliff:g example="1" id="count">^1</xliff:g> ଆଉଟ୍‌ଗୋ‍ଇଂ କଲ୍‍ <xliff:g example="Jane Smith" id="primaryInfoForEntry">^2</xliff:g> କୁ "</item>
+<item quantity="other">"<xliff:g example="2" id="count">^1</xliff:g> କଲ୍‍ଗୁଡ଼ିକ,ସର୍ବଶେଷ ଆଉଟ୍‌ଗୋ‍ଇଂ କଲ୍‍ <xliff:g example="Jane Smith" id="primaryInfoForEntry">^2</xliff:g> କୁ"</item>
+</plurals>
+<plurals name="a11y_new_call_log_entry_blocked_call">
+<item quantity="one">"<xliff:g example="1" id="count">^1</xliff:g> ବ୍ଲକ୍‍ ହୋ‍ଇଥିବା କଲ୍‍ଗୁଡ଼ିକ <xliff:g example="Jane Smith" id="primaryInfoForEntry">^2</xliff:g> ଠାରୁ"</item>
+<item quantity="other">"<xliff:g example="2" id="count">^1</xliff:g> କଲ୍‍ଗୁଡ଼ିକ, ସର୍ବଶେ୍ଷଟି <xliff:g example="Jane Smith" id="primaryInfoForEntry">^2</xliff:g> ହୋ‍ଇଥିବା ଏକ ବ୍ଲକ୍‍ କଲ୍‍"</item>
+</plurals>
+<string name="a11y_new_call_log_entry_phone_account">" <xliff:g example="SIM 1" id="phoneAccount">^1</xliff:g>ଉପରେ,  <xliff:g example="(555) 555-5555" id="number">^2</xliff:g> ମାଧ୍ୟମରେ "</string>
+<string name="a11y_new_call_log_entry_full_description_without_phone_account_info">" <xliff:g example="A missed call from Jane Smith" id="primaryDescriptionForEntry">^1</xliff:g>, <xliff:g example="mobile, 30 minutes ago" id="secondaryDescriptionForEntry">^2</xliff:g>. "</string>
+<string name="a11y_new_call_log_entry_full_description_with_phone_account_info">" <xliff:g example="A missed call from Jane Smith" id="primaryDescriptionForEntry">^1</xliff:g>, <xliff:g example="mobile, 30 minutes ago" id="secondaryDescriptionForEntry">^2</xliff:g>, <xliff:g example="on SIM 1, via (555) 555-5555">^3</xliff:g>. "</string>
+</resources>

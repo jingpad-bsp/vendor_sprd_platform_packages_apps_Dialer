@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="a11y_new_call_log_entry_voice_call">" <xliff:g example="Jane Smith" id="primaryTextForEntry">^1</xliff:g> କଲ୍‍ କରନ୍ତୁ"</string>
+<string name="a11y_new_call_log_entry_video_call">" <xliff:g example="Jane Smith" id="primaryTextForEntry">^1</xliff:g> କୁ ଭିଡିଓ କଲ୍‍ କରନ୍ତୁ"</string>
+<string name="new_call_log_header_today">"ଆଜି"</string>
+<string name="new_call_log_header_yesterday">"ଗତକାଲି"</string>
+<string name="new_call_log_header_older">"ଅଧିକତର ପୁରୁଣା"</string>
+<string name="new_call_log_permission_no_calllog">"ଆପଣଙ୍କ କଲ ଲଗ ଦେଖିବା ପାଇଁ, ଫୋନ ଅନୁମତି ଅନ୍‍ କରନ୍ତୁ|"</string>
+</resources>

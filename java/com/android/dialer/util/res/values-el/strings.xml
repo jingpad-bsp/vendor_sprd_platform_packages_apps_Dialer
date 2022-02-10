@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="low_battery_warning_title">"Προειδοποίηση χαμηλής μπαταρίας"</string>
+<string name="low_battery_warning_message">"Το επίπεδο της μπαταρίας σας είναι κάτω από 15%. Θέλετε να συνεχίσετε με τη βιντεοκλήση ή να μεταβείτε σε ηχητική κλήση;"</string>
+<string name="low_battery_continue_video_call">"Ναι"</string>
+<string name="low_battery_convert_to_voice_call">"Μετάβαση"</string>
+<string name="call_cannot_be_sent">Αδύνατη η αποστολή της κλήσης</string>
+<string name="activity_not_security">Δεν υπάρχουν δικαιώματα πρόσβασης για αυτήν την εφαρμογή.</string>
+</resources>

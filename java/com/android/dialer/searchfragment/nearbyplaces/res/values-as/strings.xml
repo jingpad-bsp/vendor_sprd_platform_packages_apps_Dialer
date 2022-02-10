@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="nearby_places">"নিয়েৰবাই প্লেছেছ"</string>
+<string name="search_location_permission">"আপোনাৰ ওচৰৰ স্থানবোৰৰ যোগাযোগৰ তথ্য পাবলৈ, আপোনাৰ অৱস্থান প্ৰৱেশৰ অনুমতি দিয়ক।"</string>
+<string name="nearby_places_allow">"অনুমতি দিয়া হওঁক"</string>
+<string name="nearby_places_dismiss">"নাকচ কৰক"</string>
+</resources>

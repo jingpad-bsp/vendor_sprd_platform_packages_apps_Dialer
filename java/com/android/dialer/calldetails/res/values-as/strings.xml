@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_details">"কল বিবৰণ।"</string>
+<string name="delete">"মচি দিয়া"</string>
+<string name="call_details_copy_number">"নম্বৰ কপি কৰক"</string>
+<string name="call_details_edit_number">"কল কৰাৰ আগতে নম্বৰ সম্পাদনা কৰক"</string>
+<string name="call_details_report_call_id">"ভুল নম্বৰ প্ৰতিবেদিত কৰক"</string>
+<string name="sent_a_photo">"চেণ্ড এ ফটো"</string>
+<string name="received_a_photo">"ৰিছিভ এ ফটো"</string>
+<string name="message_in_quotes">"\"<xliff:g id="message">%1$s</xliff:g>\""</string>
+<string name="report_caller_id_dialog_title">"ৰিপৰ্ট এ নম্বৰ"</string>
+<string name="report_caller_id_failed">"কুড ন’ট ৰিপৰ্ট এ নম্বৰ"</string>
+<string name="report_caller_id_toast">"নম্বৰ ৰিপৰ্টেড"</string>
+<string name="assisted_dialing_country_code_entry">"এচিছটেড ডায়েলিং: ব্যৱহৃত দেশৰ কোড +<xliff:g example="1" id="ad_country_code">%1$s</xliff:g>"</string>
+<string name="assisted_dialing_country_code_entry_failure">"এচছটেড ডায়েলিং ব্যৱহাৰ কৰা হৈছিল"</string>
+<string name="rtt_transcript_not_available">"কেৱল মেচেজিঙৰ সৈতে থকা কলবোৰৰ কাৰণেহে অনুলিখন উপলব্ধ"</string>
+<string name="rtt_transcript_link">"অনুলিখন চাওক"</string>
+</resources>
